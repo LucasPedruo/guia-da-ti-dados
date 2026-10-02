@@ -12,7 +12,7 @@ Consulte [CONTRIBUTING.md](CONTRIBUTING.md) e o [guia editorial](docs/editorial.
 
 ## Estrutura
 
-- `data/`: comunidades, cursos, roadmaps, criadores e canais; um JSON por cadastro.
+- `data/`: um JSON por cadastro, organizado nas [32 categorias aceitas](docs/categories.md), entre aprendizado, informação, estudos, conexões, prática e oportunidades.
 - `templates/`: modelos para copiar.
 - `schemas/`: campos obrigatórios e limites.
 - `taxonomy/`: IDs normalizados de áreas, tecnologias, idiomas e categorias.

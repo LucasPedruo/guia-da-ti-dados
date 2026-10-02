@@ -16,11 +16,38 @@ body:
     attributes:
       label: Categoria
       options:
-        - Comunidade
-        - Curso
-        - Roadmap
-        - Criador
-        - Canal do YouTube
+        - Cursos
+        - Plataformas de cursos
+        - Faculdades
+        - Bootcamps
+        - Roadmaps
+        - Livros
+        - Certificações
+        - Portais de notícias
+        - Blogs
+        - Newsletters
+        - Podcasts
+        - YouTube
+        - Criadores
+        - Artigos
+        - Tutoriais
+        - Pesquisas e estudos
+        - Estudos de caso
+        - Relatórios
+        - Comunidades
+        - Eventos
+        - Meetups
+        - Conferências
+        - Hackathons
+        - Ferramentas
+        - Open source
+        - Desafios
+        - Laboratórios
+        - Vagas
+        - Estágios
+        - Bolsas
+        - Mentorias
+        - Voluntariado
     validations:
       required: true
   - type: input
