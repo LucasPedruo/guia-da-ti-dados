@@ -1,0 +1,44 @@
+name: Sugerir um recurso
+description: Sugira um cadastro sem precisar editar JSON.
+title: '[Sugestão] '
+body:
+  - type: markdown
+    attributes:
+      value: Obrigado por contribuir! Uma pessoa revisará a sugestão antes de abrir o cadastro. Enviar este formulário não publica automaticamente no site.
+  - type: input
+    id: name
+    attributes:
+      label: Nome do recurso
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Categoria
+      options:
+        - Comunidade
+        - Curso
+        - Roadmap
+        - Criador
+        - Canal do YouTube
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link oficial HTTPS
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: O que esse recurso oferece?
+      description: Descreva os assuntos, público e idioma. Não inclua dados pessoais privados.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Fontes para conferir as informações
+    validations:
+      required: true
