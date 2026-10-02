@@ -7,7 +7,8 @@
   "url": "https://example.org/criador-exemplo",
   "areas": ["design", "produto"],
   "technologies": ["figma"],
-  "languages": ["pt-BR"],
+  "languages": ["en"],
+  "countries": ["US"],
   "updatedAt": "2026-10-01",
   "demo": true
 }
