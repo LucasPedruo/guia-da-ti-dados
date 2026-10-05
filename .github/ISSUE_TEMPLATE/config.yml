@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Problema no site
-    url: https://github.com/LucasPedruo/guia-da-ti/issues
+    url: https://github.com/guia-da-ti/guia-da-ti/issues
     about: Relate problemas de navegação ou funcionamento na aplicação.
