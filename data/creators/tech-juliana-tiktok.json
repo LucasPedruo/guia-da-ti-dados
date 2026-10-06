@@ -1,0 +1,13 @@
+{
+  "slug": "tech-juliana-tiktok",
+  "type": "creators",
+  "name": "Tech Juliana",
+  "summary": "Frontend, aplicações mobile e apoio à carreira em tecnologia.",
+  "description": "Frontend, aplicações mobile e apoio à carreira em tecnologia. Perfil de Tech Juliana no TikTok.",
+  "url": "https://www.tiktok.com/@techjuliana",
+  "areas": ["frontend", "mobile", "carreira"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06",
+  "creatorCategories": ["career", "projects"]
+}
