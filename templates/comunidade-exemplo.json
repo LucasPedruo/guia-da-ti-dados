@@ -9,5 +9,11 @@
   "technologies": ["react"],
   "languages": ["pt-BR"],
   "updatedAt": "2026-10-01",
-  "demo": true
+  "demo": true,
+  "communityLocation": {
+    "scope": "regional",
+    "states": ["SP", "RJ"]
+  },
+  "communityPlatforms": ["discord"],
+  "communityModality": "online"
 }
