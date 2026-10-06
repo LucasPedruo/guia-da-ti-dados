@@ -1,0 +1,12 @@
+{
+  "slug": "loiane",
+  "type": "creators",
+  "name": "Loiane Groner",
+  "summary": "Java, Angular, testes e materiais de desenvolvimento de software.",
+  "description": "Engenheira de software e autora de materiais sobre Java e Angular. Seu acervo público reúne cursos, projetos com Spring e exemplos de testes. O Instagram está vinculado em seu perfil autoral no GitHub; as aulas completas ficam em seus outros canais.",
+  "url": "https://www.instagram.com/loiane/",
+  "areas": ["frontend", "backend", "educacao", "qa"],
+  "technologies": ["typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "vbluuiza",
+  "type": "creators",
+  "name": "Luiza Vieira — vbluuiza",
+  "summary": "Engenharia de dados, Python e projetos de pipelines.",
+  "description": "Engenheira de dados e criadora de conteúdo educacional. Seus projetos públicos incluem pipelines ETL com Python, Airflow e PostgreSQL, com exemplos destinados ao estudo. O Instagram está vinculado no perfil autoral do GitHub.",
+  "url": "https://www.instagram.com/vbluuiza/",
+  "areas": ["dados", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}

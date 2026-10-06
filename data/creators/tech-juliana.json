@@ -1,0 +1,12 @@
+{
+  "slug": "tech-juliana",
+  "type": "creators",
+  "name": "Tech Juliana",
+  "summary": "Frontend, aplicações mobile e apoio à carreira em tecnologia.",
+  "description": "Desenvolvedora de aplicações web e mobile e mentora de frontend. Seu site reúne projetos, dicas e sua trajetória profissional; a página de carreira apresenta React Native e TypeScript entre as tecnologias de atuação.",
+  "url": "https://www.instagram.com/tech.juliana/",
+  "areas": ["frontend", "mobile", "carreira"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}

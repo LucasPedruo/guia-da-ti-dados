@@ -1,0 +1,12 @@
+{
+  "slug": "rafaballerini",
+  "type": "creators",
+  "name": "Rafaella Ballerini",
+  "summary": "Programação, primeiros projetos e experiências de aprendizado.",
+  "description": "Criadora de conteúdo de programação e tecnologia. Seu acervo inclui projetos de HTML e CSS, um tutorial de Git e exemplos de React. O perfil pessoal complementa esses materiais com experiências de aprendizado e cotidiano.",
+  "url": "https://www.instagram.com/rafaballerini/",
+  "areas": ["frontend", "educacao", "carreira"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}

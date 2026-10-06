@@ -1,0 +1,12 @@
+{
+  "slug": "horadecodar",
+  "type": "creators",
+  "name": "Hora de Codar",
+  "summary": "Programação web, automação e ferramentas de inteligência artificial.",
+  "description": "Perfil do projeto Hora de Codar. O site vincula o Instagram e reúne tutoriais, materiais e formações de frontend, desenvolvimento fullstack, automação e agentes de IA. Há conteúdo público e ofertas comerciais.",
+  "url": "https://www.instagram.com/horadecodar/",
+  "areas": ["frontend", "backend", "ia", "educacao"],
+  "technologies": ["react"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}

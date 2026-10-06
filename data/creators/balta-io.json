@@ -1,0 +1,12 @@
+{
+  "slug": "balta-io",
+  "type": "creators",
+  "name": "André Baltieri — balta.io",
+  "summary": "C#, .NET, APIs e arquitetura de software.",
+  "description": "Perfil do projeto educacional balta.io, cujo conteúdo é produzido por André Baltieri. Aborda desde fundamentos de C# até APIs, testes, arquitetura e publicação de aplicações .NET. O site reúne cursos gratuitos e uma formação paga.",
+  "url": "https://www.instagram.com/balta.io/",
+  "areas": ["backend", "educacao", "devops"],
+  "technologies": ["csharp", "dotnet"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-06"
+}
