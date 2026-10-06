@@ -8,5 +8,6 @@
   "areas": ["dados", "educacao"],
   "technologies": ["python"],
   "languages": ["pt-BR"],
-  "updatedAt": "2026-10-06"
+  "updatedAt": "2026-10-06",
+  "creatorCategories": ["education", "projects"]
 }

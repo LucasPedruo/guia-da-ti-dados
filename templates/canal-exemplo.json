@@ -9,5 +9,6 @@
   "technologies": ["linux"],
   "languages": ["pt-BR"],
   "updatedAt": "2026-10-01",
-  "demo": true
+  "demo": true,
+  "creatorCategories": ["education"]
 }

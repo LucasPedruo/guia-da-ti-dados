@@ -10,5 +10,6 @@
   "languages": ["en"],
   "countries": ["US"],
   "updatedAt": "2026-10-01",
-  "demo": true
+  "demo": true,
+  "creatorCategories": ["education"]
 }

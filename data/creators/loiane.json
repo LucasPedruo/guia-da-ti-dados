@@ -8,5 +8,6 @@
   "areas": ["frontend", "backend", "educacao", "qa"],
   "technologies": ["typescript"],
   "languages": ["pt-BR"],
-  "updatedAt": "2026-10-06"
+  "updatedAt": "2026-10-06",
+  "creatorCategories": ["education"]
 }
