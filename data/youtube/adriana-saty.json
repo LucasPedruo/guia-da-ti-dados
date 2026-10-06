@@ -1,0 +1,13 @@
+{
+  "slug": "adriana-saty",
+  "type": "youtube",
+  "name": "Adriana Saty",
+  "summary": "Aprendizado de programação, portfólio e entrada no mercado de TI.",
+  "description": "Adriana Saty compartilha experiências de mudança de área e orientação para quem procura trabalho em tecnologia. O acervo também inclui um tutorial de portfólio com React e TypeScript, da criação à publicação.",
+  "url": "https://www.youtube.com/@AdrianaSaty",
+  "areas": ["frontend", "carreira", "educacao"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career", "projects"],
+  "updatedAt": "2026-10-06"
+}

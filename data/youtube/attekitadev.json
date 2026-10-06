@@ -1,0 +1,13 @@
+{
+  "slug": "attekitadev",
+  "type": "youtube",
+  "name": "Attekita Dev",
+  "summary": "Desenvolvimento de aplicativos, primeiros passos e carreira em tecnologia.",
+  "description": "Karol Attekita reúne conteúdo de programação, desenvolvimento iOS e carreira. O canal possui playlists introdutórias, roadmaps e conversas sobre trabalho como freelancer, complementando sua atuação no desenvolvimento de aplicativos e jogos.",
+  "url": "https://www.youtube.com/@attekitadev",
+  "areas": ["mobile", "carreira", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career"],
+  "updatedAt": "2026-10-06"
+}

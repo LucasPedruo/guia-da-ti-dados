@@ -1,0 +1,13 @@
+{
+  "slug": "boson-treinamentos",
+  "type": "youtube",
+  "name": "Bóson Treinamentos",
+  "summary": "Programação, Linux, redes, bancos de dados e fundamentos de infraestrutura.",
+  "description": "Fábio dos Reis e a Bóson Treinamentos publicam cursos em vídeo de tecnologia. O acervo abrange lógica de programação, bancos de dados, redes, hardware, Linux e segurança, com materiais de apoio no site do projeto.",
+  "url": "https://www.youtube.com/@bosontreinamentos",
+  "areas": ["geral", "redes", "hardware", "devops", "cybersecurity", "dados"],
+  "technologies": ["linux", "python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education"],
+  "updatedAt": "2026-10-06"
+}

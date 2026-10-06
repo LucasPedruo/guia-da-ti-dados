@@ -1,0 +1,13 @@
+{
+  "slug": "hashtag-programacao",
+  "type": "youtube",
+  "name": "Hashtag Programação",
+  "summary": "Python, desenvolvimento web, SQL e ciência de dados.",
+  "description": "Canal da Hashtag dedicado à programação com tutoriais e cursos de Python, JavaScript, HTML, CSS, SQL e ciência de dados. A proposta é apresentar aplicações práticas dos conteúdos; o projeto também oferece formações comerciais.",
+  "url": "https://www.youtube.com/@HashtagProgramacao",
+  "areas": ["frontend", "backend", "dados", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

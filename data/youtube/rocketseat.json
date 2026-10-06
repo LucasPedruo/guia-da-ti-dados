@@ -1,0 +1,13 @@
+{
+  "slug": "rocketseat",
+  "type": "youtube",
+  "name": "Rocketseat",
+  "summary": "Programação, inteligência artificial e evolução na carreira de desenvolvimento.",
+  "description": "Canal do projeto educacional Rocketseat com conteúdo prático de desenvolvimento de software. Aborda tecnologias de frontend e backend, inteligência artificial e etapas da carreira, com aulas, transmissões e conversas no FalaDev.",
+  "url": "https://www.youtube.com/@rocketseat",
+  "areas": ["frontend", "backend", "ia", "carreira"],
+  "technologies": ["react", "python", "csharp"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career"],
+  "updatedAt": "2026-10-06"
+}

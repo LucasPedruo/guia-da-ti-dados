@@ -1,0 +1,13 @@
+{
+  "slug": "linuxtips",
+  "type": "youtube",
+  "name": "LINUXtips",
+  "summary": "Linux, containers, Kubernetes e automação de infraestrutura.",
+  "description": "Canal da LINUXtips com dicas e tutoriais de Linux, DevOps, Docker, Kubernetes e automação. O acervo público complementa os treinamentos do projeto e inclui transmissões e demonstrações práticas.",
+  "url": "https://www.youtube.com/@LinuxTips",
+  "areas": ["devops", "cloud", "redes"],
+  "technologies": ["linux"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

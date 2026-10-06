@@ -1,0 +1,13 @@
+{
+  "slug": "curso-em-video",
+  "type": "youtube",
+  "name": "Curso em Vídeo",
+  "summary": "Lógica de programação e cursos introdutórios para começar em tecnologia.",
+  "description": "Canal do professor Gustavo Guanabara com aulas de algoritmos, Python, desenvolvimento web, Git e outras bases da programação. O acervo inclui cursos organizados em playlists e exercícios para iniciantes.",
+  "url": "https://www.youtube.com/@cursoemvideo",
+  "areas": ["geral", "educacao", "frontend", "backend"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education"],
+  "updatedAt": "2026-10-06"
+}

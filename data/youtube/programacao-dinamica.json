@@ -1,0 +1,13 @@
+{
+  "slug": "programacao-dinamica",
+  "type": "youtube",
+  "name": "Programação Dinâmica",
+  "summary": "Programação, ciência de dados, machine learning e impactos da tecnologia.",
+  "description": "Kizzy Terra e Hallison Paz produzem conteúdo educacional de programação, ciência de dados e inteligência artificial. O canal também promove discussões sobre novas tecnologias e seus efeitos na sociedade.",
+  "url": "https://www.youtube.com/@pgdinamica",
+  "areas": ["dados", "ia", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "reviews"],
+  "updatedAt": "2026-10-06"
+}

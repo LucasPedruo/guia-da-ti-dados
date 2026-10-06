@@ -1,0 +1,13 @@
+{
+  "slug": "otavio-miranda",
+  "type": "youtube",
+  "name": "Otávio Miranda",
+  "summary": "Programação, arquitetura, Python, DevOps e inteligência artificial.",
+  "description": "Otávio Miranda publica conteúdo de programação e arquitetura de software. O canal reúne playlists de Python, desenvolvimento web, SQL, ferramentas de DevOps e aplicações de inteligência artificial.",
+  "url": "https://www.youtube.com/@otaviomiranda",
+  "areas": ["backend", "frontend", "devops", "ia"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education"],
+  "updatedAt": "2026-10-06"
+}

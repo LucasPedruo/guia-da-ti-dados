@@ -1,0 +1,13 @@
+{
+  "slug": "dunossauro",
+  "type": "youtube",
+  "name": "Eduardo Mendes — Dunossauro",
+  "summary": "Python e desenvolvimento de software com aulas e programação ao vivo.",
+  "description": "Eduardo Mendes apresenta conteúdo de Python e desenvolvimento de software. Seu canal reúne cursos, transmissões e construção de projetos, incluindo programação compartilhada na série Coda Comigo.",
+  "url": "https://www.youtube.com/@Dunossauro",
+  "areas": ["backend", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

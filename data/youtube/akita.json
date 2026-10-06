@@ -1,0 +1,13 @@
+{
+  "slug": "akita",
+  "type": "youtube",
+  "name": "Fabio Akita — Akitando",
+  "summary": "Fundamentos de computação e análises sobre desenvolvimento e tecnologia.",
+  "description": "Fabio Akita apresenta discussões de computação, aprendizado e novas tecnologias. O projeto Akitando tem transcrições e materiais relacionados no blog AkitaOnRails, com temas de engenharia de software, inteligência artificial e carreira.",
+  "url": "https://www.youtube.com/@Akitando",
+  "areas": ["geral", "backend", "ia", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "reviews"],
+  "updatedAt": "2026-10-06"
+}

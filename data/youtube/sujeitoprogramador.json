@@ -1,0 +1,13 @@
+{
+  "slug": "sujeitoprogramador",
+  "type": "youtube",
+  "name": "Sujeito Programador",
+  "summary": "Tutoriais e projetos de desenvolvimento web.",
+  "description": "Canal vinculado ao projeto Sujeito Programador. Seu acervo autoral inclui tutoriais de programação, construção de aplicações e uso de ferramentas para desenvolver projetos; o site reúne materiais gratuitos e cursos comerciais.",
+  "url": "https://www.youtube.com/@Sujeitoprogramador",
+  "areas": ["frontend", "backend", "educacao"],
+  "technologies": ["react"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

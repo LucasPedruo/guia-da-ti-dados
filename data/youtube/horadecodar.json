@@ -1,0 +1,13 @@
+{
+  "slug": "horadecodar",
+  "type": "youtube",
+  "name": "Matheus Battisti — Hora de Codar",
+  "summary": "Programação web, automação e ferramentas de inteligência artificial.",
+  "description": "Canal de Matheus Battisti associado ao projeto Hora de Codar. Oferece tutoriais e materiais sobre desenvolvimento web e ferramentas, com um site próprio para consulta a artigos e formações.",
+  "url": "https://www.youtube.com/@MatheusBattisti",
+  "areas": ["frontend", "backend", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

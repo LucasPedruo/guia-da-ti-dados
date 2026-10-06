@@ -1,0 +1,13 @@
+{
+  "slug": "kipper-dev",
+  "type": "youtube",
+  "name": "Fernanda Kipper",
+  "summary": "Programação, projetos e dicas de carreira em tecnologia.",
+  "description": "Fernanda Kipper publica conteúdo de tecnologia e programação e compartilha dicas de carreira. Seus projetos públicos abrangem desenvolvimento web, Java, cloud e experimentos com inteligência artificial; o canal também usa humor em sua apresentação.",
+  "url": "https://www.youtube.com/@kipperdev",
+  "areas": ["frontend", "backend", "carreira", "cloud", "ia"],
+  "technologies": ["typescript"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career", "humor", "projects"],
+  "updatedAt": "2026-10-06"
+}

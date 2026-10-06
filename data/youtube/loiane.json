@@ -1,0 +1,13 @@
+{
+  "slug": "loiane",
+  "type": "youtube",
+  "name": "Loiane Groner",
+  "summary": "Java, Angular, Spring e desenvolvimento de aplicações.",
+  "description": "Loiane Groner publica conteúdo de desenvolvimento de software com foco em Java, Angular, Spring, cloud e inteligência artificial. Seu site e seus repositórios oferecem materiais de apoio ao acervo do canal.",
+  "url": "https://www.youtube.com/@loianegroner",
+  "areas": ["frontend", "backend", "cloud", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

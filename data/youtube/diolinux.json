@@ -1,0 +1,13 @@
+{
+  "slug": "diolinux",
+  "type": "youtube",
+  "name": "Diolinux",
+  "summary": "Linux, software livre, sistemas operacionais e ferramentas de tecnologia.",
+  "description": "Projeto de conteúdo sobre Linux e Open Source que também aborda outros sistemas e aplicativos. O canal reúne cursos e dicas de Linux, servidores e containers, além de análises de ferramentas e temas de tecnologia.",
+  "url": "https://www.youtube.com/@Diolinux",
+  "areas": ["devops", "geral", "redes"],
+  "technologies": ["linux"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "reviews"],
+  "updatedAt": "2026-10-06"
+}

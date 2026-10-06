@@ -1,0 +1,13 @@
+{
+  "slug": "codigofonte-tv",
+  "type": "youtube",
+  "name": "Código Fonte TV",
+  "summary": "Conceitos de programação e conversas sobre o trabalho em tecnologia.",
+  "description": "Gabriel Fróes e Vanessa Weber apresentam temas de programação de forma didática e comentam o mundo do desenvolvimento de software. O projeto também mantém o Compilado Podcast, voltado a notícias e opiniões sobre tecnologia.",
+  "url": "https://www.youtube.com/@codigofontetv",
+  "areas": ["geral", "carreira", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "reviews"],
+  "updatedAt": "2026-10-06"
+}

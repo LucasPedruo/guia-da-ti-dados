@@ -1,0 +1,13 @@
+{
+  "slug": "teomewhy",
+  "type": "youtube",
+  "name": "Téo Me Why",
+  "summary": "Python, SQL, estatística e aprendizado de máquina.",
+  "description": "Projeto de Téo Calvo para democratizar a educação em dados. O canal reúne aulas e transmissões sobre Python, SQL, estatística e machine learning, associado a materiais e projetos públicos para estudo.",
+  "url": "https://www.youtube.com/@teomewhy",
+  "areas": ["dados", "ia", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

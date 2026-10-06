@@ -1,0 +1,13 @@
+{
+  "slug": "devlucaspedro",
+  "type": "youtube",
+  "name": "Lucas Pedro",
+  "summary": "Programação, inteligência artificial e caminhos para conquistar trabalho.",
+  "description": "Canal de Lucas Pedro, que se apresenta como engenheiro de software, designer de interfaces e instrutor. Os vídeos públicos abordam mudanças na programação com inteligência artificial e como conseguir emprego ou clientes como programador.",
+  "url": "https://www.youtube.com/@devlucaspedro",
+  "areas": ["geral", "ia", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["career", "reviews"],
+  "updatedAt": "2026-10-06"
+}

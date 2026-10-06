@@ -1,0 +1,13 @@
+{
+  "slug": "rafaballerini",
+  "type": "youtube",
+  "name": "Rafaella Ballerini",
+  "summary": "Programação, automação e projetos para praticar desenvolvimento.",
+  "description": "Canal de Rafaella Ballerini, criadora de conteúdo de programação e tecnologia. O acervo público inclui tutoriais, projetos e automações, com materiais de apoio disponíveis em seus repositórios no GitHub.",
+  "url": "https://www.youtube.com/@rafaellaballerini",
+  "areas": ["frontend", "educacao", "ia"],
+  "technologies": ["react"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "lucasmontano",
+  "type": "youtube",
+  "name": "Lucas Montano",
+  "summary": "Reflexões sobre programação, inteligência artificial e trabalho como desenvolvedor.",
+  "description": "Lucas Montano compartilha análises de tecnologia e desenvolvimento e apresenta projetos próprios. O canal possui vídeos públicos e conteúdos exclusivos para membros, incluindo aulas de algoritmos e estruturas de dados.",
+  "url": "https://www.youtube.com/@LucasMontano",
+  "areas": ["geral", "ia", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "reviews", "projects"],
+  "updatedAt": "2026-10-06"
+}

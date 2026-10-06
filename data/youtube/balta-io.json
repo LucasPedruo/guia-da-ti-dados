@@ -1,0 +1,13 @@
+{
+  "slug": "balta-io",
+  "type": "youtube",
+  "name": "balta.io — André Baltieri",
+  "summary": "C#, .NET, boas práticas e arquitetura de software.",
+  "description": "Canal de André Baltieri com aulas e dicas de C# e .NET, fundamentos, arquitetura e carreira. O conteúdo público complementa o catálogo de formações do balta.io.",
+  "url": "https://www.youtube.com/@baltaio",
+  "areas": ["backend", "carreira", "educacao"],
+  "technologies": ["csharp", "dotnet"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career"],
+  "updatedAt": "2026-10-06"
+}

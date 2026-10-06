@@ -1,0 +1,13 @@
+{
+  "slug": "devsoutinho",
+  "type": "youtube",
+  "name": "Mario Souto — Dev Soutinho",
+  "summary": "Desenvolvimento de software, projetos práticos e problemas do dia a dia.",
+  "description": "Mario Souto compartilha conhecimentos e pesquisas de programação, procurando explicar soluções para problemas do desenvolvimento. Seus repositórios autorais incluem materiais de aulas, projetos e transmissões de programação.",
+  "url": "https://www.youtube.com/@DevSoutinho",
+  "areas": ["frontend", "backend", "educacao"],
+  "technologies": ["typescript"],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "projects"],
+  "updatedAt": "2026-10-06"
+}

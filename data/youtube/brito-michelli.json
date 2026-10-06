@@ -1,0 +1,13 @@
+{
+  "slug": "brito-michelli",
+  "type": "youtube",
+  "name": "Michelli Brito",
+  "summary": "Java, Spring, microsserviços e carreira em TI.",
+  "description": "Canal de Michelli Brito com conteúdos de programação e arquitetura de software, especialmente Java e o ecossistema Spring. Também aborda carreira em tecnologia e experiências do trabalho com microsserviços.",
+  "url": "https://www.youtube.com/@MichelliBrito",
+  "areas": ["backend", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "creatorCategories": ["education", "career"],
+  "updatedAt": "2026-10-06"
+}
