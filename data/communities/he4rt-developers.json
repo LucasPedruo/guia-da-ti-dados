@@ -1,0 +1,32 @@
+{
+  "slug": "he4rt-developers",
+  "type": "communities",
+  "name": "He4rt Developers",
+  "summary": "Comunidade brasileira de programação, mentorias e projetos colaborativos.",
+  "description": "Comunidade organizada no Discord que promove troca de conhecimento entre pessoas que estudam ou trabalham com desenvolvimento. Seus projetos públicos incluem o 4noobs, materiais educacionais e iniciativas de colaboração. LinkedIn e GitHub são canais públicos da organização.",
+  "url": "https://discord.gg/he4rt",
+  "areas": ["geral", "educacao", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "hybrid",
+  "communityPlatforms": ["discord", "linkedin", "github"],
+  "communityLinks": [
+    {
+      "platform": "discord",
+      "url": "https://discord.gg/he4rt"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/he4rt/"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/he4rt"
+    }
+  ]
+}

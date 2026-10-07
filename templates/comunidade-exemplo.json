@@ -15,5 +15,12 @@
     "states": ["SP", "RJ"]
   },
   "communityPlatforms": ["discord"],
-  "communityModality": "online"
+  "communityModality": "online",
+  "communityAudience": "general",
+  "communityLinks": [
+    {
+      "platform": "discord",
+      "url": "https://example.org/discord-comunidade"
+    }
+  ]
 }

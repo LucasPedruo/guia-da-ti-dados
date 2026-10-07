@@ -1,0 +1,28 @@
+{
+  "slug": "tech-lgbt",
+  "type": "communities",
+  "name": "tech.lgbt",
+  "summary": "Comunidade internacional LGBT+ de pessoas interessadas em tecnologia.",
+  "description": "Instância do Mastodon voltada à comunidade LGBT+ interessada em tecnologia. As conversas acontecem no próprio site, com regras e moderação publicadas pela comunidade. Confira a disponibilidade e as condições de criação de conta antes de participar.",
+  "url": "https://tech.lgbt/",
+  "areas": ["geral", "networking"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "lgbt",
+  "communityLocation": {
+    "scope": "international"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["website", "other"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://tech.lgbt/"
+    },
+    {
+      "platform": "other",
+      "url": "https://tech.lgbt/"
+    }
+  ]
+}

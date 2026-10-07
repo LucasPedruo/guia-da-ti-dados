@@ -1,0 +1,37 @@
+{
+  "slug": "phpsp",
+  "type": "communities",
+  "name": "PHPSP",
+  "summary": "Comunidade de pessoas que desenvolvem com PHP no estado de São Paulo.",
+  "description": "Grupo regional de desenvolvimento PHP que organiza encontros e mantém espaços de conversa online. Seu site apresenta canais no Telegram e Slack, além dos perfis públicos da organização. Os convites e as condições de entrada são mantidos pela própria comunidade.",
+  "url": "https://phpsp.org.br/",
+  "areas": ["backend", "networking", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "regional",
+    "states": ["SP"]
+  },
+  "communityModality": "hybrid",
+  "communityPlatforms": ["website", "telegram", "slack", "linkedin"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://phpsp.org.br/"
+    },
+    {
+      "platform": "telegram",
+      "url": "https://t.me/phpsp"
+    },
+    {
+      "platform": "slack",
+      "url": "https://bit.ly/vem-pro-slack-phpsp"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/phpsp---php-user-group-in-s-o-paulo/"
+    }
+  ]
+}

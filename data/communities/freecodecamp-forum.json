@@ -1,0 +1,28 @@
+{
+  "slug": "freecodecamp-forum",
+  "type": "communities",
+  "name": "freeCodeCamp Forum",
+  "summary": "Fórum internacional para dúvidas e troca de conhecimento em programação.",
+  "description": "Fórum público da comunidade freeCodeCamp, organizado por temas de programação e aprendizado. Pessoas de diferentes países podem compartilhar dúvidas, discutir projetos e colaborar. A leitura é pública; a participação depende do cadastro e das regras do fórum.",
+  "url": "https://forum.freecodecamp.org/",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "international"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["website", "discourse"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://forum.freecodecamp.org/"
+    },
+    {
+      "platform": "discourse",
+      "url": "https://forum.freecodecamp.org/"
+    }
+  ]
+}

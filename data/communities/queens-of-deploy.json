@@ -1,0 +1,28 @@
+{
+  "slug": "queens-of-deploy",
+  "type": "communities",
+  "name": "Queens of Deploy — FullDev",
+  "summary": "Espaço feminino da FullDev para conexões e troca de experiências em tecnologia.",
+  "description": "Grupo apresentado pelo site da FullDev como um espaço para mulheres na comunidade de tecnologia. A entrada segue as regras e a confirmação de acesso exibidas pelo próprio site. O grupo reúne participantes de todo o Brasil.",
+  "url": "https://chat.whatsapp.com/KOKFfsXGD1PBVWvAXXNbc",
+  "areas": ["geral", "networking", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "female",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["whatsapp", "website"],
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://chat.whatsapp.com/KOKFfsXGD1PBVWvAXXNbc"
+    },
+    {
+      "platform": "website",
+      "url": "https://fulldev.com.br/"
+    }
+  ]
+}

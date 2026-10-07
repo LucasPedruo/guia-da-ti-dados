@@ -1,0 +1,28 @@
+{
+  "slug": "frontend-brasil",
+  "type": "communities",
+  "name": "Front-end Brasil",
+  "summary": "Discussões sobre desenvolvimento frontend em português.",
+  "description": "Comunidade brasileira com fórum no GitHub Discussions para dúvidas, debates e compartilhamento de experiências sobre frontend. O repositório oficial também aponta para seu espaço no Slack. As conversas acontecem nas plataformas da comunidade.",
+  "url": "https://github.com/frontendbr/forum/discussions",
+  "areas": ["frontend", "educacao", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["github", "slack"],
+  "communityLinks": [
+    {
+      "platform": "github",
+      "url": "https://github.com/frontendbr/forum/discussions"
+    },
+    {
+      "platform": "slack",
+      "url": "https://frontendbrasil.slack.com/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "fulldev",
+  "type": "communities",
+  "name": "FullDev",
+  "summary": "Comunidade de tecnologia para pessoas de todo o Brasil.",
+  "description": "Comunidade para trocar experiências, aprender programação, compartilhar projetos e fazer networking. Seus espaços incluem WhatsApp, Discord, LinkedIn e o site próprio. O site também apresenta grupos específicos como Queens of Deploy e RainbowStack.",
+  "url": "https://fulldev.com.br/",
+  "areas": ["geral", "networking", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["whatsapp", "discord", "linkedin", "website"],
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://chat.whatsapp.com/GtlHPlfmXlp27vPZVBej19"
+    },
+    {
+      "platform": "discord",
+      "url": "https://discord.com/invite/2vMkX7kc8t"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/comunidadefulldev/posts/?feedView=all"
+    },
+    {
+      "platform": "website",
+      "url": "https://fulldev.com.br/"
+    }
+  ],
+  "communityMembers": {
+    "count": 4000,
+    "moreThan": true,
+    "checkedAt": "2026-10-07"
+  }
+}

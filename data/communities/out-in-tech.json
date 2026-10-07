@@ -1,0 +1,28 @@
+{
+  "slug": "out-in-tech",
+  "type": "communities",
+  "name": "Out in Tech",
+  "summary": "Rede internacional LGBT+ de profissionais de tecnologia.",
+  "description": "Organização que conecta pessoas LGBT+ na tecnologia por meio de eventos, voluntariado e desenvolvimento profissional. O site oficial orienta o cadastro na comunidade e apresenta suas iniciativas. O LinkedIn é um canal público para acompanhar a organização.",
+  "url": "https://outintech.com/join/",
+  "areas": ["carreira", "networking", "eventos"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "lgbt",
+  "communityLocation": {
+    "scope": "international"
+  },
+  "communityModality": "hybrid",
+  "communityPlatforms": ["website", "linkedin"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://outintech.com/join/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/outintech/"
+    }
+  ]
+}

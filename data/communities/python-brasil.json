@@ -1,0 +1,24 @@
+{
+  "slug": "python-brasil",
+  "type": "communities",
+  "name": "Python Brasil",
+  "summary": "Grupo de conversa da comunidade Python em português.",
+  "description": "Grupo de conversa da comunidade Python em português. O grupo é apresentado no diretório oficial de grupos online da Python Brasil. Cada grupo tem organização independente e regras próprias de participação.",
+  "url": "https://t.me/pythonbr",
+  "areas": ["backend", "educacao", "networking"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["telegram"],
+  "communityLinks": [
+    {
+      "platform": "telegram",
+      "url": "https://t.me/pythonbr"
+    }
+  ]
+}

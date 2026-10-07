@@ -1,0 +1,24 @@
+{
+  "slug": "django-brasil",
+  "type": "communities",
+  "name": "Django Brasil",
+  "summary": "Troca de experiências sobre desenvolvimento web com Django.",
+  "description": "Troca de experiências sobre desenvolvimento web com Django. O grupo é apresentado no diretório oficial de grupos online da Python Brasil. Cada grupo tem organização independente e regras próprias de participação.",
+  "url": "https://t.me/djangobrasil",
+  "areas": ["backend", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["telegram"],
+  "communityLinks": [
+    {
+      "platform": "telegram",
+      "url": "https://t.me/djangobrasil"
+    }
+  ]
+}

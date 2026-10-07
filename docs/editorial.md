@@ -16,10 +16,16 @@ Campos próprios de cada categoria entrarão gradualmente. Não invente localiza
 
 Use `communityLocation` somente em comunidades. Informe o alcance confirmado: `regional` com `states` (siglas de UFs oficiais, por exemplo `["SP", "RJ"]`); `national` para atuação em todo o Brasil; ou `international` para comunidades globais ou de fora do Brasil. Nacional e internacional não usam `states`. Idioma e país não definem o alcance automaticamente. Os cadastros antigos sem este campo continuam válidos, mas não aparecem nos filtros por localização até serem revisados.
 
-Novas sugestões de comunidades também exigem a categoria em `areas`, `communityPlatforms` (ao menos uma das plataformas do schema) e `communityModality` (`online`, `in-person` ou `hybrid`). Plataforma é o espaço usado como ninho; modalidade é como os encontros acontecem. Um grupo presencial pode usar WhatsApp como ninho. Campos antigos continuam opcionais para migração; novas sugestões no site exigem todos esses dados. Sem filtros, o site lista inclusive os cadastros ainda sem metadados.
+Novas sugestões de comunidades exigem a categoria em `areas`, `communityPlatforms` (uma ou várias plataformas do schema), `communityLinks` (um link público HTTPS para cada plataforma marcada), `communityAudience` (`general`, `male`, `female` ou `lgbt`) e `communityModality` (`online`, `in-person` ou `hybrid`). Plataforma é onde a comunidade conversa ou mantém seu espaço público; modalidade descreve como os encontros acontecem. Um grupo presencial também pode usar WhatsApp.
+
+Classifique o público pela proposta declarada pela comunidade. Não presuma gênero ou orientação dos participantes: uma comunidade geral não é masculina. Links de plataformas não podem repetir a mesma plataforma nem incluir opções que não estejam em `communityPlatforms`. Registros antigos sem esses campos continuam válidos para migração e aparecem sem filtros; campos ausentes não recebem classificação presumida. A FullDev aparece primeiro quando atende aos filtros; as demais comunidades são ordenadas alfabeticamente.
 
 ## Categorias de conteúdo dos criadores
 
 Perfis em creators e youtube usam creatorCategories para os tipos de conteúdo, separadamente de areas (assuntos técnicos). Os valores disponíveis são education (Tutoriais e educação), career (Carreira), humor (Humor), lifestyle (Lifestyle), news (Notícias), reviews (Análises e opiniões), projects (Projetos e bastidores) e other (Outra). É possível escolher várias categorias, sem repetições.
 
 O formulário do Guia exige pelo menos uma categoria ao sugerir um perfil. Confirme as categorias com o conteúdo público do criador; não deduza Humor ou Lifestyle apenas por popularidade. Cadastros antigos sem classificação continuam válidos e aparecem como Categoria não informada até a revisão.
+
+## Quantidade de membros
+
+`communityMembers` é opcional e exclusivo de comunidades. Informe `count` (inteiro não negativo), `checkedAt` (data da informação) e `moreThan: true` quando a informação for “mais de” esse número. Não preencha zero para representar um dado desconhecido. Não some contagens de plataformas diferentes como se fossem pessoas únicas. A contagem é informada e revisada, não um contador ao vivo.

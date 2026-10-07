@@ -1,0 +1,28 @@
+{
+  "slug": "rainbowstack",
+  "type": "communities",
+  "name": "RainbowStack — FullDev",
+  "summary": "Espaço LGBT+ da FullDev para conexões e troca de experiências em tecnologia.",
+  "description": "Grupo LGBT+ apresentado pelo site da FullDev, com entrada por WhatsApp. É um espaço de conexão dentro da comunidade de tecnologia, com participantes de todo o Brasil. Confira as regras de participação no site e no grupo.",
+  "url": "https://chat.whatsapp.com/BtWA88gNq3KGmAxAobB8X3?s=cl&p=a&ilr=0&amv=3",
+  "areas": ["geral", "networking", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "lgbt",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["whatsapp", "website"],
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://chat.whatsapp.com/BtWA88gNq3KGmAxAobB8X3?s=cl&p=a&ilr=0&amv=3"
+    },
+    {
+      "platform": "website",
+      "url": "https://fulldev.com.br/"
+    }
+  ]
+}

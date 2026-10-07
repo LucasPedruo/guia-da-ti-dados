@@ -1,0 +1,24 @@
+{
+  "slug": "brdev",
+  "type": "communities",
+  "name": "brdev",
+  "summary": "Comunidade brasileira de desenvolvimento e profissionais de TI no Reddit.",
+  "description": "Subreddit em português para conversas sobre desenvolvimento de software, carreira e o cotidiano de profissionais de tecnologia. As discussões acontecem no Reddit e seguem as regras e a moderação da comunidade.",
+  "url": "https://www.reddit.com/r/brdev/",
+  "areas": ["geral", "carreira", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["reddit"],
+  "communityLinks": [
+    {
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/brdev/"
+    }
+  ]
+}

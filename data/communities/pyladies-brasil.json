@@ -1,0 +1,28 @@
+{
+  "slug": "pyladies-brasil",
+  "type": "communities",
+  "name": "PyLadies Brasil",
+  "summary": "Rede brasileira de mulheres que estudam e usam Python.",
+  "description": "Rede de comunidades locais que incentiva a participação e a liderança de mulheres no ecossistema Python. O site nacional reúne materiais e atividades; a página da Python Brasil apresenta os grupos locais e seus canais de contato. A abrangência nacional representa a rede, e não uma única sede.",
+  "url": "https://brasil.pyladies.com/",
+  "areas": ["backend", "dados", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "female",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "hybrid",
+  "communityPlatforms": ["website", "github"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://brasil.pyladies.com/"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/pyladies-brazil"
+    }
+  ]
+}

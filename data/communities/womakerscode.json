@@ -1,0 +1,32 @@
+{
+  "slug": "womakerscode",
+  "type": "communities",
+  "name": "WoMakersCode",
+  "summary": "Rede de mulheres para aprendizado, carreira e conexões em tecnologia.",
+  "description": "Comunidade voltada à capacitação e ao desenvolvimento profissional de mulheres em tecnologia, com atuação em diferentes países. Seu site apresenta encontros online e presenciais, oportunidades de voluntariado e um canal de WhatsApp para acompanhar novidades. O LinkedIn é um canal público da organização.",
+  "url": "https://www.womakerscode.org/comunidade",
+  "areas": ["carreira", "educacao", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "female",
+  "communityLocation": {
+    "scope": "international"
+  },
+  "communityModality": "hybrid",
+  "communityPlatforms": ["website", "whatsapp", "linkedin"],
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://www.womakerscode.org/comunidade"
+    },
+    {
+      "platform": "whatsapp",
+      "url": "https://www.whatsapp.com/channel/0029Vb6OjbAKAwEc9k2ci013"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/womakerscode/"
+    }
+  ]
+}

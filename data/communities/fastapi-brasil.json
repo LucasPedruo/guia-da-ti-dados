@@ -1,0 +1,24 @@
+{
+  "slug": "fastapi-brasil",
+  "type": "communities",
+  "name": "FastAPI Brasil",
+  "summary": "Discussões sobre desenvolvimento de APIs com Python e FastAPI.",
+  "description": "Discussões sobre desenvolvimento de APIs com Python e FastAPI. O grupo é apresentado no diretório oficial de grupos online da Python Brasil. Cada grupo tem organização independente e regras próprias de participação.",
+  "url": "https://t.me/fastapibr",
+  "areas": ["backend", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07",
+  "communityAudience": "general",
+  "communityLocation": {
+    "scope": "national"
+  },
+  "communityModality": "online",
+  "communityPlatforms": ["telegram"],
+  "communityLinks": [
+    {
+      "platform": "telegram",
+      "url": "https://t.me/fastapibr"
+    }
+  ]
+}
