@@ -1,0 +1,24 @@
+{
+  "slug": "roadmap-sh",
+  "type": "roadmaps",
+  "name": "roadmap.sh",
+  "summary": "Roadmaps e referências de estudo para diferentes carreiras e tecnologias.",
+  "description": "Portal com roadmaps mantidos pela comunidade para front-end, back-end, DevOps, dados, segurança e outras áreas de tecnologia. A página principal reúne as trilhas disponíveis para você escolher conforme seu objetivo e acessar os materiais no próprio site.",
+  "url": "https://roadmap.sh/",
+  "areas": [
+    "backend",
+    "cloud",
+    "cybersecurity",
+    "dados",
+    "devops",
+    "educacao",
+    "frontend",
+    "ia",
+    "mobile",
+    "qa",
+    "redes"
+  ],
+  "technologies": ["linux", "python", "react", "typescript"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

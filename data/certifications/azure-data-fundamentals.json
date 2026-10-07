@@ -1,0 +1,12 @@
+{
+  "slug": "azure-data-fundamentals",
+  "type": "certifications",
+  "name": "Microsoft Certified: Azure Data Fundamentals",
+  "summary": "Certificação de fundamentos de dados e serviços de dados do Azure.",
+  "description": "Credencial associada ao exame DP-900, voltada a conceitos fundamentais de dados. A página oficial descreve habilidades avaliadas e preparação; confira as condições vigentes de inscrição e exame.",
+  "url": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/",
+  "areas": ["dados", "cloud"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

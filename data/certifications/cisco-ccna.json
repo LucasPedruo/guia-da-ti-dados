@@ -1,0 +1,12 @@
+{
+  "slug": "cisco-ccna",
+  "type": "certifications",
+  "name": "Cisco Certified Network Associate — CCNA",
+  "summary": "Certificação Cisco de fundamentos de redes e operação de infraestrutura.",
+  "description": "Credencial da Cisco que avalia conhecimentos de redes, conectividade, segurança e automação. O portal oficial reúne preparação e informações sobre o exame; consulte a versão vigente do programa.",
+  "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+  "areas": ["redes", "cybersecurity"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

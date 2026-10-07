@@ -1,0 +1,12 @@
+{
+  "slug": "generation-brasil",
+  "type": "bootcamps",
+  "name": "Generation Brasil",
+  "summary": "Programas de formação profissional e preparação para o trabalho.",
+  "description": "Organização com programas de formação e apoio à inserção profissional. Consulte as ofertas atuais para identificar o programa de tecnologia, os requisitos, a localização e o processo seletivo. A disponibilidade de turmas varia.",
+  "url": "https://brazil.generation.org/",
+  "areas": ["backend", "dados", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

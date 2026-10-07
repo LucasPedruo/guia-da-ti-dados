@@ -1,0 +1,12 @@
+{
+  "slug": "ironhack",
+  "type": "bootcamps",
+  "name": "Ironhack — Bootcamps internacionais",
+  "summary": "Formações intensivas em desenvolvimento web, dados e design.",
+  "description": "Portal internacional da Ironhack com bootcamps remotos e presenciais. As ofertas variam por região e idioma; o cadastro aponta para o catálogo em inglês e não afirma disponibilidade de uma turma brasileira.",
+  "url": "https://www.ironhack.com/us",
+  "areas": ["frontend", "backend", "dados", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

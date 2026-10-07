@@ -1,0 +1,12 @@
+{
+  "slug": "teach-yourself-cs",
+  "type": "roadmaps",
+  "name": "Teach Yourself Computer Science",
+  "summary": "Guia de estudos de fundamentos de ciência da computação.",
+  "description": "Roteiro com temas e referências de programação, algoritmos, sistemas, bancos de dados e redes. A proposta orienta estudo independente; os livros e cursos indicados têm suas próprias condições de acesso.",
+  "url": "https://teachyourselfcs.com/",
+  "areas": ["educacao", "backend", "redes"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

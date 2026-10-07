@@ -1,0 +1,12 @@
+{
+  "slug": "ufpr-computacao",
+  "type": "universities",
+  "name": "UFPR — Ciência da Computação",
+  "summary": "Bacharelado em Ciência da Computação da Universidade Federal do Paraná.",
+  "description": "Portal do bacharelado com informações acadêmicas, currículo e atividades formativas. A instituição apresenta uma formação em fundamentos e diferentes áreas de computação; consulte o processo seletivo oficial para ingresso.",
+  "url": "https://web.inf.ufpr.br/bcc/",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

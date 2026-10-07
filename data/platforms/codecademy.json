@@ -1,0 +1,12 @@
+{
+  "slug": "codecademy",
+  "type": "platforms",
+  "name": "Codecademy",
+  "summary": "Aprendizado interativo de programação e trilhas de tecnologia.",
+  "description": "Plataforma com exercícios no navegador e caminhos de estudo por habilidades ou carreira. Recursos gratuitos e planos pagos têm escopos diferentes; confira o acesso previsto para cada trilha.",
+  "url": "https://www.codecademy.com/",
+  "areas": ["frontend", "backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

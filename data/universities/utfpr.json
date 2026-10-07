@@ -1,0 +1,12 @@
+{
+  "slug": "utfpr",
+  "type": "universities",
+  "name": "UTFPR",
+  "summary": "Graduações da Universidade Tecnológica Federal do Paraná.",
+  "description": "Catálogo institucional de cursos de graduação nos campi da UTFPR. Permite consultar as ofertas de tecnologia e engenharia por campus; ingresso e calendário dependem dos editais oficiais.",
+  "url": "https://www.utfpr.edu.br/cursos/graduacao",
+  "areas": ["educacao", "hardware", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

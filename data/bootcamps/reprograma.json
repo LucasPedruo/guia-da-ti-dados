@@ -1,0 +1,12 @@
+{
+  "slug": "reprograma",
+  "type": "bootcamps",
+  "name": "{reprograma}",
+  "summary": "Programas de formação em tecnologia voltados a mulheres.",
+  "description": "Iniciativa que apresenta programas de programação e desenvolvimento profissional para mulheres. As formações e os critérios de seleção variam por projeto; consulte o programa vigente para público, formato e condições de participação.",
+  "url": "https://reprograma.com.br/",
+  "areas": ["backend", "frontend", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

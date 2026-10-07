@@ -1,0 +1,12 @@
+{
+  "slug": "linux-foundation-lfcs",
+  "type": "certifications",
+  "name": "Linux Foundation Certified System Administrator — LFCS",
+  "summary": "Certificação prática de administração de sistemas Linux.",
+  "description": "Exame da Linux Foundation baseado na execução de tarefas de administração em linha de comando. Consulte o conteúdo, as políticas e os materiais oficiais antes de agendar a prova.",
+  "url": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+  "areas": ["devops", "cloud"],
+  "technologies": ["linux"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

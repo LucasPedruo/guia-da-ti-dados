@@ -1,0 +1,12 @@
+{
+  "slug": "ufpe-cin",
+  "type": "universities",
+  "name": "UFPE — Centro de Informática",
+  "summary": "Graduações do Centro de Informática da Universidade Federal de Pernambuco.",
+  "description": "Página dos cursos de computação do CIn, em Recife. Permite conhecer as formações em Ciência da Computação, Engenharia da Computação e Sistemas de Informação e acessar seus canais acadêmicos.",
+  "url": "https://portal.cin.ufpe.br/graduacao/",
+  "areas": ["educacao", "backend", "hardware"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

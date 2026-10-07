@@ -1,0 +1,12 @@
+{
+  "slug": "computer-networking-principles",
+  "type": "books",
+  "name": "Computer Networking: Principles, Protocols and Practice",
+  "summary": "Livro aberto de Olivier Bonaventure sobre redes e protocolos da Internet.",
+  "description": "Site do projeto com acesso às edições, capítulos, exercícios e laboratórios. Cobre fundamentos e protocolos de redes; os materiais para estudo estão disponíveis na publicação de origem.",
+  "url": "https://www.computer-networking.info/",
+  "areas": ["redes", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

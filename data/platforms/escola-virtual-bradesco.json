@@ -1,0 +1,12 @@
+{
+  "slug": "escola-virtual-bradesco",
+  "type": "platforms",
+  "name": "Fundação Bradesco — Escola Virtual",
+  "summary": "Cursos online da Escola Virtual da Fundação Bradesco.",
+  "description": "Plataforma de formação com cursos de tecnologia, programação e produtividade. O site oficial apresenta os cursos e as regras para matrícula, conclusão e certificação.",
+  "url": "https://www.ev.org.br/",
+  "areas": ["educacao", "backend", "dados"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

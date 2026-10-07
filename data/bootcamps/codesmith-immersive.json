@@ -1,0 +1,12 @@
+{
+  "slug": "codesmith-immersive",
+  "type": "bootcamps",
+  "name": "Codesmith — Software Engineering + AI/ML Immersive",
+  "summary": "Formação imersiva internacional em engenharia de software e aplicações de IA.",
+  "description": "Portal de formação individual da Codesmith com seu programa imersivo de software e AI/ML. O programa é em inglês; confira seleção, formato, currículo e condições financeiras diretamente com a escola.",
+  "url": "https://codesmith.io/individuals",
+  "areas": ["frontend", "backend", "ia"],
+  "technologies": ["typescript"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

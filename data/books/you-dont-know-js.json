@@ -1,0 +1,12 @@
+{
+  "slug": "you-dont-know-js",
+  "type": "books",
+  "name": "You Don’t Know JS Yet",
+  "summary": "Série de Kyle Simpson para aprofundar o entendimento de JavaScript.",
+  "description": "Repositório mantido pelo autor com volumes da série, instruções de leitura e informações sobre as edições. O material aprofunda aspectos da linguagem; consulte as condições de acesso de cada volume.",
+  "url": "https://github.com/getify/You-Dont-Know-JS",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

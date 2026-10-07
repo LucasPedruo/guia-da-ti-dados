@@ -1,0 +1,12 @@
+{
+  "slug": "alura",
+  "type": "platforms",
+  "name": "Alura",
+  "summary": "Cursos e formações em programação, dados, design e outras áreas de tecnologia.",
+  "description": "Plataforma brasileira com cursos organizados por temas e formações. O acesso ao catálogo completo depende do plano escolhido; consulte a grade e as condições no site.",
+  "url": "https://www.alura.com.br/cursos-online-tecnologia",
+  "areas": ["frontend", "backend", "dados", "design"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

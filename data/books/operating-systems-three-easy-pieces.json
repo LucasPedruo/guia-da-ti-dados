@@ -1,0 +1,12 @@
+{
+  "slug": "operating-systems-three-easy-pieces",
+  "type": "books",
+  "name": "Operating Systems: Three Easy Pieces",
+  "summary": "Livro de Remzi e Andrea Arpaci-Dusseau sobre fundamentos de sistemas operacionais.",
+  "description": "Organiza o estudo de sistemas operacionais em virtualização, concorrência e persistência. Os autores disponibilizam capítulos e materiais de apoio na página oficial da Universidade de Wisconsin.",
+  "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+  "areas": ["educacao", "hardware", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

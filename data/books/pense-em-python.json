@@ -1,0 +1,12 @@
+{
+  "slug": "pense-em-python",
+  "type": "books",
+  "name": "Pense em Python — 2ª edição",
+  "summary": "Tradução em português do livro introdutório de Allen B. Downey.",
+  "description": "Versão digital da segunda edição de Think Python, com exemplos em Python 3. A tradução foi disponibilizada com autorização da editora sob licença livre; sua edição é diferente da terceira edição em inglês.",
+  "url": "https://penseallen.github.io/PensePython2e/",
+  "areas": ["educacao", "backend"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

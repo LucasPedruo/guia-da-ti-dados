@@ -1,0 +1,12 @@
+{
+  "slug": "isc2-certified-cybersecurity",
+  "type": "certifications",
+  "name": "ISC2 — Certified in Cybersecurity",
+  "summary": "Certificação de entrada em segurança cibernética da ISC2.",
+  "description": "Credencial voltada aos fundamentos de segurança, identidade, redes e operações. A página oficial detalha o exame e as condições de certificação e associação; consulte as regras e taxas vigentes.",
+  "url": "https://www.isc2.org/certifications/cc",
+  "areas": ["cybersecurity", "redes"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "google-cloud-digital-leader",
+  "type": "certifications",
+  "name": "Google Cloud — Cloud Digital Leader",
+  "summary": "Certificação de conceitos de cloud e soluções do Google Cloud.",
+  "description": "Credencial para conhecimentos fundamentais sobre a aplicação de tecnologias do Google Cloud. Consulte a página oficial para conteúdo do exame, preparação e requisitos vigentes.",
+  "url": "https://cloud.google.com/learn/certification/cloud-digital-leader?hl=pt-br",
+  "areas": ["cloud", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

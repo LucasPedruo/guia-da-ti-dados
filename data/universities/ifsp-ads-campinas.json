@@ -1,0 +1,12 @@
+{
+  "slug": "ifsp-ads-campinas",
+  "type": "universities",
+  "name": "IFSP Campinas — Análise e Desenvolvimento de Sistemas",
+  "summary": "Curso superior de tecnologia em Análise e Desenvolvimento de Sistemas.",
+  "description": "Cadastro oficial do curso de ADS do Instituto Federal de São Paulo, no campus Campinas. Apresenta perfil de formação, organização do curso e informações para candidatos; consulte os editais oficiais de ingresso.",
+  "url": "https://portal.cmp.ifsp.edu.br/index.php/ensino-superior/analise-e-desenvolvimento-de-sistemas",
+  "areas": ["educacao", "backend", "frontend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

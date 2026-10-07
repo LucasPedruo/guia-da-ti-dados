@@ -1,0 +1,12 @@
+{
+  "slug": "ossu-computer-science",
+  "type": "roadmaps",
+  "name": "OSSU — Computer Science",
+  "summary": "Currículo comunitário para estudar fundamentos de ciência da computação.",
+  "description": "Repositório da Open Source Society University que organiza cursos e pré-requisitos para estudo independente. É um roteiro aberto e não concede diploma universitário; condições de acesso a cada curso devem ser verificadas na instituição de origem.",
+  "url": "https://github.com/ossu/computer-science",
+  "areas": ["educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

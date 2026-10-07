@@ -1,0 +1,12 @@
+{
+  "slug": "azure-fundamentals",
+  "type": "certifications",
+  "name": "Microsoft Certified: Azure Fundamentals",
+  "summary": "Certificação de fundamentos de cloud e serviços do Microsoft Azure.",
+  "description": "Página oficial da credencial associada ao exame AZ-900, com habilidades avaliadas e materiais de estudo. A certificação depende da aprovação no exame, separadamente da conclusão de módulos de treinamento.",
+  "url": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/",
+  "areas": ["cloud", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

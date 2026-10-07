@@ -1,0 +1,12 @@
+{
+  "slug": "bootcamps-dio",
+  "type": "bootcamps",
+  "name": "Bootcamps DIO",
+  "summary": "Catálogo de bootcamps e trilhas de formação da DIO.",
+  "description": "Programas organizados por tecnologias e parceiros, com cursos, desafios e projetos. Algumas ofertas têm prazos e critérios específicos; consulte a página de cada programa para verificar inscrição e acesso.",
+  "url": "https://www.dio.me/bootcamp",
+  "areas": ["backend", "cloud", "dados", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "introduction-statistical-learning",
+  "type": "books",
+  "name": "An Introduction to Statistical Learning",
+  "summary": "Introdução ao aprendizado estatístico, com edições para R e Python.",
+  "description": "Site oficial do livro com acesso às edições, recursos e laboratórios. Abrange métodos de aprendizado estatístico; consulte a edição escolhida para a linguagem dos exemplos e os pré-requisitos matemáticos.",
+  "url": "https://www.statlearning.com/",
+  "areas": ["dados", "ia"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

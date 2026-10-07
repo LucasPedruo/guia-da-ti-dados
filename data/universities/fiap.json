@@ -1,0 +1,12 @@
+{
+  "slug": "fiap",
+  "type": "universities",
+  "name": "FIAP",
+  "summary": "Graduações de tecnologia, inovação e negócios digitais.",
+  "description": "Instituição privada com bacharelados e cursos superiores de tecnologia. A página reúne as opções de graduação; compare grade curricular, modalidade, campus e condições de matrícula da oferta escolhida.",
+  "url": "https://www.fiap.com.br/graduacao/",
+  "areas": ["educacao", "dados", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "ufc-graduacao",
+  "type": "universities",
+  "name": "UFC — Universidade Federal do Ceará",
+  "summary": "Informações de graduação e ingresso na Universidade Federal do Ceará.",
+  "description": "Portal institucional de graduação da UFC com acesso aos canais de ingresso e à oferta acadêmica. A universidade mantém formações de computação em diferentes campi; consulte o curso pretendido e os editais oficiais para requisitos e localização.",
+  "url": "https://www.ufc.br/pt/ensino/graduacao",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

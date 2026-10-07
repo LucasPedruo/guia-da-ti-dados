@@ -1,0 +1,12 @@
+{
+  "slug": "curso-em-video",
+  "type": "platforms",
+  "name": "Curso em Vídeo",
+  "summary": "Aulas e trilhas para começar em programação e tecnologia.",
+  "description": "Projeto de Gustavo Guanabara com cursos de lógica, desenvolvimento web e Python. As aulas são gratuitas; a emissão de certificados tem condições próprias no site.",
+  "url": "https://www.cursoemvideo.com/",
+  "areas": ["frontend", "backend", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

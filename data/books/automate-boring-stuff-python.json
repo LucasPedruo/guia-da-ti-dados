@@ -1,0 +1,12 @@
+{
+  "slug": "automate-boring-stuff-python",
+  "type": "books",
+  "name": "Automate the Boring Stuff with Python",
+  "summary": "Livro de Al Sweigart sobre automação de tarefas com Python.",
+  "description": "A terceira edição aborda fundamentos da linguagem e tarefas como manipulação de arquivos, planilhas e outros fluxos de automação. A leitura online é disponibilizada pelo autor; edições impressas são vendidas separadamente.",
+  "url": "https://automatetheboringstuff.com/",
+  "areas": ["backend", "dados"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

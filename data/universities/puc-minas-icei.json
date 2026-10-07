@@ -1,0 +1,12 @@
+{
+  "slug": "puc-minas-icei",
+  "type": "universities",
+  "name": "PUC Minas — ICEI",
+  "summary": "Instituto de Ciências Exatas e Informática da PUC Minas.",
+  "description": "Portal institucional com informações sobre os cursos e departamentos da área de computação. Consulte a graduação desejada para verificar currículo, campus, modalidade e processo de ingresso.",
+  "url": "https://icei.pucminas.br/",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

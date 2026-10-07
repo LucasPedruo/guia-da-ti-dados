@@ -1,0 +1,469 @@
+{
+  "checkedAt": "2026-10-07T13:46:31.194Z",
+  "method": "GET dos sites oficiais; bloqueios de automação e falhas locais de TLS não comprovam indisponibilidade no navegador.",
+  "items": [
+    {
+      "key": "books/automate-boring-stuff-python",
+      "url": "https://automatetheboringstuff.com/",
+      "status": 200,
+      "finalUrl": "https://automatetheboringstuff.com/",
+      "title": "Automate the Boring Stuff with Python - Automate the Boring Stuff with Python"
+    },
+    {
+      "key": "books/computer-networking-principles",
+      "url": "https://www.computer-networking.info/",
+      "status": 200,
+      "finalUrl": "https://www.computer-networking.info/",
+      "title": "Computer Networking : Principles,Protocols and Practice &#8212; CNP3www 2014 documentation"
+    },
+    {
+      "key": "books/crafting-interpreters",
+      "url": "https://craftinginterpreters.com/",
+      "status": 200,
+      "finalUrl": "https://craftinginterpreters.com/",
+      "title": "Crafting Interpreters"
+    },
+    {
+      "key": "books/deep-learning-book",
+      "url": "https://www.deeplearningbook.org/",
+      "status": 200,
+      "finalUrl": "https://www.deeplearningbook.org/",
+      "title": "Deep Learning"
+    },
+    {
+      "key": "books/eloquent-javascript",
+      "url": "https://eloquentjavascript.net/",
+      "status": 200,
+      "finalUrl": "https://eloquentjavascript.net/",
+      "title": "Eloquent JavaScript"
+    },
+    {
+      "key": "books/game-programming-patterns",
+      "url": "https://gameprogrammingpatterns.com/",
+      "status": 200,
+      "finalUrl": "https://gameprogrammingpatterns.com/",
+      "title": "Game Programming Patterns"
+    },
+    {
+      "key": "books/introduction-statistical-learning",
+      "url": "https://www.statlearning.com/",
+      "status": 200,
+      "finalUrl": "https://www.statlearning.com/",
+      "title": "An Introduction to Statistical Learning"
+    },
+    {
+      "key": "books/operating-systems-three-easy-pieces",
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "status": 200,
+      "finalUrl": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "title": "Operating Systems: Three Easy Pieces"
+    },
+    {
+      "key": "books/pense-em-python",
+      "url": "https://penseallen.github.io/PensePython2e/",
+      "status": 200,
+      "finalUrl": "https://penseallen.github.io/PensePython2e/",
+      "title": "Pense em Python | PensePython2e"
+    },
+    {
+      "key": "books/pro-git",
+      "url": "https://git-scm.com/book/pt-br/v2",
+      "status": 200,
+      "finalUrl": "https://git-scm.com/book/pt-br/v2",
+      "title": "Git"
+    },
+    {
+      "key": "books/think-python",
+      "url": "https://greenteapress.com/wp/think-python-3rd-edition/",
+      "status": 200,
+      "finalUrl": "https://greenteapress.com/wp/think-python-3rd-edition/",
+      "title": "Think Python &#8211; Green Tea Press"
+    },
+    {
+      "key": "books/you-dont-know-js",
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "status": 200,
+      "finalUrl": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "GitHub - getify/You-Dont-Know-JS: A book series (2 published editions) on the JS language. · GitHub"
+    },
+    {
+      "key": "bootcamps/42-sao-paulo",
+      "url": "https://www.42sp.org.br/",
+      "status": 200,
+      "finalUrl": "https://www.42sp.org.br/",
+      "title": "42 | São Paulo"
+    },
+    {
+      "key": "bootcamps/bootcamps-dio",
+      "url": "https://www.dio.me/bootcamp",
+      "status": 200,
+      "finalUrl": "https://www.dio.me/bootcamp",
+      "title": "Bootcamps de Tecnologia DIO | Inscreva-se agora"
+    },
+    {
+      "key": "bootcamps/codesmith-immersive",
+      "url": "https://codesmith.io/individuals",
+      "status": 200,
+      "finalUrl": "https://codesmith.io/individuals",
+      "title": "Codesmith | For Individuals"
+    },
+    {
+      "key": "bootcamps/generation-brasil",
+      "url": "https://brazil.generation.org/",
+      "status": 200,
+      "finalUrl": "https://brazil.generation.org/",
+      "title": "Home | Generation Brazil"
+    },
+    {
+      "key": "bootcamps/ironhack",
+      "url": "https://www.ironhack.com/us",
+      "status": 200,
+      "finalUrl": "https://www.ironhack.com/us",
+      "title": "Best Tech Bootcamps in the United States | Ironhack"
+    },
+    {
+      "key": "bootcamps/le-wagon",
+      "url": "https://www.lewagon.com/pt-BR",
+      "status": 200,
+      "finalUrl": "https://www.lewagon.com/pt-BR",
+      "title": "Bootcamp de Programação | Le Wagon"
+    },
+    {
+      "key": "bootcamps/reprograma",
+      "url": "https://reprograma.com.br/",
+      "status": 200,
+      "finalUrl": "https://reprograma.com.br/",
+      "title": "{reprograma}"
+    },
+    {
+      "key": "bootcamps/tripleten-brasil",
+      "url": "https://tripleten.com.br/",
+      "status": 200,
+      "finalUrl": "https://tripleten.com.br/",
+      "title": "TripleTen Brasil | Cursos e MBAs em IA e Tecnologia Online"
+    },
+    {
+      "key": "certifications/aws-cloud-practitioner",
+      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "title": "AWS Certified Cloud Practitioner"
+    },
+    {
+      "key": "certifications/aws-developer-associate",
+      "url": "https://aws.amazon.com/certification/certified-developer-associate/",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-developer-associate/",
+      "title": "AWS Certified Developer - Associate"
+    },
+    {
+      "key": "certifications/aws-solutions-architect-associate",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "status": 200,
+      "finalUrl": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "title": "AWS Certified Solutions Architect – Associate"
+    },
+    {
+      "key": "certifications/azure-data-fundamentals",
+      "url": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/",
+      "title": "Microsoft Certified: Conceitos básicos de dados do Azure - Certifications | Microsoft Learn"
+    },
+    {
+      "key": "certifications/azure-fundamentals",
+      "url": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/",
+      "title": "Microsoft Certified: Conceitos básicos do Azure - Certifications | Microsoft Learn"
+    },
+    {
+      "key": "certifications/cisco-ccna",
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+      "status": 200,
+      "finalUrl": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+      "title": "CCNA - Cisco"
+    },
+    {
+      "key": "certifications/google-associate-cloud-engineer",
+      "url": "https://cloud.google.com/learn/certification/cloud-engineer?hl=pt-br",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-engineer?hl=pt-br",
+      "title": "Certificação Associate Cloud Engineer &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud"
+    },
+    {
+      "key": "certifications/google-cloud-digital-leader",
+      "url": "https://cloud.google.com/learn/certification/cloud-digital-leader?hl=pt-br",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-digital-leader?hl=pt-br",
+      "title": "Cloud Digital Leader &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud"
+    },
+    {
+      "key": "certifications/google-professional-cloud-architect",
+      "url": "https://cloud.google.com/learn/certification/cloud-architect?hl=pt-br",
+      "status": 200,
+      "finalUrl": "https://cloud.google.com/learn/certification/cloud-architect?hl=pt-br",
+      "title": "Certificação Professional Cloud Architect &nbsp;|&nbsp; Learn &nbsp;|&nbsp; Google Cloud"
+    },
+    {
+      "key": "certifications/isc2-certified-cybersecurity",
+      "url": "https://www.isc2.org/certifications/cc",
+      "status": 200,
+      "finalUrl": "https://www.isc2.org/certifications/cc",
+      "title": "CC Certified in Cybersecurity Certification | ISC2"
+    },
+    {
+      "key": "certifications/kubernetes-cka",
+      "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+      "status": 200,
+      "finalUrl": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+      "title": "Certified Kubernetes Administrator (CKA) - Linux Foundation - Education"
+    },
+    {
+      "key": "certifications/linux-foundation-lfcs",
+      "url": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+      "status": 200,
+      "finalUrl": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+      "title": "Linux Foundation Certified System Administrator (LFCS) - Linux Foundation - Education"
+    },
+    {
+      "key": "platforms/alura",
+      "url": "https://www.alura.com.br/cursos-online-tecnologia",
+      "status": 200,
+      "finalUrl": "https://www.alura.com.br/cursos-online-tecnologia",
+      "title": "Cursos online de tecnologia, design e negócios digitais da Alura"
+    },
+    {
+      "key": "platforms/codecademy",
+      "url": "https://www.codecademy.com/",
+      "status": 403,
+      "finalUrl": "https://www.codecademy.com/",
+      "title": "Just a moment..."
+    },
+    {
+      "key": "platforms/coursera",
+      "url": "https://www.coursera.org/",
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/",
+      "title": "Coursera | Online Courses, Certificates, &amp; Degrees"
+    },
+    {
+      "key": "platforms/curso-em-video",
+      "url": "https://www.cursoemvideo.com/",
+      "status": 200,
+      "finalUrl": "https://www.cursoemvideo.com/",
+      "title": "Curso em Vídeo | Curso de Programação Gratuito para Iniciantes"
+    },
+    {
+      "key": "platforms/dio",
+      "url": "https://www.dio.me/",
+      "status": 200,
+      "finalUrl": "https://www.dio.me/",
+      "title": "DIO | Codifique o seu futuro global agora"
+    },
+    {
+      "key": "platforms/edx",
+      "url": "https://www.edx.org/",
+      "status": 200,
+      "finalUrl": "https://www.edx.org/",
+      "title": "edX | Online Courses, Certificates &amp; Degrees from Leading Institutions"
+    },
+    {
+      "key": "platforms/escola-virtual-bradesco",
+      "url": "https://www.ev.org.br/",
+      "status": 200,
+      "finalUrl": "https://www.ev.org.br/",
+      "title": "Funda&#231;&#227;o Bradesco - Escola Virtual"
+    },
+    {
+      "key": "platforms/freecodecamp",
+      "url": "https://www.freecodecamp.org/learn",
+      "status": 200,
+      "finalUrl": "https://www.freecodecamp.org/learn",
+      "title": null
+    },
+    {
+      "key": "platforms/ibm-skillsbuild",
+      "url": "https://skillsbuild.org/",
+      "status": 200,
+      "finalUrl": "https://skillsbuild.org/",
+      "title": "Unlock your future | IBM SkillBuild"
+    },
+    {
+      "key": "platforms/kaggle-learn",
+      "url": "https://www.kaggle.com/learn",
+      "status": 200,
+      "finalUrl": "https://www.kaggle.com/learn",
+      "title": "Learn Python, Data Viz, Pandas &amp; More | Tutorials | Kaggle"
+    },
+    {
+      "key": "platforms/microsoft-learn",
+      "url": "https://learn.microsoft.com/pt-br/training/",
+      "status": 200,
+      "finalUrl": "https://learn.microsoft.com/pt-br/training/",
+      "title": "Treinamento – Cursos, Roteiros de Aprendizagem, Módulos | Microsoft Learn"
+    },
+    {
+      "key": "platforms/mit-opencourseware",
+      "url": "https://ocw.mit.edu/",
+      "status": 200,
+      "finalUrl": "https://ocw.mit.edu/",
+      "title": "MIT OpenCourseWare | Free Online Course Materials"
+    },
+    {
+      "key": "platforms/origamid",
+      "url": "https://www.origamid.com/",
+      "status": 200,
+      "finalUrl": "https://www.origamid.com/",
+      "title": "Origamid - Cursos de Web Design, Front End, Back End e UI Design"
+    },
+    {
+      "key": "platforms/pluralsight",
+      "url": "https://www.pluralsight.com/",
+      "status": 200,
+      "finalUrl": "https://www.pluralsight.com/",
+      "title": "Build team skills in AI, data, cloud, and security | Pluralsight"
+    },
+    {
+      "key": "platforms/rocketseat",
+      "url": "https://www.rocketseat.com.br/",
+      "status": 200,
+      "finalUrl": "https://www.rocketseat.com.br/",
+      "title": "Ecossistema completo para desenvolver talentos digitais | Rocketseat"
+    },
+    {
+      "key": "platforms/udemy",
+      "url": "https://www.udemy.com/",
+      "status": 403,
+      "finalUrl": "https://www.udemy.com/",
+      "title": "Just a moment..."
+    },
+    {
+      "key": "roadmaps/odin-project",
+      "url": "https://www.theodinproject.com/paths",
+      "status": 200,
+      "finalUrl": "https://www.theodinproject.com/paths",
+      "title": "All Paths | The Odin Project"
+    },
+    {
+      "key": "roadmaps/ossu-computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "status": 200,
+      "finalUrl": "https://github.com/ossu/computer-science",
+      "title": "GitHub - ossu/computer-science: 🎓 Path to a free self-taught education in Computer Science! · GitHub"
+    },
+    {
+      "key": "roadmaps/roadmap-sh",
+      "url": "https://roadmap.sh/",
+      "status": 200,
+      "finalUrl": "https://roadmap.sh/",
+      "title": "Developer Roadmaps - roadmap.sh",
+      "checkedAt": "2026-10-07T14:12:49.322Z"
+    },
+    {
+      "key": "roadmaps/teach-yourself-cs",
+      "url": "https://teachyourselfcs.com/",
+      "status": 200,
+      "finalUrl": "https://teachyourselfcs.com/",
+      "title": "Teach Yourself Computer Science"
+    },
+    {
+      "key": "universities/fiap",
+      "url": "https://www.fiap.com.br/graduacao/",
+      "status": 200,
+      "finalUrl": "https://www.fiap.com.br/graduacao/",
+      "title": "Graduação FIAP | Cursos de Tecnologia e Inovação para o Futuro"
+    },
+    {
+      "key": "universities/ifsp-ads-campinas",
+      "url": "https://portal.cmp.ifsp.edu.br/index.php/ensino-superior/analise-e-desenvolvimento-de-sistemas",
+      "status": 200,
+      "finalUrl": "https://portal.cmp.ifsp.edu.br/index.php/ensino-superior/analise-e-desenvolvimento-de-sistemas",
+      "title": "IFSP CAMPINAS - Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "key": "universities/puc-minas-icei",
+      "url": "https://icei.pucminas.br/",
+      "status": 200,
+      "finalUrl": "https://icei.pucminas.br/",
+      "title": "ICEI - Instituto de Ciências Exatas e Informática"
+    },
+    {
+      "key": "universities/senac-sp",
+      "url": "https://www.sp.senac.br/graduacao",
+      "status": 200,
+      "finalUrl": "https://www.sp.senac.br/graduacao",
+      "title": "Centro Universitário Senac São Paulo - graduação"
+    },
+    {
+      "key": "universities/ufc-graduacao",
+      "url": "https://www.ufc.br/pt/ensino/graduacao",
+      "status": 200,
+      "finalUrl": "https://www.ufc.br/pt/ensino/graduacao",
+      "title": "Universidade Federal do Ceará"
+    },
+    {
+      "key": "universities/ufmg-dcc",
+      "url": "https://dcc.ufmg.br/nossos-cursos-graduacao/",
+      "status": 200,
+      "finalUrl": "https://dcc.ufmg.br/nossos-cursos-graduacao/",
+      "title": "Computação na UFMG &#8211; DCC/UFMG"
+    },
+    {
+      "key": "universities/ufpe-cin",
+      "url": "https://portal.cin.ufpe.br/graduacao/",
+      "status": 200,
+      "finalUrl": "https://portal.cin.ufpe.br/graduacao/",
+      "title": "Graduação &#8211; CIn UFPE"
+    },
+    {
+      "key": "universities/ufpr-computacao",
+      "url": "https://web.inf.ufpr.br/bcc/",
+      "status": 200,
+      "finalUrl": "https://web.inf.ufpr.br/bcc/",
+      "title": "Bacharelado em Ciência da Computação"
+    },
+    {
+      "key": "universities/unicamp-ic",
+      "url": "https://ic.unicamp.br/graduacao/",
+      "status": 200,
+      "finalUrl": "https://ic.unicamp.br/graduacao/",
+      "title": "Graduação - Instituto de Computação"
+    },
+    {
+      "key": "universities/univesp",
+      "url": "https://univesp.br/cursos",
+      "status": 200,
+      "finalUrl": "https://univesp.br/cursos",
+      "title": "Cursos &#8211; Univesp"
+    },
+    {
+      "key": "universities/usp-ime",
+      "url": "https://www.ime.usp.br/bcc/",
+      "status": 200,
+      "finalUrl": "https://www.ime.usp.br/bcc/",
+      "title": "Bacharelado em Ciência da Computação &#8211; Instituto de Matemática, Estatística e Ciência da Computação"
+    },
+    {
+      "key": "universities/utfpr",
+      "url": "https://www.utfpr.edu.br/cursos/graduacao",
+      "status": 200,
+      "finalUrl": "https://www.utfpr.edu.br/cursos/graduacao",
+      "title": "Graduação"
+    }
+  ],
+  "corrections": [
+    {
+      "key": "universities/ufc-quixada",
+      "url": "https://www.quixada.ufc.br/cursos/",
+      "status": null,
+      "error": "UNABLE_TO_VERIFY_LEAF_SIGNATURE"
+    },
+    {
+      "key": "universities/ifsp-ads-campinas",
+      "url": "https://cursos.ifsp.edu.br/graduacao/curso/CMP24100/",
+      "status": null,
+      "error": "ENOTFOUND"
+    }
+  ]
+}

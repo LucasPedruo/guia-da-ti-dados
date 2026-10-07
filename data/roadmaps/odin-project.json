@@ -1,0 +1,12 @@
+{
+  "slug": "odin-project",
+  "type": "roadmaps",
+  "name": "The Odin Project — Trilhas full-stack",
+  "summary": "Currículo aberto de desenvolvimento web organizado em trilhas.",
+  "description": "Percursos gratuitos com fundamentos, exercícios e projetos de desenvolvimento web. O currículo é mantido pela comunidade e oferece caminhos de JavaScript e Ruby on Rails, para estudo independente.",
+  "url": "https://www.theodinproject.com/paths",
+  "areas": ["frontend", "backend"],
+  "technologies": ["react"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

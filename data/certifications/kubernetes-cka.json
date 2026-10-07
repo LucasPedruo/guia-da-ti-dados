@@ -1,0 +1,12 @@
+{
+  "slug": "kubernetes-cka",
+  "type": "certifications",
+  "name": "Certified Kubernetes Administrator — CKA",
+  "summary": "Certificação prática de administração de Kubernetes.",
+  "description": "Credencial da Linux Foundation e da CNCF avaliada por tarefas práticas em um ambiente Kubernetes. Versão do ambiente, currículo e políticas de exame devem ser conferidos na página oficial.",
+  "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+  "areas": ["devops", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

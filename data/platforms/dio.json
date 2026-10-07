@@ -1,0 +1,12 @@
+{
+  "slug": "dio",
+  "type": "platforms",
+  "name": "DIO",
+  "summary": "Plataforma de cursos, trilhas e desafios de tecnologia.",
+  "description": "Reúne cursos, projetos e programas de formação em parceria com empresas. Conteúdo disponível e condições de participação variam conforme o plano e o programa selecionado.",
+  "url": "https://www.dio.me/",
+  "areas": ["backend", "dados", "cloud", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-07"
+}

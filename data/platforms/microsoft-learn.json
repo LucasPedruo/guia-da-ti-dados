@@ -1,0 +1,12 @@
+{
+  "slug": "microsoft-learn",
+  "type": "platforms",
+  "name": "Microsoft Learn",
+  "summary": "Módulos e roteiros de aprendizagem sobre tecnologias Microsoft.",
+  "description": "Portal oficial com módulos de treinamento e roteiros de estudo. Concluir um roteiro não concede automaticamente uma certificação profissional; exames e credenciais têm requisitos próprios.",
+  "url": "https://learn.microsoft.com/pt-br/training/",
+  "areas": ["cloud", "dados", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-07"
+}

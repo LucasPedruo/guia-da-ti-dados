@@ -1,0 +1,12 @@
+{
+  "slug": "aws-cloud-practitioner",
+  "type": "certifications",
+  "name": "AWS Certified Cloud Practitioner",
+  "summary": "Certificação introdutória de conceitos e serviços da nuvem AWS.",
+  "description": "Credencial da AWS para validar conhecimentos fundamentais de cloud e seus serviços. A página oficial apresenta o exame e os recursos de preparação; preços, idiomas e regras devem ser conferidos antes da inscrição.",
+  "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+  "areas": ["cloud", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

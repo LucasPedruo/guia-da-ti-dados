@@ -1,0 +1,12 @@
+{
+  "slug": "univesp",
+  "type": "universities",
+  "name": "Univesp",
+  "summary": "Cursos da Universidade Virtual do Estado de São Paulo.",
+  "description": "Universidade pública com oferta de graduação a distância, incluindo formações do eixo de computação. Consulte o curso e o edital para verificar polos, atividades presenciais e requisitos do processo seletivo.",
+  "url": "https://univesp.br/cursos",
+  "areas": ["educacao", "dados", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "mit-opencourseware",
+  "type": "platforms",
+  "name": "MIT OpenCourseWare",
+  "summary": "Materiais abertos de disciplinas do Massachusetts Institute of Technology.",
+  "description": "Biblioteca pública de materiais de disciplinas, incluindo computação, matemática e engenharia. Oferece estudo independente, sem matrícula no MIT e sem atribuir um diploma da instituição.",
+  "url": "https://ocw.mit.edu/",
+  "areas": ["educacao", "dados", "hardware"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

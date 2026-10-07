@@ -1,0 +1,12 @@
+{
+  "slug": "senac-sp",
+  "type": "universities",
+  "name": "Centro Universitário Senac São Paulo",
+  "summary": "Graduações do Centro Universitário Senac em São Paulo.",
+  "description": "Portal oficial de graduação com cursos de diferentes áreas, incluindo tecnologia da informação. Verifique na oferta escolhida o campus, a modalidade, a grade e as condições de matrícula.",
+  "url": "https://www.sp.senac.br/graduacao",
+  "areas": ["educacao", "backend", "design"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

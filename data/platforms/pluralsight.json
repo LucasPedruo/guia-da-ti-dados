@@ -1,0 +1,12 @@
+{
+  "slug": "pluralsight",
+  "type": "platforms",
+  "name": "Pluralsight",
+  "summary": "Formação em software, cloud, segurança e dados.",
+  "description": "Catálogo de aprendizagem técnica com conteúdos para desenvolver habilidades profissionais. Consulte a oferta para verificar trilhas, laboratórios e recursos incluídos na assinatura.",
+  "url": "https://www.pluralsight.com/",
+  "areas": ["backend", "cloud", "cybersecurity", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-skillsbuild",
+  "type": "platforms",
+  "name": "IBM SkillsBuild",
+  "summary": "Aprendizagem de habilidades digitais e preparação para carreiras em tecnologia.",
+  "description": "Iniciativa educacional da IBM com cursos e recursos de habilidades técnicas e profissionais. Consulte o percurso e as condições de acesso para seu perfil, país e instituição.",
+  "url": "https://skillsbuild.org/",
+  "areas": ["ia", "dados", "cybersecurity", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

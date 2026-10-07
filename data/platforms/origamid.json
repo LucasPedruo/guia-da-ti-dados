@@ -1,0 +1,12 @@
+{
+  "slug": "origamid",
+  "type": "platforms",
+  "name": "Origamid",
+  "summary": "Cursos de desenvolvimento web e design de interfaces.",
+  "description": "Plataforma brasileira com aulas e projetos de front-end, back-end e UI design. Consulte a grade, os pré-requisitos e as condições de acesso antes de escolher uma formação.",
+  "url": "https://www.origamid.com/",
+  "areas": ["frontend", "backend", "design"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

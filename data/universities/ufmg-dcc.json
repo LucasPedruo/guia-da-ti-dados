@@ -1,0 +1,12 @@
+{
+  "slug": "ufmg-dcc",
+  "type": "universities",
+  "name": "UFMG — Departamento de Ciência da Computação",
+  "summary": "Conheça as graduações de computação da Universidade Federal de Minas Gerais.",
+  "description": "Portal acadêmico com apresentação e comparação das formações do DCC. As regras de ingresso e a organização curricular devem ser conferidas na página oficial do curso e nos editais vigentes.",
+  "url": "https://dcc.ufmg.br/nossos-cursos-graduacao/",
+  "areas": ["educacao", "dados", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

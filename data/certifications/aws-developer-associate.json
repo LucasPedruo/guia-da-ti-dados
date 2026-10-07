@@ -1,0 +1,12 @@
+{
+  "slug": "aws-developer-associate",
+  "type": "certifications",
+  "name": "AWS Certified Developer — Associate",
+  "summary": "Certificação de desenvolvimento e manutenção de aplicações na AWS.",
+  "description": "Credencial do nível Associate voltada a desenvolvimento na nuvem AWS. O site oficial reúne guia de exame, preparação e informações de agendamento; concluir um curso preparatório não concede essa certificação.",
+  "url": "https://aws.amazon.com/certification/certified-developer-associate/",
+  "areas": ["cloud", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

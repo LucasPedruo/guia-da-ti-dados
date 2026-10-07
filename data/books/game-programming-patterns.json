@@ -1,0 +1,12 @@
+{
+  "slug": "game-programming-patterns",
+  "type": "books",
+  "name": "Game Programming Patterns",
+  "summary": "Padrões de projeto e organização de software aplicados ao desenvolvimento de jogos.",
+  "description": "Livro de Robert Nystrom sobre arquitetura, desempenho e padrões de programação em jogos. A versão online é publicada gratuitamente pelo autor; também há opções de compra em outros formatos.",
+  "url": "https://gameprogrammingpatterns.com/",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "crafting-interpreters",
+  "type": "books",
+  "name": "Crafting Interpreters",
+  "summary": "Livro de Robert Nystrom sobre a construção de interpretadores.",
+  "description": "Apresenta a implementação de uma linguagem de programação e de seus interpretadores, com abordagem prática. O autor disponibiliza o livro completo para leitura online em seu site.",
+  "url": "https://craftinginterpreters.com/",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

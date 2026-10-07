@@ -1,0 +1,12 @@
+{
+  "slug": "deep-learning-book",
+  "type": "books",
+  "name": "Deep Learning",
+  "summary": "Livro de Ian Goodfellow, Yoshua Bengio e Aaron Courville sobre aprendizado profundo.",
+  "description": "Material sobre fundamentos matemáticos e técnicas de deep learning. A versão online é disponibilizada no site oficial; o conteúdo pressupõe conhecimentos de matemática e programação.",
+  "url": "https://www.deeplearningbook.org/",
+  "areas": ["ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "tripleten-brasil",
+  "type": "bootcamps",
+  "name": "TripleTen Brasil",
+  "summary": "Bootcamps online de desenvolvimento web, dados e qualidade de software.",
+  "description": "Escola com formações em desenvolvimento web, análise e ciência de dados e QA. Consulte a grade e o programa escolhido para formato de mentoria, projetos, duração e condições contratuais.",
+  "url": "https://tripleten.com.br/",
+  "areas": ["frontend", "backend", "dados", "qa"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

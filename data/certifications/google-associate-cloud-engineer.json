@@ -1,0 +1,12 @@
+{
+  "slug": "google-associate-cloud-engineer",
+  "type": "certifications",
+  "name": "Google Cloud — Associate Cloud Engineer",
+  "summary": "Certificação de implantação e operação de soluções no Google Cloud.",
+  "description": "Credencial voltada às tarefas de engenharia de cloud no Google Cloud. O site oficial apresenta escopo, preparação e experiência recomendada; as regras de exame são independentes de cursos preparatórios.",
+  "url": "https://cloud.google.com/learn/certification/cloud-engineer?hl=pt-br",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "42-sao-paulo",
+  "type": "bootcamps",
+  "name": "42 São Paulo — Formação de Engenharia de Software",
+  "summary": "Formação presencial e prática, com aprendizagem entre pares.",
+  "description": "Escola de programação em São Paulo com formação gratuita e baseada em projetos. É uma formação imersiva com processo seletivo próprio, não uma graduação universitária; consulte as etapas de seleção e dedicação exigida.",
+  "url": "https://www.42sp.org.br/",
+  "areas": ["backend", "educacao"],
+  "technologies": ["python"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

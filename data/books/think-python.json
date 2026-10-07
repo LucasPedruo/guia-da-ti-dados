@@ -1,0 +1,12 @@
+{
+  "slug": "think-python",
+  "type": "books",
+  "name": "Think Python — 3ª edição",
+  "summary": "Introdução à programação com Python, escrita por Allen B. Downey.",
+  "description": "Livro voltado aos fundamentos da programação, com exemplos e exercícios em Python. A página da Green Tea Press encaminha para a terceira edição e para os materiais disponibilizados pelo autor.",
+  "url": "https://greenteapress.com/wp/think-python-3rd-edition/",
+  "areas": ["educacao", "backend"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

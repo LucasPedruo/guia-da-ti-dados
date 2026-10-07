@@ -1,0 +1,12 @@
+{
+  "slug": "pro-git",
+  "type": "books",
+  "name": "Pro Git — português",
+  "summary": "Livro sobre Git, controle de versão e trabalho colaborativo.",
+  "description": "Segunda edição de Pro Git, de Scott Chacon e Ben Straub, na tradução para português disponível no site oficial do Git. Abrange conceitos de versionamento, branches, repositórios e colaboração.",
+  "url": "https://git-scm.com/book/pt-br/v2",
+  "areas": ["educacao", "devops"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

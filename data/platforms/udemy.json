@@ -1,0 +1,12 @@
+{
+  "slug": "udemy",
+  "type": "platforms",
+  "name": "Udemy",
+  "summary": "Marketplace de cursos de tecnologia publicados por diferentes instrutores.",
+  "description": "Reúne cursos de programação, infraestrutura, dados e outras áreas. Conteúdo, suporte e condições de acesso variam por instrutor e oferta; confira a ementa e os pré-requisitos de cada curso.",
+  "url": "https://www.udemy.com/",
+  "areas": ["frontend", "backend", "dados", "devops"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-07"
+}

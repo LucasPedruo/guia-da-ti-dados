@@ -1,0 +1,12 @@
+{
+  "slug": "usp-ime",
+  "type": "universities",
+  "name": "USP — IME",
+  "summary": "Bacharelado em Ciência da Computação no Instituto de Matemática da USP.",
+  "description": "Página institucional do bacharelado em São Paulo, com apresentação da formação e acesso a informações acadêmicas. O ingresso segue os processos seletivos da USP; consulte os canais oficiais para calendário e requisitos.",
+  "url": "https://www.ime.usp.br/bcc/",
+  "areas": ["educacao", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

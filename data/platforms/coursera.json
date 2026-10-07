@@ -1,0 +1,12 @@
+{
+  "slug": "coursera",
+  "type": "platforms",
+  "name": "Coursera",
+  "summary": "Cursos, programas profissionais e formações oferecidos por universidades e empresas.",
+  "description": "Plataforma com programas de computação, dados e inteligência artificial de instituições parceiras. Acesso, assinatura, auxílio financeiro e emissão de certificados variam conforme o programa; matrícula gratuita não implica acesso integral gratuito.",
+  "url": "https://www.coursera.org/",
+  "areas": ["dados", "ia", "educacao"],
+  "technologies": [],
+  "languages": ["en", "pt-BR"],
+  "updatedAt": "2026-10-07"
+}

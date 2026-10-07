@@ -1,0 +1,12 @@
+{
+  "slug": "le-wagon",
+  "type": "bootcamps",
+  "name": "Le Wagon",
+  "summary": "Bootcamps de programação e dados com aprendizagem por projetos.",
+  "description": "Escola com bootcamps em desenvolvimento web e dados. A modalidade, o idioma e o campus dependem da turma; confirme currículo, dedicação exigida e condições de matrícula no site oficial.",
+  "url": "https://www.lewagon.com/pt-BR",
+  "areas": ["frontend", "backend", "dados"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

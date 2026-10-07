@@ -1,0 +1,12 @@
+{
+  "slug": "kaggle-learn",
+  "type": "platforms",
+  "name": "Kaggle Learn",
+  "summary": "Microcursos com exercícios de Python, análise de dados e aprendizado de máquina.",
+  "description": "Ambiente de aprendizagem do Kaggle com atividades em notebooks. Abrange Python, pandas, visualização e aprendizado de máquina; a execução dos exercícios pode exigir uma conta na plataforma.",
+  "url": "https://www.kaggle.com/learn",
+  "areas": ["dados", "ia"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

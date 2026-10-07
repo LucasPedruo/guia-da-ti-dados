@@ -1,0 +1,12 @@
+{
+  "slug": "rocketseat",
+  "type": "platforms",
+  "name": "Rocketseat",
+  "summary": "Formações e conteúdos de desenvolvimento de software.",
+  "description": "Ecossistema brasileiro de educação em tecnologia com formações de programação e projetos. Consulte o programa para identificar tecnologias, formato de acompanhamento e condições de matrícula.",
+  "url": "https://www.rocketseat.com.br/",
+  "areas": ["frontend", "backend", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

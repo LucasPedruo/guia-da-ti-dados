@@ -1,0 +1,12 @@
+{
+  "slug": "freecodecamp",
+  "type": "platforms",
+  "name": "freeCodeCamp",
+  "summary": "Currículo aberto com exercícios de programação e projetos práticos.",
+  "description": "Organização sem fins lucrativos com currículo gratuito de programação. Os exercícios e projetos estão no site de origem, que também reúne trilhas de desenvolvimento web e ciência da computação.",
+  "url": "https://www.freecodecamp.org/learn",
+  "areas": ["frontend", "backend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

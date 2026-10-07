@@ -1,0 +1,12 @@
+{
+  "slug": "aws-solutions-architect-associate",
+  "type": "certifications",
+  "name": "AWS Certified Solutions Architect — Associate",
+  "summary": "Certificação de arquitetura de soluções na AWS, no nível Associate.",
+  "description": "Credencial voltada ao desenho de soluções na nuvem AWS. Consulte o guia oficial do exame para domínios avaliados, experiência recomendada e recursos de preparação.",
+  "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

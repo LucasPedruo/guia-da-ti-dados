@@ -1,0 +1,12 @@
+{
+  "slug": "google-professional-cloud-architect",
+  "type": "certifications",
+  "name": "Google Cloud — Professional Cloud Architect",
+  "summary": "Certificação profissional de arquitetura de soluções no Google Cloud.",
+  "description": "Credencial para profissionais que projetam e gerenciam arquiteturas na plataforma Google Cloud. Confira na fonte oficial os requisitos, o conteúdo do exame e os recursos de preparação.",
+  "url": "https://cloud.google.com/learn/certification/cloud-architect?hl=pt-br",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

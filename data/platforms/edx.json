@@ -1,0 +1,12 @@
+{
+  "slug": "edx",
+  "type": "platforms",
+  "name": "edX",
+  "summary": "Cursos e programas online de instituições de ensino e empresas.",
+  "description": "Catálogo internacional que inclui ciência da computação, dados e inteligência artificial. Verifique no programa escolhido as condições de acesso aos materiais e de obtenção do certificado.",
+  "url": "https://www.edx.org/",
+  "areas": ["educacao", "dados", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}

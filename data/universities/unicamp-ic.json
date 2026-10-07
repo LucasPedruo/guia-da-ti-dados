@@ -1,0 +1,12 @@
+{
+  "slug": "unicamp-ic",
+  "type": "universities",
+  "name": "Unicamp — Instituto de Computação",
+  "summary": "Graduações em Ciência da Computação e Engenharia da Computação.",
+  "description": "Instituto de Computação da Universidade Estadual de Campinas. O portal apresenta os cursos e encaminha para informações de ingresso; grade, habilitações e editais devem ser consultados diretamente na instituição.",
+  "url": "https://ic.unicamp.br/graduacao/",
+  "areas": ["educacao", "hardware", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-07"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "eloquent-javascript",
+  "type": "books",
+  "name": "Eloquent JavaScript",
+  "summary": "Livro de Marijn Haverbeke sobre JavaScript, programação e desenvolvimento web.",
+  "description": "A quarta edição apresenta a linguagem JavaScript, o navegador e projetos práticos. O autor disponibiliza a leitura online no site oficial, com exercícios e referências complementares.",
+  "url": "https://eloquentjavascript.net/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-07"
+}
