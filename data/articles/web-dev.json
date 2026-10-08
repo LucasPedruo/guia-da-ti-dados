@@ -1,0 +1,13 @@
+{
+  "slug": "web-dev",
+  "type": "articles",
+  "name": "web.dev: artigos",
+  "summary": "Referências sobre desempenho, acessibilidade e recursos da web.",
+  "description": "Acervo do web.dev com conteúdos sobre desenvolvimento para navegadores. Você encontra artigos sobre desempenho e experiência de uso. A página permite escolher outros idiomas, mas a cobertura das traduções varia.",
+  "url": "https://web.dev/discover",
+  "areas": ["frontend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gstatic.com/devrel-devsite/prod/vc572093a046b25fad0d22bd3210637939b9c971bea06a064d6f48a166bf893c5/web/images/touchicon-180.png"
+}

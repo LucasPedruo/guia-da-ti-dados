@@ -1,0 +1,13 @@
+{
+  "slug": "microsoft-historias-clientes",
+  "type": "case-studies",
+  "name": "Microsoft: histórias de clientes",
+  "summary": "Relatos de adoção de produtos Microsoft em organizações.",
+  "description": "Coleção oficial com exemplos de uso de serviços e produtos Microsoft. Inclui aplicações de nuvem e inteligência artificial. Os relatos têm finalidade comercial e não substituem uma avaliação dos requisitos do seu projeto.",
+  "url": "https://www.microsoft.com/en-us/customers",
+  "areas": ["cloud", "ia", "produto"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.microsoft.com/favicon.ico?v2"
+}

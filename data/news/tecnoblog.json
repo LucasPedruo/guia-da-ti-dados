@@ -1,0 +1,13 @@
+{
+  "slug": "tecnoblog",
+  "type": "news",
+  "name": "Tecnoblog",
+  "summary": "Notícias e análises sobre tecnologia, produtos e serviços digitais.",
+  "description": "Portal brasileiro para acompanhar empresas de tecnologia, telecomunicações e produtos. Publica notícias e análises, além de ofertas e conteúdos patrocinados identificados no site.",
+  "url": "https://tecnoblog.net/",
+  "areas": ["geral", "hardware", "cybersecurity"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://tecnoblog.net/apple-touch-icon.png"
+}

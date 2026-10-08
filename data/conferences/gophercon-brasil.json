@@ -1,0 +1,14 @@
+{
+  "slug": "gophercon-brasil",
+  "type": "conferences",
+  "name": "GopherCon Brasil",
+  "summary": "Conferência brasileira para a comunidade da linguagem Go.",
+  "description": "Acompanhe a edição divulgada pela organização e consulte as palestras. O encontro aborda desenvolvimento com Go. Confira datas, localização e ingresso antes de planejar a participação.",
+  "url": "https://gopherconbr.org/",
+  "areas": ["backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://gopherconbr.org/images/floripa/logo-header.png"
+}

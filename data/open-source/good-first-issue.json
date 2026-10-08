@@ -1,0 +1,13 @@
+{
+  "slug": "good-first-issue",
+  "type": "open-source",
+  "name": "Good First Issue",
+  "summary": "Busca de tarefas de código aberto marcadas para quem está começando a contribuir.",
+  "description": "Explore projetos e abra a tarefa no repositório de origem. Confira se ela continua disponível e leia as regras de contribuição. A marcação não garante que toda tarefa seja curta.",
+  "url": "https://goodfirstissue.dev/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://goodfirstissue.dev/_nuxt/gfi-logo-white.B_q-F5-X.svg"
+}

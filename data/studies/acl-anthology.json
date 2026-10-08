@@ -1,0 +1,13 @@
+{
+  "slug": "acl-anthology",
+  "type": "studies",
+  "name": "ACL Anthology",
+  "summary": "Publicações de pesquisa em linguística computacional e processamento de linguagem.",
+  "description": "Biblioteca de artigos e anais de eventos ligados à linguística computacional. Você pode pesquisar trabalhos e consultar os textos na fonte. O conteúdo pressupõe leitura técnica e familiaridade com métodos de pesquisa.",
+  "url": "https://aclanthology.org/",
+  "areas": ["ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://aclanthology.org/images/acl-logo.svg"
+}

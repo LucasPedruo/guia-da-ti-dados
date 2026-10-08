@@ -1,0 +1,13 @@
+{
+  "slug": "javascript-weekly",
+  "type": "newsletters",
+  "name": "JavaScript Weekly",
+  "summary": "Seleção de artigos, notícias e projetos de JavaScript.",
+  "description": "Newsletter em inglês da Cooperpress voltada ao ecossistema JavaScript. A página reúne a edição atual e o arquivo de publicações. Os links levam aos artigos e projetos selecionados.",
+  "url": "https://javascriptweekly.com/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://javascriptweekly.com/logo.png"
+}

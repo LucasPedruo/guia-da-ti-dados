@@ -1,0 +1,13 @@
+{
+  "slug": "codewars",
+  "type": "challenges",
+  "name": "Codewars",
+  "summary": "Desafios de programação por linguagem e nível de dificuldade.",
+  "description": "Resolva exercícios chamados de kata e compare sua abordagem com outras soluções. Escolha uma linguagem que você já conhece ou está estudando. Consulte as regras e os recursos disponíveis.",
+  "url": "https://www.codewars.com/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/67180821f483344739cfb029_Codewars_red_white.svg"
+}

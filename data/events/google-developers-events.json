@@ -1,0 +1,13 @@
+{
+  "slug": "google-developers-events",
+  "type": "events",
+  "name": "Google for Developers Events",
+  "summary": "Agenda do Google com eventos para desenvolvedores em diferentes países.",
+  "description": "Explore conferências e encontros ligados às tecnologias Google. Confira o público e os requisitos de cada atividade. A participação depende das regras do evento.",
+  "url": "https://developers.google.com/events",
+  "areas": ["mobile", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gstatic.com/devrel-devsite/prod/vc572093a046b25fad0d22bd3210637939b9c971bea06a064d6f48a166bf893c5/developers/images/lockup-new.svg"
+}

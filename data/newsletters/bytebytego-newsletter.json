@@ -1,0 +1,13 @@
+{
+  "slug": "bytebytego-newsletter",
+  "type": "newsletters",
+  "name": "ByteByteGo Newsletter",
+  "summary": "Explicações de arquitetura e projeto de sistemas por e-mail.",
+  "description": "Newsletter em inglês sobre decisões de arquitetura e funcionamento de sistemas. A página oficial permite cadastrar seu e-mail. Use os materiais como referência e compare os exemplos com as necessidades do seu projeto.",
+  "url": "https://newsletter.bytebytego.com/",
+  "areas": ["backend", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/f279c4bc-e693-44fa-a843-d3d63cae1766/thumb_%E9%BB%91%E7%BA%BF%E4%B8%8A%E8%89%B245px%2B.png"
+}

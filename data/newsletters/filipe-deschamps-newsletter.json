@@ -1,0 +1,13 @@
+{
+  "slug": "filipe-deschamps-newsletter",
+  "type": "newsletters",
+  "name": "Newsletter do Filipe Deschamps",
+  "summary": "Resumos de notícias de tecnologia enviados por e-mail.",
+  "description": "Newsletter em português com uma seleção de notícias de tecnologia. Você informa seu e-mail na página oficial para receber as edições. A página também explica como cancelar a inscrição.",
+  "url": "https://newsletter.filipedeschamps.com.br/",
+  "areas": ["geral", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://embed.filekitcdn.com/e/iajLrvtJnG9GL5FWs5H8a1/6M4He65n8bpXQJNcxeLXLL"
+}

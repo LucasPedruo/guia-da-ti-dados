@@ -1,0 +1,13 @@
+{
+  "slug": "hipsters-ponto-tech",
+  "type": "podcasts",
+  "name": "Hipsters Ponto Tech",
+  "summary": "Conversas com convidados sobre programação e o trabalho em tecnologia.",
+  "description": "Podcast da Alura com discussões sobre desenvolvimento, design e mercado de tecnologia. A página reúne episódios por assunto e links para ouvir. Escolha um tema e confira as referências do episódio.",
+  "url": "https://www.hipsters.tech/",
+  "areas": ["geral", "backend", "design"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.hipsters.tech/wp-content/uploads/2016/07/cropped-hipsters-logo.png"
+}

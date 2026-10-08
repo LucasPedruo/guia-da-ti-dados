@@ -1,0 +1,13 @@
+{
+  "slug": "github-explore",
+  "type": "open-source",
+  "name": "GitHub Explore",
+  "summary": "Descubra repositórios e temas de código aberto no GitHub.",
+  "description": "Explore projetos por assunto e consulte o histórico de atividade. Confira a licença e as orientações de contribuição. Um repositório público pode ter regras específicas para receber ajuda.",
+  "url": "https://github.com/explore",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://github.com/fluidicon.png"
+}

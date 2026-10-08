@@ -1,0 +1,13 @@
+{
+  "slug": "mdn-aprender-web",
+  "type": "tutorials",
+  "name": "MDN: desenvolvimento web",
+  "summary": "Tutoriais e exercícios para aprender os fundamentos da web.",
+  "description": "Área de aprendizagem da MDN com explicações sobre HTML, CSS e JavaScript. Os materiais ajudam você a praticar com exemplos e exercícios. A tradução em português pode variar entre páginas.",
+  "url": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development",
+  "areas": ["frontend", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://developer.mozilla.org/apple-touch-icon.png"
+}

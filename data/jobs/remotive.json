@@ -1,0 +1,13 @@
+{
+  "slug": "remotive",
+  "type": "jobs",
+  "name": "Remotive",
+  "summary": "Diretório internacional de oportunidades de trabalho remoto.",
+  "description": "Pesquise por área e confira quais países a empresa aceita. Trabalho remoto pode ter restrição de residência ou fuso horário. Consulte também as condições de acesso aos recursos da plataforma.",
+  "url": "https://remotive.com/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://remotive.com/remotive_website_layout/static/src/brand/SVG/wordmark_H_orange.svg"
+}

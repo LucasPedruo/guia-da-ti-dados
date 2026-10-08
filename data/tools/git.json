@@ -1,0 +1,13 @@
+{
+  "slug": "git",
+  "type": "tools",
+  "name": "Git",
+  "summary": "Sistema de controle de versão para acompanhar alterações em projetos.",
+  "description": "Registre mudanças e trabalhe com ramificações do código. O site oficial oferece instalação e documentação. Git funciona no computador e pode ser usado com diferentes serviços de hospedagem.",
+  "url": "https://git-scm.com/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://git-scm.com/images/logo@2x.png"
+}

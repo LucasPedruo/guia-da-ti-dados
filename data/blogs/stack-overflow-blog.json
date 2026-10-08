@@ -1,0 +1,13 @@
+{
+  "slug": "stack-overflow-blog",
+  "type": "blogs",
+  "name": "The Stack Overflow Blog",
+  "summary": "Textos e conversas sobre desenvolvimento e o trabalho em tecnologia.",
+  "description": "Blog do Stack Overflow com artigos, entrevistas e episódios de podcast. Aborda ferramentas, carreira e práticas de desenvolvimento. Você encontra opiniões editoriais e informações sobre os produtos da empresa.",
+  "url": "https://stackoverflow.blog/",
+  "areas": ["geral", "carreira", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://stackoverflow.blog/apple-touch-icon.png"
+}

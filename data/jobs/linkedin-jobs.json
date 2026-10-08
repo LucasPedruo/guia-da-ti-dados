@@ -1,0 +1,13 @@
+{
+  "slug": "linkedin-jobs",
+  "type": "jobs",
+  "name": "LinkedIn: vagas",
+  "summary": "Busca de empregos e estágios publicados no LinkedIn.",
+  "description": "Pesquise por função e localização. Confira o formato de trabalho e os requisitos de cada anúncio. A candidatura pode exigir uma conta ou seguir para o site da empresa.",
+  "url": "https://www.linkedin.com/jobs/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+}

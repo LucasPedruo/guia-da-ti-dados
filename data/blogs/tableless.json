@@ -1,0 +1,13 @@
+{
+  "slug": "tableless",
+  "type": "blogs",
+  "name": "Tableless",
+  "summary": "Artigos em português sobre desenvolvimento web e design.",
+  "description": "Publicação com textos sobre desenvolvimento web, interfaces e tecnologias relacionadas. O acervo inclui materiais antigos. Confira a data e compare os exemplos com a documentação atual.",
+  "url": "https://tableless.com.br/",
+  "areas": ["frontend", "design", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://tableless.com.br/wp-content/uploads/2024/01/logo-tableless.svg"
+}

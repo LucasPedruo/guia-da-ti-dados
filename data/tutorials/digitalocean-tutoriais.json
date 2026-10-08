@@ -1,0 +1,13 @@
+{
+  "slug": "digitalocean-tutoriais",
+  "type": "tutorials",
+  "name": "DigitalOcean: tutoriais",
+  "summary": "Guias de configuração de servidores e desenvolvimento de aplicações.",
+  "description": "Acervo de tutoriais da DigitalOcean sobre Linux, infraestrutura e aplicações. Os passos dependem das versões e do ambiente descrito. A leitura dos tutoriais é distinta da contratação dos serviços de nuvem.",
+  "url": "https://www.digitalocean.com/community/tutorials",
+  "areas": ["devops", "cloud", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.digitalocean.com/_do-www-marketing/5f562aff/_next/static/media/apple-touch-icon.9537f22a.png"
+}

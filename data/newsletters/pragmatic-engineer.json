@@ -1,0 +1,13 @@
+{
+  "slug": "pragmatic-engineer",
+  "type": "newsletters",
+  "name": "The Pragmatic Engineer",
+  "summary": "Análises sobre engenharia de software, equipes e mercado de trabalho.",
+  "description": "Newsletter de Gergely Orosz para profissionais e gestores de engenharia. Publica análises de empresas, carreira e práticas de equipes. Há conteúdo gratuito e conteúdo reservado a assinantes pagos.",
+  "url": "https://newsletter.pragmaticengineer.com/",
+  "areas": ["carreira", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://substackcdn.com/image/fetch/$s_!TlPE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d77fcc-2914-46a1-8d39-3a6e8758e0ad%2Fapple-touch-icon-57x57.png"
+}

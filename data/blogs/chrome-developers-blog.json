@@ -1,0 +1,13 @@
+{
+  "slug": "chrome-developers-blog",
+  "type": "blogs",
+  "name": "Chrome for Developers: blog",
+  "summary": "Novidades do Chrome e ferramentas para desenvolver para a web.",
+  "description": "Blog oficial para acompanhar recursos do navegador e mudanças na plataforma web. Reúne explicações técnicas, exemplos e novidades das ferramentas de desenvolvimento. Confira a compatibilidade antes de usar um recurso.",
+  "url": "https://developer.chrome.com/blog",
+  "areas": ["frontend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gstatic.com/devrel-devsite/prod/vc572093a046b25fad0d22bd3210637939b9c971bea06a064d6f48a166bf893c5/chrome/images/touchicon-180.png"
+}

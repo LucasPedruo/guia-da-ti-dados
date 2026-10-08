@@ -1,0 +1,13 @@
+{
+  "slug": "python-weekly",
+  "type": "newsletters",
+  "name": "Python Weekly",
+  "summary": "Notícias, artigos e ferramentas do ecossistema Python.",
+  "description": "Newsletter em inglês com seleção de conteúdos sobre Python. A página oferece inscrição gratuita e um arquivo de edições. Você encontra referências para bibliotecas, projetos e eventos.",
+  "url": "https://www.pythonweekly.com/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/0dfe72e1-380f-4399-a50e-134919512092/thumb_Python-Weekly-Square-Logo.jpg"
+}

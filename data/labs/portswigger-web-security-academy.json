@@ -1,0 +1,13 @@
+{
+  "slug": "portswigger-web-security-academy",
+  "type": "labs",
+  "name": "PortSwigger Web Security Academy",
+  "summary": "Laboratórios interativos para estudar segurança de aplicações web.",
+  "description": "Pratique em ambientes preparados pela PortSwigger e consulte as explicações de cada tema. A academia oferece acesso gratuito aos laboratórios. Alguns exercícios exigem ferramentas e conhecimentos prévios.",
+  "url": "https://portswigger.net/web-security",
+  "areas": ["cybersecurity", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://portswigger.net/web-security/images/landing-page/web-security-academy-logo.svg"
+}

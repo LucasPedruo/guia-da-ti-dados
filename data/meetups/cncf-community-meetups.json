@@ -1,0 +1,13 @@
+{
+  "slug": "cncf-community-meetups",
+  "type": "meetups",
+  "name": "CNCF: encontros da comunidade",
+  "summary": "Encontros locais da comunidade de tecnologias nativas de nuvem.",
+  "description": "Encontre grupos ligados à CNCF e consulte os eventos de cada cidade. Os encontros abordam ferramentas de infraestrutura e operação. Confira o nível esperado antes de participar.",
+  "url": "https://ocgroups.dev/cncf",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://ocgroups.dev/static/images/logo_ocg.png"
+}

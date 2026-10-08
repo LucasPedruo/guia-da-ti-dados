@@ -1,0 +1,13 @@
+{
+  "slug": "taproot",
+  "type": "volunteering",
+  "name": "Taproot: voluntariado profissional",
+  "summary": "Rede que conecta profissionais a projetos de apoio gratuito para organizações sociais.",
+  "description": "Consulte como oferecer suas habilidades a organizações sem fins lucrativos. A plataforma Taproot Plus reúne projetos e sessões de orientação. Confira os requisitos e o compromisso de cada atividade.",
+  "url": "https://taprootfoundation.org/volunteers",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://taprootfoundation.org/static/marketing/favicon/apple-touch-icon_new.80fe81ce17b6.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "google-research-publicacoes",
+  "type": "studies",
+  "name": "Google Research: publicações",
+  "summary": "Catálogo de trabalhos das equipes de pesquisa do Google.",
+  "description": "Página oficial com publicações organizadas por temas de pesquisa. Os registros apresentam autores e referências para acessar os trabalhos. Leia os métodos e os limites de cada estudo antes de comparar resultados.",
+  "url": "https://research.google/pubs/",
+  "areas": ["ia", "dados", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png"
+}

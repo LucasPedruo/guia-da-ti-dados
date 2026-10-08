@@ -1,0 +1,13 @@
+{
+  "slug": "datakind",
+  "type": "volunteering",
+  "name": "DataKind: voluntariado",
+  "summary": "Programa de voluntariado que aplica ciência de dados a projetos de impacto social.",
+  "description": "Consulte como criar seu perfil e acompanhar chamadas para projetos. As equipes usam dados para apoiar organizações sociais. Confira as habilidades exigidas e o formato de participação antes de se candidatar.",
+  "url": "https://www.datakind.org/join-us/volunteer/",
+  "areas": ["carreira", "dados", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.datakind.org/wp-content/uploads/2023/04/DK_LOGO_R_ORG.svg"
+}

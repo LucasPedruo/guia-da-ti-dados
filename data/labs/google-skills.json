@@ -1,0 +1,13 @@
+{
+  "slug": "google-skills",
+  "type": "labs",
+  "name": "Google Skills",
+  "summary": "Plataforma do Google com laboratórios e trilhas para praticar tecnologias de nuvem.",
+  "description": "Escolha uma atividade e consulte as instruções do ambiente de laboratório. A plataforma substitui o endereço Google Cloud Skills Boost. Alguns conteúdos exigem créditos ou assinatura.",
+  "url": "https://www.skills.google/",
+  "areas": ["cloud", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.qwiklabs.com/X46FrQX4iLxHW5MxL8jICvgZM0evMEKscCeQO%2BazGdo%3D"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "infoq",
+  "type": "news",
+  "name": "InfoQ",
+  "summary": "Notícias e artigos sobre engenharia de software e arquitetura.",
+  "description": "Publicação voltada a quem desenvolve e opera software. Reúne notícias, entrevistas e apresentações sobre arquitetura, linguagens e práticas de equipes. Alguns materiais pedem cadastro.",
+  "url": "https://www.infoq.com/",
+  "areas": ["backend", "devops", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.infoq.com/statics_s2_20261007095246/apple-touch-icon.png"
+}

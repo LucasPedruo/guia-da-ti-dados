@@ -1,0 +1,13 @@
+{
+  "slug": "hack-the-box-labs",
+  "type": "labs",
+  "name": "Hack The Box: laboratórios",
+  "summary": "Ambientes de laboratório para praticar testes de segurança e investigação técnica.",
+  "description": "Resolva desafios nos ambientes autorizados da plataforma. Consulte a dificuldade e os requisitos antes de começar. Máquinas e recursos disponíveis dependem do plano de acesso.",
+  "url": "https://www.hackthebox.com/hacker/hacking-labs",
+  "areas": ["cybersecurity", "redes"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.hackthebox.com/hubfs/raw_assets/HackTheBox/56/js_client_assets/assets/nav-logo-3JkQrnNl.svg"
+}

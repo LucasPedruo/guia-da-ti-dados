@@ -1,0 +1,13 @@
+{
+  "slug": "dora-relatorios",
+  "type": "reports",
+  "name": "DORA: pesquisas e relatórios",
+  "summary": "Pesquisas sobre entrega de software e práticas de equipes.",
+  "description": "Página do programa DORA com acesso ao arquivo de pesquisas e relatórios. Os materiais abordam práticas técnicas e organizacionais. Confira a metodologia e o contexto antes de usar uma métrica para comparar equipes.",
+  "url": "https://dora.dev/research/",
+  "areas": ["devops", "qa", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://dora.dev/img/misc/dora_social_image.png"
+}

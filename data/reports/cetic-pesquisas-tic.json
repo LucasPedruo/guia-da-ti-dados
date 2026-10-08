@@ -1,0 +1,13 @@
+{
+  "slug": "cetic-pesquisas-tic",
+  "type": "reports",
+  "name": "Cetic.br: pesquisas TIC",
+  "summary": "Pesquisas sobre acesso e uso da tecnologia no Brasil.",
+  "description": "Portal do Cetic.br com estudos sobre tecnologia em domicílios, empresas e instituições brasileiras. Você pode consultar indicadores e publicações por pesquisa. Confira o período, a população estudada e a metodologia dos dados.",
+  "url": "https://cetic.br/pt/pesquisas/",
+  "areas": ["geral", "dados", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cetic.br/favicon.ico"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "open-source-guides",
+  "type": "open-source",
+  "name": "Guias de código aberto",
+  "summary": "Guias em português para contribuir com projetos e manter comunidades de código aberto.",
+  "description": "Consulte orientações sobre contribuições e organização de projetos. O acervo também explica licenças e convivência com a comunidade. Cada guia aponta práticas para aplicar no projeto escolhido.",
+  "url": "https://opensource.guide/pt/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://github.githubassets.com/favicon.ico"
+}

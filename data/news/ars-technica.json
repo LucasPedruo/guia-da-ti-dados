@@ -1,0 +1,13 @@
+{
+  "slug": "ars-technica",
+  "type": "news",
+  "name": "Ars Technica",
+  "summary": "Notícias e análises sobre computação, ciência e segurança.",
+  "description": "Publicação em inglês com cobertura de software, hardware e pesquisa científica. Os textos incluem análises técnicas e contexto sobre os assuntos. Parte da oferta depende de assinatura.",
+  "url": "https://arstechnica.com/",
+  "areas": ["geral", "hardware", "cybersecurity"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.arstechnica.net/favicon.ico"
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "type": "challenges",
+    "slug": "beecrowd",
+    "name": "beecrowd",
+    "url": "https://beecrowd.com/pt/",
+    "finalUrl": "https://beecrowd.com/pt/",
+    "status": 403,
+    "title": "Just a moment...",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "codewars",
+    "name": "Codewars",
+    "url": "https://www.codewars.com/",
+    "finalUrl": "https://www.codewars.com/",
+    "status": 200,
+    "title": "Codewars - Achieve mastery through coding practice and developer mentorship",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "codingame",
+    "name": "CodinGame",
+    "url": "https://www.codingame.com/start/",
+    "finalUrl": "https://www.codingame.com/start/",
+    "status": 200,
+    "title": "Coding Games and Programming Challenges to Code Better",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "exercism",
+    "name": "Exercism",
+    "url": "https://exercism.org/",
+    "finalUrl": "https://exercism.org/",
+    "status": 200,
+    "title": "Exercism",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "frontend-mentor",
+    "name": "Frontend Mentor",
+    "url": "https://www.frontendmentor.io/",
+    "finalUrl": "https://www.frontendmentor.io/",
+    "status": 200,
+    "title": "Learn to Code for Free by Building Real-World Projects",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "hackerrank",
+    "name": "HackerRank: prática",
+    "url": "https://www.hackerrank.com/dashboard",
+    "finalUrl": "https://www.hackerrank.com/dashboard",
+    "status": 200,
+    "title": "Dashboard | HackerRank",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "leetcode",
+    "name": "LeetCode",
+    "url": "https://leetcode.com/",
+    "finalUrl": "https://leetcode.com/",
+    "status": 403,
+    "title": "Just a moment...",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "challenges",
+    "slug": "project-euler",
+    "name": "Project Euler",
+    "url": "https://projecteuler.net/",
+    "finalUrl": "https://projecteuler.net/",
+    "status": 200,
+    "title": "About - Project Euler",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "google-skills",
+    "name": "Google Skills",
+    "url": "https://www.skills.google/",
+    "finalUrl": "https://www.skills.google/",
+    "status": 200,
+    "title": "Google Skills",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "hack-the-box-labs",
+    "name": "Hack The Box: laboratórios",
+    "url": "https://www.hackthebox.com/hacker/hacking-labs",
+    "finalUrl": "https://www.hackthebox.com/hacker/hacking-labs",
+    "status": 200,
+    "title": "Hacking Labs",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "killercoda",
+    "name": "Killercoda",
+    "url": "https://killercoda.com/",
+    "finalUrl": "https://killercoda.com/",
+    "status": 200,
+    "title": "Killercoda Interactive Environments",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "overthewire",
+    "name": "OverTheWire",
+    "url": "https://overthewire.org/wargames/",
+    "finalUrl": "https://overthewire.org/wargames/",
+    "status": 200,
+    "title": "OverTheWire: Wargames",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "portswigger-web-security-academy",
+    "name": "PortSwigger Web Security Academy",
+    "url": "https://portswigger.net/web-security",
+    "finalUrl": "https://portswigger.net/web-security",
+    "status": 200,
+    "title": "Web Security Academy: Free Online Training from PortSwigger",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "labs",
+    "slug": "tryhackme",
+    "name": "TryHackMe",
+    "url": "https://tryhackme.com/",
+    "finalUrl": "https://tryhackme.com/",
+    "status": 200,
+    "title": "Learn Cyber Security | TryHackMe Cyber Training",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "codetriage",
+    "name": "CodeTriage",
+    "url": "https://www.codetriage.com/",
+    "finalUrl": "https://www.codetriage.com/",
+    "status": 200,
+    "title": "Get Started Contributing to Open Source Projects | CodeTriage",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "first-contributions",
+    "name": "First Contributions",
+    "url": "https://firstcontributions.github.io/",
+    "finalUrl": "https://firstcontributions.github.io/",
+    "status": 200,
+    "title": "First Contributions - Make Your First Open Source Contribution in 5 Minutes",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "github-explore",
+    "name": "GitHub Explore",
+    "url": "https://github.com/explore",
+    "finalUrl": "https://github.com/explore",
+    "status": 200,
+    "title": "Explore GitHub · GitHub",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "good-first-issue",
+    "name": "Good First Issue",
+    "url": "https://goodfirstissue.dev/",
+    "finalUrl": "https://goodfirstissue.dev/",
+    "status": 200,
+    "title": "Good First Issue: Make your first open-source contribution",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "open-source-guides",
+    "name": "Guias de código aberto",
+    "url": "https://opensource.guide/pt/",
+    "finalUrl": "https://opensource.guide/pt/",
+    "status": 200,
+    "title": "Guias de código aberto | Open Source Guides",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "open-source",
+    "slug": "up-for-grabs",
+    "name": "Up For Grabs",
+    "url": "https://up-for-grabs.net/",
+    "finalUrl": "https://up-for-grabs.net/",
+    "status": 200,
+    "title": "Up For Grabs",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "bruno",
+    "name": "Bruno",
+    "url": "https://www.usebruno.com/",
+    "finalUrl": "https://www.usebruno.com/",
+    "status": 200,
+    "title": "Bruno - The Git-Native API Client",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "codepen",
+    "name": "CodePen",
+    "url": "https://codepen.io/",
+    "finalUrl": "https://codepen.io/",
+    "status": 403,
+    "title": "Just a moment...",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "dbdiagram",
+    "name": "dbdiagram.io",
+    "url": "https://dbdiagram.io/",
+    "finalUrl": "https://dbdiagram.io/",
+    "status": 200,
+    "title": "dbdiagram.io - Database Relationship Diagrams Design Tool",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "figma",
+    "name": "Figma",
+    "url": "https://www.figma.com/",
+    "finalUrl": "https://www.figma.com/",
+    "status": 200,
+    "title": "Figma: The collaborative canvas for design, code, and AI",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "git",
+    "name": "Git",
+    "url": "https://git-scm.com/",
+    "finalUrl": "https://git-scm.com/",
+    "status": 200,
+    "title": "Git",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "postman",
+    "name": "Postman",
+    "url": "https://www.postman.com/",
+    "finalUrl": "https://www.postman.com/",
+    "status": 200,
+    "title": "API engineering for your agents",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "stackblitz",
+    "name": "StackBlitz",
+    "url": "https://stackblitz.com/",
+    "finalUrl": "https://stackblitz.com/",
+    "status": 200,
+    "title": "StackBlitz | Instant Dev Environments | Click. Code. Done.",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "tools",
+    "slug": "visual-studio-code",
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com/",
+    "finalUrl": "https://code.visualstudio.com/",
+    "status": 200,
+    "title": "Visual Studio Code - The open source AI code editor | Your home for multi-agent development",
+    "checkedAt": "2026-10-08"
+  }
+]

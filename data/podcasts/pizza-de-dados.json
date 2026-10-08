@@ -1,0 +1,13 @@
+{
+  "slug": "pizza-de-dados",
+  "type": "podcasts",
+  "name": "Pizza de Dados",
+  "summary": "Conversas em português sobre ciência de dados e suas aplicações.",
+  "description": "Podcast com entrevistas e discussões sobre dados, estatística e inteligência artificial. A página reúne episódios e referências para continuar a pesquisa. O nível técnico varia conforme o tema.",
+  "url": "https://podcast.pizzadedados.com/",
+  "areas": ["dados", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://d2bwo9zemjwxh5.cloudfront.net/image-logo/2203782/avatar_large_2_1200x628.jpg?s=ec5cf55c9d2b030bf102df5c9923621e&e=png"
+}

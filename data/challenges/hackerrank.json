@@ -1,0 +1,13 @@
+{
+  "slug": "hackerrank",
+  "type": "challenges",
+  "name": "HackerRank: prática",
+  "summary": "Catálogo de exercícios de programação, algoritmos e consultas de dados.",
+  "description": "Escolha uma área e resolva os desafios com avaliação automática. Os exercícios ajudam a praticar diferentes habilidades técnicas. A plataforma exige uma conta para registrar suas soluções.",
+  "url": "https://www.hackerrank.com/dashboard",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://hrcdn.net/hrc/_next/static/next_assets/brand/logo-light.svg"
+}

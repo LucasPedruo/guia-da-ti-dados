@@ -1,0 +1,13 @@
+{
+  "slug": "olhar-digital",
+  "type": "news",
+  "name": "Olhar Digital",
+  "summary": "Cobertura brasileira de tecnologia, ciência e cultura digital.",
+  "description": "Portal com notícias e vídeos sobre serviços digitais, inteligência artificial e dispositivos. Você acessa as publicações no site de origem, que também reúne publicidade e conteúdos comerciais.",
+  "url": "https://olhardigital.com.br/",
+  "areas": ["geral", "ia", "hardware"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://img.odcdn.com.br/wp-content/uploads/images/header-logo.webp"
+}

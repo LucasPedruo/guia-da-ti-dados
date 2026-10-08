@@ -1,0 +1,13 @@
+{
+  "slug": "syntax",
+  "type": "podcasts",
+  "name": "Syntax",
+  "summary": "Podcast em inglês sobre desenvolvimento web e suas ferramentas.",
+  "description": "Podcast de Wes Bos e Scott Tolinski com conversas sobre desenvolvimento web. Reúne episódios sobre interfaces, servidores e o trabalho com software. A página oferece busca e referências dos episódios.",
+  "url": "https://syntax.fm/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://syntax.fm/favicon.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "up-for-grabs",
+  "type": "open-source",
+  "name": "Up For Grabs",
+  "summary": "Diretório de projetos com tarefas indicadas para novas contribuições.",
+  "description": "Encontre um projeto pelo assunto ou pela linguagem. Leia as orientações de contribuição e converse com os mantenedores antes de iniciar uma tarefa. A disponibilidade depende de cada projeto.",
+  "url": "https://up-for-grabs.net/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://up-for-grabs.net/images/logo.png"
+}

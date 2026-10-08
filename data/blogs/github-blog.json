@@ -1,0 +1,13 @@
+{
+  "slug": "github-blog",
+  "type": "blogs",
+  "name": "The GitHub Blog",
+  "summary": "Publicações do GitHub sobre desenvolvimento e código aberto.",
+  "description": "Blog oficial com novidades de produtos e textos das equipes do GitHub. Reúne experiências de engenharia, segurança e colaboração. As publicações refletem a perspectiva da empresa sobre seu ecossistema.",
+  "url": "https://github.blog/",
+  "areas": ["backend", "devops", "cybersecurity"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "codepen",
+  "type": "tools",
+  "name": "CodePen",
+  "summary": "Editor online para experimentar interfaces e compartilhar código web.",
+  "description": "Crie exemplos e veja o resultado no navegador. A ferramenta ajuda a testar ideias de interface. Confira a visibilidade dos projetos e os limites do plano antes de publicar.",
+  "url": "https://codepen.io/",
+  "areas": ["frontend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://avatars.githubusercontent.com/u/1545643?v=4"
+}

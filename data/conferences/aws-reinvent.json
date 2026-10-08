@@ -1,0 +1,14 @@
+{
+  "slug": "aws-reinvent",
+  "type": "conferences",
+  "name": "AWS re:Invent",
+  "summary": "Conferência da AWS com palestras e atividades sobre computação em nuvem.",
+  "description": "Consulte a programação e as orientações da edição anunciada pela AWS. O evento acontece nos Estados Unidos. Confira ingresso, viagem e opções de conteúdo online no site.",
+  "url": "https://aws.amazon.com/events/reinvent/",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "countries": ["US"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/events/approved/reinvent26/RIV-navlogo-v2.f95e8a33c69deb053e79828b0806c68944922fd7.png"
+}

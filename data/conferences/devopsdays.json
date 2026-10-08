@@ -1,0 +1,13 @@
+{
+  "slug": "devopsdays",
+  "type": "conferences",
+  "name": "DevOpsDays",
+  "summary": "Calendário de conferências locais sobre DevOps e operação de sistemas.",
+  "description": "Encontre uma edição por cidade e consulte sua programação. Os eventos combinam palestras e conversas abertas. Cada organização local define inscrição, idioma e formato.",
+  "url": "https://devopsdays.org/",
+  "areas": ["devops", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://devopsdays.org/img/sharing.jpg"
+}

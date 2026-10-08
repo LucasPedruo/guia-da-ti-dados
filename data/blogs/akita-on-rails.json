@@ -1,0 +1,13 @@
+{
+  "slug": "akita-on-rails",
+  "type": "blogs",
+  "name": "AkitaOnRails",
+  "summary": "Textos de Fábio Akita sobre programação e engenharia de software.",
+  "description": "Blog pessoal com artigos, tutoriais e opiniões sobre desenvolvimento de software. O arquivo reúne textos de épocas diferentes. Confira a data e a versão das ferramentas antes de aplicar um exemplo.",
+  "url": "https://akitaonrails.com/",
+  "areas": ["backend", "carreira", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://akitaonrails.com/apple-touch-icon.png"
+}

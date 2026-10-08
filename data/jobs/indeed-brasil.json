@@ -1,0 +1,14 @@
+{
+  "slug": "indeed-brasil",
+  "type": "jobs",
+  "name": "Indeed Brasil",
+  "summary": "Buscador de empregos com filtros por cargo e localização.",
+  "description": "Procure oportunidades no Brasil e consulte o anúncio de origem. A candidatura pode acontecer no Indeed ou no site da empresa. Confira os requisitos e a situação da vaga.",
+  "url": "https://br.indeed.com/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://br.indeed.com/apple-touch-icon.png"
+}

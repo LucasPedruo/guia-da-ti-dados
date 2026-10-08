@@ -1,0 +1,13 @@
+{
+  "slug": "diolinux",
+  "type": "blogs",
+  "name": "Diolinux",
+  "summary": "Publicações sobre Linux, programas e código aberto.",
+  "description": "Site brasileiro com notícias, tutoriais e análises de distribuições Linux e ferramentas. Ajuda a acompanhar o uso de sistemas e programas no dia a dia. Também reúne conteúdo comercial.",
+  "url": "https://diolinux.com.br/",
+  "areas": ["geral", "devops"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://diolinux.com.br/wp-content/uploads/2021/05/cropped-diolinux-logo-180x180.png"
+}

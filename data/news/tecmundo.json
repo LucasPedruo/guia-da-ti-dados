@@ -1,0 +1,13 @@
+{
+  "slug": "tecmundo",
+  "type": "news",
+  "name": "TecMundo",
+  "summary": "Notícias sobre tecnologia, segurança digital e produtos.",
+  "description": "Portal brasileiro para acompanhar lançamentos, empresas e serviços de tecnologia. Também aborda jogos, entretenimento e ciência. Notícias e conteúdos de ofertas convivem na página.",
+  "url": "https://www.tecmundo.com.br/",
+  "areas": ["geral", "hardware", "cybersecurity"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/HF3I65OGPFBXBG4YQVXTUQOYZM.png"
+}

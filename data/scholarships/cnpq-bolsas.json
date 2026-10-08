@@ -1,0 +1,14 @@
+{
+  "slug": "cnpq-bolsas",
+  "type": "scholarships",
+  "name": "CNPq: bolsas no país e no exterior",
+  "summary": "Fonte oficial de modalidades de bolsas para formação científica e tecnológica.",
+  "description": "Consulte as modalidades e os requisitos de apoio à pesquisa. O acesso depende das regras de cada chamada ou instituição. Verifique o procedimento de candidatura antes de preparar sua proposta.",
+  "url": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios/copy_of_modalidades",
+  "areas": ["carreira", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gov.br/cnpq/logo.png"
+}

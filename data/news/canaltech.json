@@ -1,0 +1,13 @@
+{
+  "slug": "canaltech",
+  "type": "news",
+  "name": "Canaltech",
+  "summary": "Notícias de tecnologia e ciência, com análises de produtos.",
+  "description": "Portal brasileiro com cobertura de dispositivos, serviços digitais e ciência. Reúne notícias, testes de produtos e guias de compra. O site também publica ofertas e publicidade.",
+  "url": "https://canaltech.com.br/",
+  "areas": ["geral", "hardware", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://canaltech.com.br/apple-touch-icon.png"
+}

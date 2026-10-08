@@ -1,0 +1,13 @@
+{
+  "slug": "data-hackers-newsletter",
+  "type": "newsletters",
+  "name": "Data Hackers Newsletter",
+  "summary": "Seleção de notícias e referências sobre dados e inteligência artificial.",
+  "description": "Newsletter em português com novidades da área de dados e inteligência artificial. A página oferece inscrição gratuita por e-mail e acesso às edições publicadas. Inclui referências para profissionais da área.",
+  "url": "https://www.datahackers.news/",
+  "areas": ["dados", "ia", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/0f0bfe98-8943-4bc1-b95d-7c9ecfd3e402/thumb_Design_sem_nome__43_.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "freecodecamp-publicacoes",
+  "type": "articles",
+  "name": "freeCodeCamp: publicações",
+  "summary": "Artigos e explicações de programação escritos pela comunidade.",
+  "description": "Publicações do freeCodeCamp com exemplos e referências de desenvolvimento de software. O cadastro aponta para o acervo em inglês. A página também oferece acesso a publicações em outros idiomas.",
+  "url": "https://www.freecodecamp.org/news/",
+  "areas": ["frontend", "backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "stackblitz",
+  "type": "tools",
+  "name": "StackBlitz",
+  "summary": "Ambiente de desenvolvimento no navegador para criar e executar projetos web.",
+  "description": "Abra projetos e experimente alterações sem instalar todo o ambiente no computador. O suporte depende do navegador e da tecnologia usada. Confira as condições de compartilhamento e os planos.",
+  "url": "https://stackblitz.com/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://stackblitz.com/_astro/img/brands/stackblitz-monotone.svg"
+}

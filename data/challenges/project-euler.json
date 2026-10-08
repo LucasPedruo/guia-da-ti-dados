@@ -1,0 +1,13 @@
+{
+  "slug": "project-euler",
+  "type": "challenges",
+  "name": "Project Euler",
+  "summary": "Problemas de matemática que você pode resolver com programação.",
+  "description": "Escolha um problema e desenvolva uma solução no seu ambiente. Os exercícios combinam raciocínio matemático e algoritmos. Confira as regras da comunidade antes de compartilhar respostas.",
+  "url": "https://projecteuler.net/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://projecteuler.net/favicons/apple-touch-icon.png"
+}

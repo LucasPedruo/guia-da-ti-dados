@@ -1,0 +1,13 @@
+{
+  "slug": "nasa-space-apps",
+  "type": "hackathons",
+  "name": "NASA International Space Apps Challenge",
+  "summary": "Hackathon internacional que usa dados abertos da NASA em desafios sobre Terra e espaço.",
+  "description": "Explore os desafios e encontre uma organização local para participar. As equipes trabalham com dados abertos e problemas propostos pelo evento. Confira a edição e as regras anunciadas.",
+  "url": "https://www.spaceappschallenge.org/",
+  "areas": ["dados", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://assets.spaceappschallenge.org/media/images/Space_Apps_Logo_Color_and_Black.width-580.png"
+}

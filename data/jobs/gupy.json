@@ -1,0 +1,14 @@
+{
+  "slug": "gupy",
+  "type": "jobs",
+  "name": "Portal Gupy",
+  "summary": "Portal para encontrar oportunidades publicadas por empresas que usam a Gupy.",
+  "description": "Pesquise por cargo e consulte oportunidades de diferentes empresas. Os anúncios levam às páginas de candidatura. Leia os requisitos e as etapas do processo na fonte.",
+  "url": "https://portal.gupy.io/pt",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://portal.gupy.io/images/gupy-logo-short.svg"
+}

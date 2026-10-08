@@ -1,0 +1,14 @@
+{
+  "slug": "capes-bolsas",
+  "type": "scholarships",
+  "name": "CAPES: bolsas e estudantes",
+  "summary": "Diretório oficial de programas de bolsas e orientações da CAPES.",
+  "description": "Consulte os programas de apoio à formação e pesquisa. A forma de candidatura varia entre editais e instituições participantes. Confira as regras da modalidade que corresponde ao seu nível de estudo.",
+  "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas",
+  "areas": ["carreira", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gov.br/capes/icon.svg"
+}

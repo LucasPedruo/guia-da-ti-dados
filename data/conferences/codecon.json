@@ -1,0 +1,14 @@
+{
+  "slug": "codecon",
+  "type": "conferences",
+  "name": "Codecon",
+  "summary": "Conferências e encontros da Codecon para quem trabalha com desenvolvimento.",
+  "description": "Acompanhe as edições anunciadas pela organização e consulte a programação. A página também reúne encontros em outros formatos. Confira cidade, datas e ingresso de cada edição.",
+  "url": "https://codecon.dev/eventos",
+  "areas": ["geral", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://framerusercontent.com/images/xOtlWKMI2g8F7sCvurdGXG5Eao.png"
+}

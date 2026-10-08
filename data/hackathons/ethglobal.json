@@ -1,0 +1,13 @@
+{
+  "slug": "ethglobal",
+  "type": "hackathons",
+  "name": "ETHGlobal",
+  "summary": "Agenda de hackathons e encontros para construir projetos no ecossistema Ethereum.",
+  "description": "Filtre o calendário para encontrar hackathons e consulte os desafios. O programa também reúne conferências e encontros. Confira regras de equipe e requisitos técnicos antes de se inscrever.",
+  "url": "https://ethglobal.com/events",
+  "areas": ["backend", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.ethglobal.com/events/ethereum-korea-one-genesis-build-beyond-the-narrative-drtd4/square-logo/default.png"
+}

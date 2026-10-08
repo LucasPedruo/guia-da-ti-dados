@@ -1,0 +1,13 @@
+{
+  "slug": "tldr-tech",
+  "type": "newsletters",
+  "name": "TLDR",
+  "summary": "Resumos e links de notícias de tecnologia e programação.",
+  "description": "Newsletter em inglês com resumos de notícias e referências para leitura na fonte. A página oferece inscrição gratuita por e-mail. A seleção inclui tecnologia, programação e empresas.",
+  "url": "https://tldr.tech/",
+  "areas": ["geral", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://tldr.tech/apple-touch-icon-kf.png"
+}

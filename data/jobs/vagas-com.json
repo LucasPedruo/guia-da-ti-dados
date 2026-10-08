@@ -1,0 +1,14 @@
+{
+  "slug": "vagas-com",
+  "type": "jobs",
+  "name": "Vagas.com",
+  "summary": "Portal brasileiro para pesquisar oportunidades e participar de processos seletivos.",
+  "description": "Consulte os anúncios e mantenha seu perfil para candidaturas. O portal reúne oportunidades de diferentes áreas. Leia as exigências e as etapas definidas pela empresa.",
+  "url": "https://www.vagas.com.br/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.vagas.com.br/favicon.ico"
+}

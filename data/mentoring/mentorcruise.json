@@ -1,0 +1,13 @@
+{
+  "slug": "mentorcruise",
+  "type": "mentoring",
+  "name": "MentorCruise",
+  "summary": "Plataforma de mentorias pagas para desenvolvimento profissional e habilidades técnicas.",
+  "description": "Compare mentores por experiência e área de atuação. Consulte o preço e o formato do acompanhamento antes de contratar. As condições e a disponibilidade dependem do profissional escolhido.",
+  "url": "https://mentorcruise.com/",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.mentorcruise.com/img/mc-logo-white.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "geekhunter",
+  "type": "jobs",
+  "name": "GeekHunter",
+  "summary": "Plataforma de recrutamento com foco em profissionais de tecnologia.",
+  "description": "Consulte as orientações para candidatos e cadastre seu perfil profissional. A plataforma aproxima empresas e profissionais da área. A participação nos processos depende dos requisitos de cada empresa.",
+  "url": "https://www.geekhunter.com/pt",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.geekhunter.com/cdn-cgi/image/width=384,quality=75/https://www.geekhunter.com/images/landing/Geekhunter_logo_without_margin.svg"
+}

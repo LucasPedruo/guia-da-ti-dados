@@ -1,0 +1,13 @@
+{
+  "slug": "jmlr",
+  "type": "studies",
+  "name": "Journal of Machine Learning Research",
+  "summary": "Revista de acesso aberto com pesquisas sobre aprendizado de máquina.",
+  "description": "Revista científica com artigos sobre métodos e aplicações de aprendizado de máquina. Você pode acessar os trabalhos pelo site da publicação. Os textos exigem conhecimento de matemática e leitura acadêmica.",
+  "url": "https://jmlr.org/",
+  "areas": ["ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://jmlr.org/img/favicon.ico"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "tecnocast",
+  "type": "podcasts",
+  "name": "Tecnocast",
+  "summary": "Conversas do Tecnoblog sobre tecnologia e vida digital.",
+  "description": "Podcast em português sobre empresas, produtos e mudanças no uso da tecnologia. A página oficial reúne o acervo de episódios. Confira a data de cada conversa ao pesquisar um assunto.",
+  "url": "https://tecnoblog.net/tecnocast/",
+  "areas": ["geral", "hardware"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/25/4d/1a254d7d-d084-25bb-25b1-7f1af570c0c1/mza_17020645238384525079.jpg/600x600bb.webp"
+}

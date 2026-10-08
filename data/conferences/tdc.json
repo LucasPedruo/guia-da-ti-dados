@@ -1,0 +1,14 @@
+{
+  "slug": "tdc",
+  "type": "conferences",
+  "name": "TDC: The Developer’s Conference",
+  "summary": "Conferências brasileiras com trilhas para profissionais de desenvolvimento e tecnologia.",
+  "description": "Consulte as edições de 2026 e escolha as trilhas ligadas ao seu trabalho. A programação e os ingressos variam por edição. Confira as condições no site.",
+  "url": "https://thedevconf.com/tdc/2026/index.html",
+  "areas": ["geral", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.thedevconf.com.br/2026/img/site/logo-summit-ia.png"
+}

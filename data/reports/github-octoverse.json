@@ -1,0 +1,13 @@
+{
+  "slug": "github-octoverse",
+  "type": "reports",
+  "name": "GitHub Octoverse",
+  "summary": "Relatórios sobre projetos e atividade de desenvolvimento no GitHub.",
+  "description": "Acervo das publicações Octoverse com análises do ecossistema GitHub. Consulte a edição e os critérios de cada relatório. Os dados de uma plataforma não representam toda a atividade de desenvolvimento de software.",
+  "url": "https://github.blog/news-insights/octoverse/",
+  "areas": ["geral", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180"
+}

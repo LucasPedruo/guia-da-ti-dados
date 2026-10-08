@@ -1,0 +1,13 @@
+{
+  "slug": "javascript-info",
+  "type": "tutorials",
+  "name": "The Modern JavaScript Tutorial",
+  "summary": "Tutoriais de JavaScript, dos fundamentos aos recursos da linguagem.",
+  "description": "Acervo organizado por capítulos sobre JavaScript e sua utilização no navegador. Inclui explicações, exemplos e exercícios. Você lê o conteúdo no site de origem, em inglês.",
+  "url": "https://javascript.info/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png"
+}

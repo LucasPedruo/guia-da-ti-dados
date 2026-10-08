@@ -1,0 +1,13 @@
+{
+  "slug": "css-tricks",
+  "type": "articles",
+  "name": "CSS-Tricks",
+  "summary": "Artigos e guias sobre CSS e construção de interfaces web.",
+  "description": "Publicação em inglês voltada ao desenvolvimento de interfaces. Reúne exemplos e guias de CSS, HTML e JavaScript. Confira a data do texto e o suporte dos navegadores antes de aplicar um exemplo.",
+  "url": "https://css-tricks.com/",
+  "areas": ["frontend", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://css-tricks.com/apple-touch-icon.png"
+}

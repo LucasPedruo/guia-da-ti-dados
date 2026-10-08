@@ -1,0 +1,13 @@
+{
+  "slug": "beecrowd",
+  "type": "challenges",
+  "name": "beecrowd",
+  "summary": "Plataforma de exercícios de programação com correção automática e competições.",
+  "description": "Pratique lógica e algoritmos nos problemas disponíveis na comunidade. Escolha a linguagem e envie sua solução para avaliação. A área de prática pode exigir cadastro na plataforma.",
+  "url": "https://beecrowd.com/pt/",
+  "areas": ["backend", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://beecrowd.com/wp-content/uploads/2024/03/main-favicon-96px.svg"
+}

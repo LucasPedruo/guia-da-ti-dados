@@ -1,0 +1,13 @@
+{
+  "slug": "pydata-meetups",
+  "type": "meetups",
+  "name": "PyData: encontros locais",
+  "summary": "Rede de grupos com encontros sobre análise de dados e computação científica.",
+  "description": "Procure grupos PyData por localização e acompanhe suas agendas. Os encontros incluem apresentações e troca de experiências sobre dados. Consulte o idioma e os requisitos de inscrição.",
+  "url": "https://www.meetup.com/pro/pydata/",
+  "areas": ["dados", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://pydata.org/wp-content/uploads/2019/06/pydata-logo-final.png"
+}

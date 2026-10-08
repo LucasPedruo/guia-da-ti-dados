@@ -1,0 +1,13 @@
+{
+  "slug": "luma-tech",
+  "type": "events",
+  "name": "Luma: eventos de tecnologia",
+  "summary": "Descubra eventos de tecnologia publicados por organizadores no Luma.",
+  "description": "Explore encontros presenciais e online por tema ou localização. Cada organizador define inscrição e acesso. Confira a descrição e quem organiza antes de participar.",
+  "url": "https://luma.com/tech",
+  "areas": ["geral", "networking"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://luma.com/favicon.ico"
+}

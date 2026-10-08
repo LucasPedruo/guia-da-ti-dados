@@ -1,0 +1,13 @@
+{
+  "slug": "changelog",
+  "type": "podcasts",
+  "name": "The Changelog",
+  "summary": "Entrevistas em inglês sobre software e projetos de código aberto.",
+  "description": "Podcast com desenvolvedores e mantenedores de projetos. As conversas abordam ferramentas, decisões técnicas e o trabalho com código aberto. A página reúne episódios e links relacionados.",
+  "url": "https://changelog.com/podcast",
+  "areas": ["geral", "backend", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.changelog.com/static/favicon-b4b2f962a1fe2a589cbe515208193316.ico"
+}

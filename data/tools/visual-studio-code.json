@@ -1,0 +1,13 @@
+{
+  "slug": "visual-studio-code",
+  "type": "tools",
+  "name": "Visual Studio Code",
+  "summary": "Editor de código com extensões e ferramentas para desenvolver projetos.",
+  "description": "Escreva e depure código no computador. Você pode instalar extensões conforme a linguagem usada. O site reúne downloads e documentação para configurar seu ambiente.",
+  "url": "https://code.visualstudio.com/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://code.visualstudio.com/assets/favicon.ico"
+}

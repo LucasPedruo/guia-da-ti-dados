@@ -1,0 +1,13 @@
+{
+  "slug": "braincast",
+  "type": "podcasts",
+  "name": "Braincast",
+  "summary": "Discussões sobre cultura digital, criatividade e comportamento.",
+  "description": "Podcast do B9 com conversas sobre tecnologia, comunicação e sociedade. Ajuda a acompanhar o contexto cultural dos produtos digitais. Nem todos os episódios tratam de programação ou assuntos técnicos.",
+  "url": "https://www.b9.com.br/braincast/",
+  "areas": ["geral", "produto", "design"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.b9.com.br/assets/b9-mark-official.png?v=7xJldkGXy9owgEj8"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "the-verge",
+  "type": "news",
+  "name": "The Verge: Tech",
+  "summary": "Notícias e análises em inglês sobre tecnologia e seus efeitos na sociedade.",
+  "description": "Seção de tecnologia do The Verge, com cobertura de empresas, dispositivos e plataformas digitais. O site combina notícias e análises. Algumas publicações e recursos dependem de assinatura.",
+  "url": "https://www.theverge.com/tech",
+  "areas": ["geral", "hardware", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png"
+}

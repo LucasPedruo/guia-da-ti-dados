@@ -1,0 +1,231 @@
+[
+  {
+    "type": "jobs",
+    "slug": "geekhunter",
+    "name": "GeekHunter",
+    "url": "https://www.geekhunter.com/pt",
+    "finalUrl": "https://www.geekhunter.com/pt",
+    "status": 200,
+    "title": "GeekHunter | A plataforma líder em recrutamento tech no Brasil",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "gupy",
+    "name": "Portal Gupy",
+    "url": "https://portal.gupy.io/pt",
+    "finalUrl": "https://portal.gupy.io/pt",
+    "status": 200,
+    "title": "Portal Gupy | Encontre Vagas de Emprego que Impulsionam sua Carreira",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "indeed-brasil",
+    "name": "Indeed Brasil",
+    "url": "https://br.indeed.com/",
+    "finalUrl": "https://br.indeed.com/",
+    "status": 403,
+    "title": "Security Check - Indeed.com",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "linkedin-jobs",
+    "name": "LinkedIn: vagas",
+    "url": "https://www.linkedin.com/jobs/",
+    "finalUrl": "https://www.linkedin.com/jobs/",
+    "status": 200,
+    "title": "LinkedIn Job Search: Find US Jobs, Internships, Jobs Near Me",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "programathor",
+    "name": "ProgramaThor",
+    "url": "https://programathor.com.br/",
+    "finalUrl": "https://programathor.com.br/",
+    "status": 200,
+    "title": "ProgramaThor - Oportunidades para Desenvolvedores 🚀",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "remotive",
+    "name": "Remotive",
+    "url": "https://remotive.com/",
+    "finalUrl": "https://remotive.com/",
+    "status": 200,
+    "title": "Remote Jobs in Programming, Support, Design and more",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "vagas-com",
+    "name": "Vagas.com",
+    "url": "https://www.vagas.com.br/",
+    "finalUrl": "https://www.vagas.com.br/",
+    "status": 200,
+    "title": "A plataforma de recrutamento mais rápida do mercado",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "jobs",
+    "slug": "we-work-remotely",
+    "name": "We Work Remotely",
+    "url": "https://weworkremotely.com/",
+    "finalUrl": "https://weworkremotely.com/",
+    "status": 403,
+    "title": "Just a moment...",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "mentoring",
+    "slug": "adplist",
+    "name": "ADPList",
+    "url": "https://adplist.org/",
+    "finalUrl": "https://adplist.org/",
+    "status": 200,
+    "title": "ADPList — Mentoring Platform: Find Your Next Step with a Mentor",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "mentoring",
+    "slug": "lfx-mentorship",
+    "name": "LFX Mentorship",
+    "url": "https://mentorship.lfx.linuxfoundation.org/",
+    "finalUrl": "https://mentorship.lfx.linuxfoundation.org/",
+    "status": 200,
+    "title": "Mentorship",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "mentoring",
+    "slug": "mentorcruise",
+    "name": "MentorCruise",
+    "url": "https://mentorcruise.com/",
+    "finalUrl": "https://mentorcruise.com/",
+    "status": 200,
+    "title": "MentorCruise - Connecting Mentors & Mentees",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "mentoring",
+    "slug": "topmate",
+    "name": "Topmate",
+    "url": "https://topmate.io/",
+    "finalUrl": "https://topmate.io/",
+    "status": 200,
+    "title": "Topmate: sell what your people ask for",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "capes-bolsas",
+    "name": "CAPES: bolsas e estudantes",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas",
+    "finalUrl": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas",
+    "status": 200,
+    "title": "Bolsas e Estudantes",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "cnpq-bolsas",
+    "name": "CNPq: bolsas no país e no exterior",
+    "url": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios/copy_of_modalidades",
+    "finalUrl": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios/copy_of_modalidades",
+    "status": 200,
+    "title": "Bolsas no País e no Exterior — Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "fundacion-carolina",
+    "name": "Fundación Carolina",
+    "url": "https://www.fundacioncarolina.es/",
+    "finalUrl": "https://www.fundacioncarolina.es/",
+    "status": 200,
+    "title": "Página de Inicio - Fundación Carolina",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "lideres-estudar",
+    "name": "Programa Líderes Estudar",
+    "url": "https://www.estudar.org.br/lideres/",
+    "finalUrl": "https://www.estudar.org.br/lideres/",
+    "status": 200,
+    "title": "Programa Líderes Estudar 2026 | Fundação Estudar",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "prouni",
+    "name": "Prouni",
+    "url": "https://acessounico.mec.gov.br/prouni",
+    "finalUrl": "https://acessounico.mec.gov.br/prouni",
+    "status": 200,
+    "title": "Portal Único de Acesso ao Ensino Superior",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "scholarships",
+    "slug": "santander-open-academy",
+    "name": "Santander Open Academy",
+    "url": "https://www.santanderopenacademy.com/pt_br/index.html",
+    "finalUrl": "https://www.santanderopenacademy.com/pt_br/index.html",
+    "status": 200,
+    "title": "Plataforma de E-Learning | Santander Open Academy",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "volunteering",
+    "slug": "atados",
+    "name": "Atados",
+    "url": "https://www.atados.com.br/",
+    "finalUrl": "https://www.atados.com.br/",
+    "status": 429,
+    "title": "Vercel Security Checkpoint",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "volunteering",
+    "slug": "catchafire",
+    "name": "Catchafire",
+    "url": "https://www.catchafire.org/volunteer/",
+    "finalUrl": "https://www.catchafire.org/volunteer/",
+    "status": 403,
+    "title": "Just a moment...",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "volunteering",
+    "slug": "datakind",
+    "name": "DataKind: voluntariado",
+    "url": "https://www.datakind.org/join-us/volunteer/",
+    "finalUrl": "https://www.datakind.org/join-us/volunteer/",
+    "status": 200,
+    "title": "Volunteer &#8211; DataKind",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "volunteering",
+    "slug": "taproot",
+    "name": "Taproot: voluntariado profissional",
+    "url": "https://taprootfoundation.org/volunteers",
+    "finalUrl": "https://taprootfoundation.org/volunteers",
+    "status": 200,
+    "title": "Volunteers",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "volunteering",
+    "slug": "unv-online",
+    "name": "UNV: voluntariado online",
+    "url": "https://www.unv.org/become-online-volunteer",
+    "finalUrl": "https://www.unv.org/become-online-volunteer",
+    "status": 200,
+    "checkedAt": "2026-10-08"
+  }
+]

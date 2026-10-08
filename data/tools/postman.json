@@ -1,0 +1,13 @@
+{
+  "slug": "postman",
+  "type": "tools",
+  "name": "Postman",
+  "summary": "Ferramenta para criar requisições, testar APIs e organizar coleções.",
+  "description": "Experimente APIs e compartilhe coleções com sua equipe. A plataforma inclui recursos de testes e documentação. Confira os limites do plano escolhido antes de usar em um projeto.",
+  "url": "https://www.postman.com/",
+  "areas": ["backend", "qa"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://voyager.postman.com/uploads/postman-postman-logo-full-white-1-2026-09-29-2042.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "major-league-hacking",
+  "type": "hackathons",
+  "name": "Major League Hacking",
+  "summary": "Rede de hackathons e programas para aprender com projetos em equipe.",
+  "description": "Consulte o calendário e encontre eventos ligados à rede MLH. Leia os requisitos de cada edição. Público, formato e condições de participação variam conforme o organizador.",
+  "url": "https://www.mlh.com/",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg"
+}

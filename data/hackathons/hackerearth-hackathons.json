@@ -1,0 +1,13 @@
+{
+  "slug": "hackerearth-hackathons",
+  "type": "hackathons",
+  "name": "HackerEarth: hackathons",
+  "summary": "Diretório de hackathons com desafios publicados por empresas e organizações.",
+  "description": "Compare temas e prazos dos desafios. Leia os requisitos de inscrição e as regras de avaliação. Algumas atividades exigem conhecimentos ou condições específicas de participação.",
+  "url": "https://www.hackerearth.com/challenges/hackathon/",
+  "areas": ["geral", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.hackerearth.com/community/production/static/img/favicon/favicon.ico"
+}

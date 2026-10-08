@@ -1,0 +1,13 @@
+{
+  "slug": "jetbrains-developer-ecosystem",
+  "type": "reports",
+  "name": "JetBrains: Developer Ecosystem 2025",
+  "summary": "Pesquisa de 2025 sobre ferramentas, práticas e trabalho em desenvolvimento.",
+  "description": "Relatório da JetBrains com resultados e metodologia da edição de 2025. Aborda linguagens, ferramentas e experiências profissionais. A própria publicação informa que pode haver viés ligado à participação de usuários dos produtos da empresa.",
+  "url": "https://devecosystem-2025.jetbrains.com/",
+  "areas": ["geral", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://devecosystem-2025.jetbrains.com/favicon.ico?favicon.b2c05d4c.ico"
+}

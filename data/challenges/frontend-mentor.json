@@ -1,0 +1,13 @@
+{
+  "slug": "frontend-mentor",
+  "type": "challenges",
+  "name": "Frontend Mentor",
+  "summary": "Desafios de interfaces para praticar a implementação de layouts.",
+  "description": "Construa uma interface a partir dos arquivos do desafio e compartilhe sua solução. Compare o resultado com o modelo. Há conteúdos gratuitos e opções pagas.",
+  "url": "https://www.frontendmentor.io/",
+  "areas": ["frontend", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.frontendmentor.io/images/logo-mobile.svg"
+}

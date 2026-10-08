@@ -1,0 +1,14 @@
+{
+  "slug": "prouni",
+  "type": "scholarships",
+  "name": "Prouni",
+  "summary": "Portal oficial do programa de bolsas em instituições privadas de ensino superior.",
+  "description": "Consulte as orientações e os processos seletivos do Prouni. Confira os critérios da edição vigente e a oferta de cursos. A concessão da bolsa depende de seleção e comprovação dos requisitos.",
+  "url": "https://acessounico.mec.gov.br/prouni",
+  "areas": ["carreira", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.unibh.br/faculdade-de-medicina-em-minas-gerais/assets/img/bolsas/logo-prouni.webp"
+}

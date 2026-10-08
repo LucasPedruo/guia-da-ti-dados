@@ -1,0 +1,13 @@
+{
+  "slug": "the-register",
+  "type": "news",
+  "name": "The Register",
+  "summary": "Notícias de infraestrutura, empresas de tecnologia e segurança.",
+  "description": "Publicação em inglês com cobertura de computação empresarial e mercado de tecnologia. Você encontra notícias e análises sobre nuvem, sistemas e segurança, com tom editorial próprio.",
+  "url": "https://www.theregister.com/",
+  "areas": ["geral", "cloud", "cybersecurity"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png"
+}

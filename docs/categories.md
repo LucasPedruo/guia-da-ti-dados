@@ -1,8 +1,9 @@
 # Categorias do Guia da TI
 
-## Aprender
+## Estudar
 
 - Cursos: `data/courses/<slug>.json`
+- Tutoriais: `data/tutorials/<slug>.json`
 - Plataformas de cursos: `data/platforms/<slug>.json`
 - Faculdades: `data/universities/<slug>.json`
 - Bootcamps: `data/bootcamps/<slug>.json`
@@ -16,16 +17,15 @@
 - Blogs: `data/blogs/<slug>.json`
 - Newsletters: `data/newsletters/<slug>.json`
 - Podcasts: `data/podcasts/<slug>.json`
-- YouTube: `data/youtube/<slug>.json`
-- Criadores: `data/creators/<slug>.json`
-
-## Aprofundar
-
 - Artigos: `data/articles/<slug>.json`
-- Tutoriais: `data/tutorials/<slug>.json`
 - Pesquisas e estudos: `data/studies/<slug>.json`
 - Estudos de caso: `data/case-studies/<slug>.json`
 - Relatórios: `data/reports/<slug>.json`
+
+## Criadores
+
+- YouTube: `data/youtube/<slug>.json`
+- Outras redes: `data/creators/<slug>.json`
 
 ## Se conectar
 
@@ -42,10 +42,11 @@
 - Desafios: `data/challenges/<slug>.json`
 - Laboratórios: `data/labs/<slug>.json`
 
-## Oportunidades
+## Carreira
 
-- Vagas: `data/jobs/<slug>.json`
-- Estágios: `data/internships/<slug>.json`
-- Bolsas: `data/scholarships/<slug>.json`
-- Mentorias: `data/mentoring/<slug>.json`
-- Voluntariado: `data/volunteering/<slug>.json`
+- Sites de vagas: `data/jobs/<slug>.json`
+- Sites e programas de bolsas de estudo: `data/scholarships/<slug>.json`
+- Programas de mentoria: `data/mentoring/<slug>.json`
+- Programas e plataformas de voluntariado: `data/volunteering/<slug>.json`
+
+Cadastre a página do site ou programa. Vagas individuais e anúncios de estágio ficam fora do catálogo. Sites de estágio entram em Sites de vagas.

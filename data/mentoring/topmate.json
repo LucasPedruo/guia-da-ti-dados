@@ -1,0 +1,13 @@
+{
+  "slug": "topmate",
+  "type": "mentoring",
+  "name": "Topmate",
+  "summary": "Plataforma para encontrar profissionais que oferecem orientação e sessões individuais.",
+  "description": "Pesquise profissionais e consulte a proposta de cada sessão. A plataforma também vende outros serviços e conteúdos. Confira preço, idioma e formato antes de agendar uma orientação.",
+  "url": "https://topmate.io/",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://topmate.io/favicon.svg"
+}

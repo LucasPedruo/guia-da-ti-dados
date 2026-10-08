@@ -1,0 +1,13 @@
+{
+  "slug": "figma",
+  "type": "tools",
+  "name": "Figma",
+  "summary": "Ferramenta colaborativa para desenhar interfaces e criar protótipos.",
+  "description": "Desenhe telas e teste fluxos com protótipos. Compartilhe arquivos para revisar o projeto com outras pessoas. O acesso a recursos e colaboração depende do plano.",
+  "url": "https://www.figma.com/",
+  "areas": ["design", "frontend"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.sanity.io/images/599r6htc/regionalized/717af6633a6896341b7c95807c05f449597ef769-98x32.svg?q=75&fit=max&auto=format"
+}

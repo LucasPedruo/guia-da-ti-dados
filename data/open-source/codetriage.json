@@ -1,0 +1,13 @@
+{
+  "slug": "codetriage",
+  "type": "open-source",
+  "name": "CodeTriage",
+  "summary": "Plataforma para acompanhar tarefas de projetos de código aberto.",
+  "description": "Escolha projetos e acompanhe suas demandas de contribuição. A plataforma ajuda a descobrir problemas e revisões pendentes. Confira as instruções do repositório antes de enviar uma alteração.",
+  "url": "https://www.codetriage.com/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.codetriage.com/assets/favicon-3f3e475345be27562adee9d8e596a032785e3efd4496111cab0b1fe0a81ad722.ico"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "we-work-remotely",
+  "type": "jobs",
+  "name": "We Work Remotely",
+  "summary": "Portal internacional com oportunidades de trabalho remoto em diferentes áreas.",
+  "description": "Consulte anúncios de tecnologia e outras funções. Confira os países aceitos e o tipo de contrato na página de origem. Uma oportunidade remota pode ter restrições geográficas.",
+  "url": "https://weworkremotely.com/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://weworkremotely.com/apple-touch-icon.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "overthewire",
+  "type": "labs",
+  "name": "OverTheWire",
+  "summary": "Jogos de laboratório para praticar Linux e conceitos de segurança.",
+  "description": "Escolha um jogo e siga as instruções para conectar ao ambiente. Os níveis propõem tarefas técnicas com dificuldade crescente. Comece pelos requisitos indicados na página do jogo.",
+  "url": "https://overthewire.org/wargames/",
+  "areas": ["cybersecurity", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://overthewire.org/img/favicon.ico"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "tryhackme",
+  "type": "labs",
+  "name": "TryHackMe",
+  "summary": "Laboratórios guiados e trilhas de prática em segurança da informação.",
+  "description": "Escolha uma trilha e pratique nos ambientes disponibilizados pela plataforma. Confira o nível exigido e as instruções de conexão. Há atividades gratuitas e recursos por assinatura.",
+  "url": "https://tryhackme.com/",
+  "areas": ["cybersecurity", "redes"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "arxiv-computacao",
+  "type": "studies",
+  "name": "arXiv: ciência da computação",
+  "summary": "Acervo de trabalhos de pesquisa em ciência da computação.",
+  "description": "Repositório para consultar artigos por área e data. Muitos trabalhos são versões anteriores à publicação em revistas ou conferências. A presença no arXiv não comprova revisão por pares. Confira a versão e o contexto do estudo.",
+  "url": "https://arxiv.org/archive/cs",
+  "areas": ["geral", "ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png"
+}

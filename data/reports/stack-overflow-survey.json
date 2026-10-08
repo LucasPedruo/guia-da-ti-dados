@@ -1,0 +1,13 @@
+{
+  "slug": "stack-overflow-survey",
+  "type": "reports",
+  "name": "Stack Overflow Developer Survey",
+  "summary": "Resultados de pesquisas sobre ferramentas e o trabalho de desenvolvedores.",
+  "description": "Portal das pesquisas anuais do Stack Overflow, com acesso a edições anteriores e dados publicados. Confira o ano, o perfil dos participantes e a metodologia. Os resultados descrevem a amostra que respondeu à pesquisa.",
+  "url": "https://survey.stackoverflow.co/",
+  "areas": ["geral", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://survey.stackoverflow.co/apple-touch-icon.png"
+}

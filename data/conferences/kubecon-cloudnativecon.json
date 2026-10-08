@@ -1,0 +1,13 @@
+{
+  "slug": "kubecon-cloudnativecon",
+  "type": "conferences",
+  "name": "CNCF: KubeCon e CloudNativeCon",
+  "summary": "Agenda de conferências da CNCF sobre Kubernetes e tecnologias nativas de nuvem.",
+  "description": "Encontre edições de KubeCon e CloudNativeCon no calendário oficial. Consulte as trilhas e os eventos associados. As condições de acesso variam por edição e país.",
+  "url": "https://www.cncf.io/events/",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "aws-events",
+  "type": "events",
+  "name": "AWS Events",
+  "summary": "Agenda oficial de eventos e encontros sobre serviços AWS.",
+  "description": "Busque atividades presenciais ou online sobre computação em nuvem. A agenda reúne encontros de diferentes países. Confira idioma, fuso horário e requisitos antes da inscrição.",
+  "url": "https://aws.amazon.com/events/",
+  "areas": ["cloud", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+}

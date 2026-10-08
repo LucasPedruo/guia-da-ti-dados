@@ -1,0 +1,13 @@
+{
+  "slug": "adplist",
+  "type": "mentoring",
+  "name": "ADPList",
+  "summary": "Plataforma para encontrar mentores e conversar sobre desenvolvimento profissional.",
+  "description": "Busque pessoas com experiência no assunto que você quer desenvolver. Confira o perfil e a disponibilidade antes de agendar. O idioma e as condições de atendimento variam conforme a oferta.",
+  "url": "https://adplist.org/",
+  "areas": ["carreira", "design", "produto"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://adplist.org/landing/matched/logo.svg"
+}

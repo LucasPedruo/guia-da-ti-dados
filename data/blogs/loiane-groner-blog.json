@@ -1,0 +1,13 @@
+{
+  "slug": "loiane-groner-blog",
+  "type": "blogs",
+  "name": "Loiane Groner: blog",
+  "summary": "Artigos em inglês sobre Angular, Java, Spring e testes.",
+  "description": "Blog de Loiane Groner com explicações e exemplos de desenvolvimento web. Os textos abordam aplicações com Angular e Java, testes e práticas de engenharia. A página selecionada publica em inglês.",
+  "url": "https://loiane.com/",
+  "areas": ["frontend", "backend", "qa"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://loiane.com/assets/img/favicons/apple-touch-icon.png"
+}

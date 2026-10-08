@@ -1,0 +1,13 @@
+{
+  "slug": "leetcode",
+  "type": "challenges",
+  "name": "LeetCode",
+  "summary": "Problemas de algoritmos e estruturas de dados para prática e preparação técnica.",
+  "description": "Resolva problemas e confira a avaliação das soluções. Use o catálogo para escolher assuntos e níveis de dificuldade. Parte dos problemas e recursos depende de assinatura.",
+  "url": "https://leetcode.com/",
+  "areas": ["backend", "carreira"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://assets.leetcode.com/static_assets/public/icons/apple-touch-icon.png"
+}

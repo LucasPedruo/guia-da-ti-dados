@@ -1,0 +1,13 @@
+{
+  "slug": "alura-artigos",
+  "type": "articles",
+  "name": "Alura: artigos",
+  "summary": "Artigos em português sobre tecnologia, programação e carreira.",
+  "description": "Acervo de artigos da Alura organizado por temas de tecnologia. Você pode ler explicações e exemplos no site de origem. A página de artigos é distinta do catálogo de cursos da plataforma.",
+  "url": "https://www.alura.com.br/artigos",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.alura.com.br/img/favicon.png"
+}

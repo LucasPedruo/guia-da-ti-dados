@@ -1,0 +1,14 @@
+{
+  "slug": "python-brasil",
+  "type": "conferences",
+  "name": "Python Brasil 2026",
+  "summary": "Conferência brasileira da comunidade Python, com palestras e atividades técnicas.",
+  "description": "Consulte a programação da edição de 2026 e as orientações de participação. O encontro reúne a comunidade Python no Brasil. Confira ingresso e localização no site oficial.",
+  "url": "https://2026.pythonbrasil.org.br/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://2026.pythonbrasil.org.br/vite.svg"
+}

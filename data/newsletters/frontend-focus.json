@@ -1,0 +1,13 @@
+{
+  "slug": "frontend-focus",
+  "type": "newsletters",
+  "name": "Frontend Focus",
+  "summary": "Seleção de novidades sobre CSS, navegadores e desenvolvimento web.",
+  "description": "Newsletter em inglês da Cooperpress para acompanhar a plataforma web. Reúne artigos e ferramentas de desenvolvimento de interfaces. Você pode consultar o arquivo de edições na página oficial.",
+  "url": "https://frontendfoc.us/",
+  "areas": ["frontend", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://frontendfoc.us/logo.png"
+}

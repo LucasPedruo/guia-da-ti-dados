@@ -1,0 +1,13 @@
+{
+  "slug": "real-python",
+  "type": "tutorials",
+  "name": "Real Python",
+  "summary": "Tutoriais e exemplos de programação com Python.",
+  "description": "Site em inglês com artigos, exercícios e materiais sobre Python. Há tutoriais abertos e conteúdos que dependem de assinatura. Confira os requisitos e a versão das ferramentas em cada material.",
+  "url": "https://realpython.com/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://realpython.com/static/apple-touch-icon.png"
+}

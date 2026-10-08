@@ -1,0 +1,13 @@
+{
+  "slug": "unv-online",
+  "type": "volunteering",
+  "name": "UNV: voluntariado online",
+  "summary": "Programa de voluntariado online das Nações Unidas com atividades em diferentes áreas.",
+  "description": "Consulte as orientações e encontre atividades na plataforma indicada pela UNV. Cada organização define os requisitos da tarefa. O serviço de voluntariado online não oferece remuneração.",
+  "url": "https://www.unv.org/become-online-volunteer",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cinfo.rokka.io/logo/5c04e834528a33f965c5fccdccf32a1eacaef1f1/logo-unv-pos.png?itok=ocSa8P-C"
+}

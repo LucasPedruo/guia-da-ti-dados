@@ -1,0 +1,14 @@
+{
+  "slug": "frontin",
+  "type": "conferences",
+  "name": "FRONTIN",
+  "summary": "Eventos brasileiros para quem trabalha com desenvolvimento de interfaces.",
+  "description": "Acompanhe as edições e a programação publicadas pela organização. Os encontros abordam desenvolvimento de interfaces e experiências da comunidade. Confira cidade, data e ingresso da edição escolhida.",
+  "url": "https://frontinsampa.com.br/",
+  "areas": ["frontend", "design"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://frontin.cdn.prismic.io/frontin/b40079e6-e354-4612-bcfe-314f6978c7cc_logo-frontin-full.svg?fit=max&w=828"
+}

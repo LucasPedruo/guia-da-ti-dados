@@ -1,0 +1,13 @@
+{
+  "slug": "aws-estudos-de-caso",
+  "type": "case-studies",
+  "name": "AWS: estudos de caso",
+  "summary": "Relatos de clientes sobre aplicações e projetos com serviços AWS.",
+  "description": "Coleção oficial com exemplos de uso dos serviços AWS em empresas. Os relatos descrevem projetos e resultados escolhidos pelo fornecedor. Compare o contexto e os custos antes de adotar uma solução semelhante.",
+  "url": "https://aws.amazon.com/solutions/case-studies/",
+  "areas": ["cloud", "devops", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "catchafire",
+  "type": "volunteering",
+  "name": "Catchafire",
+  "summary": "Plataforma de voluntariado profissional para apoiar organizações sem fins lucrativos.",
+  "description": "Encontre projetos que precisam das suas habilidades e consulte o escopo de trabalho. As atividades podem envolver tecnologia ou comunicação. Confira idioma, requisitos e dedicação esperada antes de se candidatar.",
+  "url": "https://www.catchafire.org/volunteer/",
+  "areas": ["carreira", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://blog.catchafire.org/hubfs/Catchafire-Logo.svg"
+}

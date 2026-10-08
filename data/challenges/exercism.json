@@ -1,0 +1,13 @@
+{
+  "slug": "exercism",
+  "type": "challenges",
+  "name": "Exercism",
+  "summary": "Exercícios organizados por linguagem para praticar programação.",
+  "description": "Escolha uma trilha e resolva os exercícios. Compare soluções e consulte as orientações da comunidade. A disponibilidade de acompanhamento depende da linguagem e dos voluntários.",
+  "url": "https://exercism.org/",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://assets.exercism.org/assets/icons/exercism-with-logo-black-12752bd7fcf6862ba8ad7a2b75e21a9b2409d7fd.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "divulga-dev",
+  "type": "events",
+  "name": "divulga.dev",
+  "summary": "Agenda de eventos da comunidade de desenvolvimento no Brasil.",
+  "description": "Consulte encontros divulgados pela comunidade e abra a página de cada evento. Datas, formato e condições de participação dependem do organizador.",
+  "url": "https://www.divulga.dev/",
+  "areas": ["geral", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.divulga.dev/icon.svg?433b59591507751f"
+}

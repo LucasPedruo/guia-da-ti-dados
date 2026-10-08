@@ -1,0 +1,13 @@
+{
+  "slug": "wordpress-meetups",
+  "type": "meetups",
+  "name": "WordPress: encontros locais",
+  "summary": "Rede de grupos locais para quem usa ou desenvolve com WordPress.",
+  "description": "Encontre encontros da comunidade WordPress por cidade. Os grupos reúnem pessoas que trabalham com criação e manutenção de sites. Confira a agenda e as regras do grupo.",
+  "url": "https://www.meetup.com/pro/wordpress/",
+  "areas": ["frontend", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://s.w.org/images/wmark.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "google-developer-groups",
+  "type": "meetups",
+  "name": "Google Developer Groups",
+  "summary": "Diretório de grupos locais e encontros de desenvolvedores da comunidade Google.",
+  "description": "Procure uma comunidade local e consulte sua agenda. Os grupos organizam encontros e atividades técnicas. Confira idioma e formato na página de cada evento.",
+  "url": "https://gdg.community.dev/",
+  "areas": ["mobile", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg"
+}

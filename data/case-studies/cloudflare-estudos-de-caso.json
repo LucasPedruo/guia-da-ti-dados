@@ -1,0 +1,13 @@
+{
+  "slug": "cloudflare-estudos-de-caso",
+  "type": "case-studies",
+  "name": "Cloudflare: estudos de caso",
+  "summary": "Relatos de clientes sobre segurança, redes e desempenho.",
+  "description": "Página oficial com projetos que utilizam os serviços da Cloudflare. Os casos refletem a seleção e a perspectiva comercial do fornecedor. Confira o contexto e os requisitos de cada exemplo.",
+  "url": "https://www.cloudflare.com/case-studies/",
+  "areas": ["cybersecurity", "redes", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.cloudflare.com/favicon.ico"
+}

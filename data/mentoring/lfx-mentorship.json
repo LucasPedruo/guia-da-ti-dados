@@ -1,0 +1,13 @@
+{
+  "slug": "lfx-mentorship",
+  "type": "mentoring",
+  "name": "LFX Mentorship",
+  "summary": "Programas de mentoria ligados a projetos de código aberto da Linux Foundation.",
+  "description": "Consulte os programas e os requisitos para participar. As atividades combinam orientação e contribuição a projetos. Prazos, seleção e eventual apoio financeiro seguem as regras de cada programa.",
+  "url": "https://mentorship.lfx.linuxfoundation.org/",
+  "areas": ["carreira", "devops"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.platform.linuxfoundation.org/assets/lf-favicon.png"
+}

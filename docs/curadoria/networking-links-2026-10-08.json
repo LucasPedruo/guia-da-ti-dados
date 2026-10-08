@@ -1,0 +1,281 @@
+[
+  {
+    "type": "conferences",
+    "slug": "aws-reinvent",
+    "name": "AWS re:Invent",
+    "url": "https://aws.amazon.com/events/reinvent/",
+    "finalUrl": "https://aws.amazon.com/events/reinvent/",
+    "status": 200,
+    "title": "AWS re:Invent 2026 | The Premier Cloud and AI Conference | Nov 30-Dec 4, Las Vegas",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "codecon",
+    "name": "Codecon",
+    "url": "https://codecon.dev/eventos",
+    "finalUrl": "https://codecon.dev/eventos",
+    "status": 200,
+    "title": "Codecon - Eventos e meetups de tecnologia",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "devopsdays",
+    "name": "DevOpsDays",
+    "url": "https://devopsdays.org/",
+    "finalUrl": "https://devopsdays.org/",
+    "status": 200,
+    "title": "devopsdays",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "frontin",
+    "name": "FRONTIN",
+    "url": "https://frontinsampa.com.br/",
+    "finalUrl": "https://frontinsampa.com.br/",
+    "status": 200,
+    "title": "Eventos de tecnologia<!-- --> | <!-- -->FRONTIN",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "gophercon-brasil",
+    "name": "GopherCon Brasil",
+    "url": "https://gopherconbr.org/",
+    "finalUrl": "https://gopherconbr.org/",
+    "status": 200,
+    "title": "GopherCon Brasil — Conferência Oficial da Go Community",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "jsconf-brasil",
+    "name": "JSConf Brasil",
+    "url": "https://jsconf.com.br/",
+    "finalUrl": "https://jsconf.com.br/",
+    "status": 200,
+    "title": "A maior conferência de JavaScript do Brasil | JSConf Brasil",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "kubecon-cloudnativecon",
+    "name": "CNCF: KubeCon e CloudNativeCon",
+    "url": "https://www.cncf.io/events/",
+    "finalUrl": "https://www.cncf.io/events/",
+    "status": 200,
+    "title": "Events | CNCF",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "latinoware",
+    "name": "Latinoware",
+    "url": "https://latinoware.org/",
+    "finalUrl": "https://latinoware.org/",
+    "status": 200,
+    "title": "Latinoware 2026 - Latinoware",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "python-brasil",
+    "name": "Python Brasil 2026",
+    "url": "https://2026.pythonbrasil.org.br/",
+    "finalUrl": "https://2026.pythonbrasil.org.br/",
+    "status": 200,
+    "title": "Python Brasil 2026",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "conferences",
+    "slug": "tdc",
+    "name": "TDC: The Developer’s Conference",
+    "url": "https://thedevconf.com/tdc/2026/index.html",
+    "finalUrl": "https://thedevconf.com/tdc/2026/index.html",
+    "status": 200,
+    "title": "#TheDevConf 2026 | Home | The Developer's Conference 2026",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "agenda-tech-brasil",
+    "name": "Agenda Tech Brasil",
+    "url": "https://agenda-tech-brasil-site.js.org/",
+    "finalUrl": "https://agenda-tech-brasil-site.js.org/",
+    "status": 200,
+    "title": "Agenda Tech Brasil",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "aws-events",
+    "name": "AWS Events",
+    "url": "https://aws.amazon.com/events/",
+    "finalUrl": "https://aws.amazon.com/events/",
+    "status": 200,
+    "title": "Cloud Events, Webinars and Conferences - AWS",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "divulga-dev",
+    "name": "divulga.dev",
+    "url": "https://www.divulga.dev/",
+    "finalUrl": "https://www.divulga.dev/",
+    "status": 200,
+    "title": "divulga.dev — eventos tech do Brasil",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "google-developers-events",
+    "name": "Google for Developers Events",
+    "url": "https://developers.google.com/events",
+    "finalUrl": "https://developers.google.com/events",
+    "status": 200,
+    "title": "Upcoming Developer Events & Conferences - Google for Developers",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "luma-tech",
+    "name": "Luma: eventos de tecnologia",
+    "url": "https://luma.com/tech",
+    "finalUrl": "https://luma.com/tech",
+    "status": 200,
+    "title": "Tech Events · Luma",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "events",
+    "slug": "microsoft-events",
+    "name": "Microsoft Events",
+    "url": "https://www.microsoft.com/pt-br/events",
+    "finalUrl": "https://www.microsoft.com/pt-br/events",
+    "status": 200,
+    "title": "Microsoft Events, Webinars e Conferências",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "devpost",
+    "name": "Devpost: hackathons",
+    "url": "https://devpost.com/hackathons",
+    "finalUrl": "https://devpost.com/hackathons",
+    "status": 200,
+    "title": "New &amp; upcoming hackathons &middot; Devpost",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "ethglobal",
+    "name": "ETHGlobal",
+    "url": "https://ethglobal.com/events",
+    "finalUrl": "https://ethglobal.com/events",
+    "status": 200,
+    "title": "ETHGlobal",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "global-game-jam",
+    "name": "Global Game Jam",
+    "url": "https://globalgamejam.org/",
+    "finalUrl": "https://globalgamejam.org/",
+    "status": 403,
+    "title": "Attention Required! | Cloudflare",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "hackerearth-hackathons",
+    "name": "HackerEarth: hackathons",
+    "url": "https://www.hackerearth.com/challenges/hackathon/",
+    "finalUrl": "https://www.hackerearth.com/challenges/hackathon/",
+    "status": 200,
+    "title": "Compete | HackerEarth",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "major-league-hacking",
+    "name": "Major League Hacking",
+    "url": "https://www.mlh.com/",
+    "finalUrl": "https://www.mlh.com/",
+    "status": 200,
+    "title": "Major League Hacking | Hackathons and Developer Programs | Major League Hacking",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "hackathons",
+    "slug": "nasa-space-apps",
+    "name": "NASA International Space Apps Challenge",
+    "url": "https://www.spaceappschallenge.org/",
+    "error": "fetch failed",
+    "followUp": { "client": "curl with Windows certificate trust", "status": 200, "checkedAt": "2026-10-08" },
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "cncf-community-meetups",
+    "name": "CNCF: encontros da comunidade",
+    "url": "https://ocgroups.dev/cncf",
+    "finalUrl": "https://ocgroups.dev/cncf",
+    "status": 200,
+    "title": "CNCF community",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "google-developer-groups",
+    "name": "Google Developer Groups",
+    "url": "https://gdg.community.dev/",
+    "finalUrl": "https://gdg.community.dev/",
+    "status": 200,
+    "title": "Google Developer Groups",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "meetup-technology",
+    "name": "Meetup: grupos de tecnologia",
+    "url": "https://www.meetup.com/topics/technology/",
+    "finalUrl": "https://www.meetup.com/topics/technology/",
+    "status": 200,
+    "title": "Technology groups | Meetup",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "pydata-meetups",
+    "name": "PyData: encontros locais",
+    "url": "https://www.meetup.com/pro/pydata/",
+    "finalUrl": "https://www.meetup.com/pro/pydata/",
+    "status": 200,
+    "title": "PyData | Meetup Pro",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "python-user-groups",
+    "name": "Python: agenda de grupos locais",
+    "url": "https://www.python.org/events/python-user-group/",
+    "finalUrl": "https://www.python.org/events/python-user-group/",
+    "status": 200,
+    "title": "Our Events | Python.org",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "type": "meetups",
+    "slug": "wordpress-meetups",
+    "name": "WordPress: encontros locais",
+    "url": "https://www.meetup.com/pro/wordpress/",
+    "finalUrl": "https://www.meetup.com/pro/wordpress/",
+    "status": 200,
+    "title": "WordPress | Meetup Pro",
+    "checkedAt": "2026-10-08"
+  }
+]

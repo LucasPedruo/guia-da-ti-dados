@@ -1,0 +1,14 @@
+{
+  "slug": "programathor",
+  "type": "jobs",
+  "name": "ProgramaThor",
+  "summary": "Portal de oportunidades para desenvolvedores e profissionais de tecnologia.",
+  "description": "Busque oportunidades por tecnologia e experiência. Consulte o formato de trabalho e os requisitos nos anúncios. A plataforma pode exigir cadastro para candidaturas e recomendações.",
+  "url": "https://programathor.com.br/",
+  "areas": ["carreira", "vagas"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://programathor.com.br/assets/logo-programathor-0e4438ec430a00e1352a5ec8729f0ddbc4dd8d148973a6d6a3654800688e2089.png"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "killercoda",
+  "type": "labs",
+  "name": "Killercoda",
+  "summary": "Cenários interativos com terminal no navegador para praticar infraestrutura.",
+  "description": "Abra um cenário e execute as tarefas no ambiente oferecido. Há exercícios sobre Linux e ferramentas de infraestrutura. A duração e os recursos variam conforme o cenário.",
+  "url": "https://killercoda.com/",
+  "areas": ["devops", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://killercoda.com/assets/cnpe-o8MfR5Bn.png"
+}

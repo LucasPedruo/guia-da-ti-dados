@@ -1,0 +1,13 @@
+{
+  "slug": "data-hackers-podcast",
+  "type": "podcasts",
+  "name": "Data Hackers Podcast",
+  "summary": "Entrevistas sobre dados, inteligência artificial e o trabalho na área.",
+  "description": "Podcast do Data Hackers com convidados que compartilham experiências profissionais. Os episódios discutem aplicações e decisões em equipes de dados. Você acessa os episódios pelos links da página oficial.",
+  "url": "https://www.datahackers.com.br/podcast/",
+  "areas": ["dados", "ia", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.sanity.io/images/mcq3inxc/production/e5c6e2178baf3dd6e828462848527be24fe43979-1200x630.png"
+}

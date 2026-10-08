@@ -1,0 +1,13 @@
+{
+  "slug": "codingame",
+  "type": "challenges",
+  "name": "CodinGame",
+  "summary": "Desafios de programação com jogos e problemas interativos.",
+  "description": "Pratique algoritmos escrevendo código para resolver os desafios da plataforma. Escolha uma linguagem suportada e acompanhe o resultado. O site também reúne competições e atividades da comunidade.",
+  "url": "https://www.codingame.com/start/",
+  "areas": ["backend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://static.codingame.com/start/static/2b0e71471a7dfcfba6971ca5c0b7a0f5/15e82/logo4.png"
+}

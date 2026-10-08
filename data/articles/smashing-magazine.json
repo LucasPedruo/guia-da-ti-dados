@@ -1,0 +1,13 @@
+{
+  "slug": "smashing-magazine",
+  "type": "articles",
+  "name": "Smashing Magazine: artigos",
+  "summary": "Artigos sobre interfaces, acessibilidade e desenvolvimento web.",
+  "description": "Acervo em inglês com explicações e exemplos para quem trabalha com interfaces. Você encontra textos sobre CSS, design e experiência de uso. A página permite navegar pelos assuntos e datas.",
+  "url": "https://www.smashingmagazine.com/articles/",
+  "areas": ["frontend", "design"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.smashingmagazine.com/images/favicon/favicon.ico"
+}

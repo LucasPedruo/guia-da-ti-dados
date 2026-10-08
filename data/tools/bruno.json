@@ -1,0 +1,13 @@
+{
+  "slug": "bruno",
+  "type": "tools",
+  "name": "Bruno",
+  "summary": "Cliente para testar APIs e manter coleções de requisições em arquivos locais.",
+  "description": "Envie requisições e confira as respostas das suas APIs. As coleções ficam em arquivos que você pode versionar com Git. Consulte as diferenças entre a edição aberta e os planos comerciais.",
+  "url": "https://www.usebruno.com/",
+  "areas": ["backend", "qa"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.usebruno.com/bruno-logo.png"
+}

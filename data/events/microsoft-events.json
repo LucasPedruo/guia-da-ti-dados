@@ -1,0 +1,13 @@
+{
+  "slug": "microsoft-events",
+  "type": "events",
+  "name": "Microsoft Events",
+  "summary": "Agenda oficial de eventos da Microsoft para profissionais de tecnologia.",
+  "description": "Encontre apresentações e atividades técnicas sobre produtos Microsoft. Consulte o formato, o idioma e as condições de acesso na página de cada atividade.",
+  "url": "https://www.microsoft.com/pt-br/events",
+  "areas": ["cloud", "ia"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Facebook%202x?scl=1"
+}

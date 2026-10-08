@@ -1,0 +1,13 @@
+{
+  "slug": "global-game-jam",
+  "type": "hackathons",
+  "name": "Global Game Jam",
+  "summary": "Evento mundial de criação de jogos em equipe durante uma maratona colaborativa.",
+  "description": "Encontre um local participante e consulte a edição anunciada. A proposta reúne diferentes habilidades para criar jogos em um prazo curto. A atividade segue o formato de uma maratona colaborativa.",
+  "url": "https://globalgamejam.org/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://pbs.twimg.com/profile_images/1569737465337987073/ONU4fAlv.jpg"
+}

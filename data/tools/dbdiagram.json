@@ -1,0 +1,13 @@
+{
+  "slug": "dbdiagram",
+  "type": "tools",
+  "name": "dbdiagram.io",
+  "summary": "Editor de diagramas para modelar tabelas e relacionamentos de bancos de dados.",
+  "description": "Descreva tabelas em texto e veja o diagrama dos relacionamentos. Você pode usar a ferramenta para planejar um banco antes de implementar. Consulte limites de projetos e exportação.",
+  "url": "https://dbdiagram.io/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://cdn.holistics.io/logo-dbdiagram-notext.ico"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "atados",
+  "type": "volunteering",
+  "name": "Atados",
+  "summary": "Plataforma brasileira para encontrar organizações e oportunidades de voluntariado.",
+  "description": "Busque uma causa e consulte as atividades propostas pelas organizações. Há filtros por habilidade e disponibilidade. Confirme as tarefas e o compromisso de tempo antes de participar.",
+  "url": "https://www.atados.com.br/",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://empresas.atados.com.br/assets/atados-logo-horizontal-BLXkT_PG.svg"
+}

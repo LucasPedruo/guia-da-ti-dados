@@ -1,0 +1,13 @@
+{
+  "slug": "netflix-tech-blog",
+  "type": "blogs",
+  "name": "Netflix TechBlog",
+  "summary": "Relatos de engenharia sobre os sistemas e produtos da Netflix.",
+  "description": "Blog das equipes de tecnologia da Netflix. Os artigos apresentam decisões de arquitetura, processamento de dados e operação de serviços. São experiências de um contexto específico, que você pode comparar com seu projeto.",
+  "url": "https://netflixtechblog.com/",
+  "areas": ["backend", "dados", "cloud"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico"
+}

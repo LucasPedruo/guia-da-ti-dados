@@ -1,0 +1,13 @@
+{
+  "slug": "meetup-technology",
+  "type": "meetups",
+  "name": "Meetup: grupos de tecnologia",
+  "summary": "Encontre grupos e encontros de tecnologia por cidade no Meetup.",
+  "description": "Use a busca para encontrar grupos perto de você ou atividades online. Cada grupo define suas regras. A plataforma pode exigir uma conta para confirmar presença.",
+  "url": "https://www.meetup.com/topics/technology/",
+  "areas": ["geral", "networking"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://secure.meetupstatic.com/next/images/complex-icons/branded/pin.webp?w=96"
+}

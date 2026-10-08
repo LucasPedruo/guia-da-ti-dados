@@ -1,0 +1,14 @@
+{
+  "slug": "latinoware",
+  "type": "conferences",
+  "name": "Latinoware",
+  "summary": "Congresso brasileiro sobre software livre e tecnologias abertas.",
+  "description": "Consulte a edição anunciada e suas atividades em Foz do Iguaçu. O congresso reúne a comunidade de software livre. Confira programação e condições de inscrição no site.",
+  "url": "https://latinoware.org/",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://latinoware.org/wp-content/uploads/2026/03/logo_Gabarito26_menu.svg"
+}

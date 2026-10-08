@@ -1,0 +1,14 @@
+{
+  "slug": "agenda-tech-brasil",
+  "type": "events",
+  "name": "Agenda Tech Brasil",
+  "summary": "Calendário colaborativo de eventos de tecnologia no Brasil.",
+  "description": "Encontre encontros e conferências por data e cidade. A comunidade mantém a agenda. Confira programação e inscrição na página do organizador.",
+  "url": "https://agenda-tech-brasil-site.js.org/",
+  "areas": ["geral", "eventos"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://agenda-tech-brasil-site.js.org/agenda-tech.png"
+}

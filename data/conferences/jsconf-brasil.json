@@ -1,0 +1,14 @@
+{
+  "slug": "jsconf-brasil",
+  "type": "conferences",
+  "name": "JSConf Brasil",
+  "summary": "Conferência brasileira sobre JavaScript e desenvolvimento de aplicações.",
+  "description": "Consulte a edição anunciada e sua programação de palestras. O evento reúne a comunidade JavaScript. Confira datas e condições de participação na página oficial.",
+  "url": "https://jsconf.com.br/",
+  "areas": ["frontend", "backend"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "countries": ["BR"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://jsconf.com.br/img/logotype.png"
+}

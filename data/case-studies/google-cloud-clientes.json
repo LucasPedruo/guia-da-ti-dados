@@ -1,0 +1,13 @@
+{
+  "slug": "google-cloud-clientes",
+  "type": "case-studies",
+  "name": "Google Cloud: histórias de clientes",
+  "summary": "Relatos de projetos de empresas que usam Google Cloud.",
+  "description": "Acervo oficial com aplicações de serviços de nuvem e inteligência artificial em empresas. Os casos são selecionados pelo fornecedor e têm finalidade comercial. Use os relatos para conhecer cenários, sem presumir os mesmos resultados.",
+  "url": "https://cloud.google.com/customers",
+  "areas": ["cloud", "dados", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.gstatic.com/cgc/super_cloud_gradient.png"
+}

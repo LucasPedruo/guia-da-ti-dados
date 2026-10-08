@@ -1,0 +1,13 @@
+{
+  "slug": "first-contributions",
+  "type": "open-source",
+  "name": "First Contributions",
+  "summary": "Projeto que orienta a primeira contribuição com Git e GitHub.",
+  "description": "Siga o exercício de contribuição e explore projetos que aceitam ajuda. A proposta apresenta o fluxo de envio e revisão de alterações. Leia as instruções antes de começar.",
+  "url": "https://firstcontributions.github.io/",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://firstcontributions.github.io/android-chrome-256x256.png"
+}

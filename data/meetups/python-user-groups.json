@@ -1,0 +1,13 @@
+{
+  "slug": "python-user-groups",
+  "type": "meetups",
+  "name": "Python: agenda de grupos locais",
+  "summary": "Calendário oficial de encontros de grupos de usuários Python.",
+  "description": "Consulte encontros enviados pela comunidade ao calendário da Python Software Foundation. Cada registro aponta para o organizador. Verifique data, localização e inscrição na fonte.",
+  "url": "https://www.python.org/events/python-user-group/",
+  "areas": ["backend", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-08",
+  "imageUrl": "https://www.python.org/static/img/python-logo.png"
+}
