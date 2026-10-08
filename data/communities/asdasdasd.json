@@ -1,0 +1,45 @@
+{
+  "slug": "asdasdasd",
+  "type": "communities",
+  "name": "asdasdasd",
+  "summary": "asdasdasdddddddd",
+  "description": "asdasdasdasdasdasdasd",
+  "url": "https://d.com/",
+  "areas": [
+    "backend"
+  ],
+  "technologies": [],
+  "languages": [
+    "pt-BR",
+    "en",
+    "es"
+  ],
+  "updatedAt": "2026-10-08",
+  "demo": false,
+  "communityLocation": {
+    "scope": "national",
+    "states": null
+  },
+  "communityPlatforms": [
+    "whatsapp",
+    "discord"
+  ],
+  "communityModality": "in-person",
+  "communityAudience": "general",
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://d.com"
+    },
+    {
+      "platform": "discord",
+      "url": "https://d.com"
+    }
+  ],
+  "communityMembers": {
+    "count": 4000,
+    "checkedAt": "2026-10-08",
+    "moreThan": true
+  },
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/main/assets/images/asdasdasd-d5206e1f54dc42abb6f9bebc12e04601.png"
+}
