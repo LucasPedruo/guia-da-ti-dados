@@ -4,7 +4,7 @@ Pesquisa realizada em 6 de outubro de 2026. Primeira seleção: 26 cadastros, se
 
 ## Recorte e método
 
-Prioridade para conteúdo em português relacionado ao estudo e ao trabalho em tecnologia. A busca combinou nomes conhecidos, descoberta em diretórios e consulta a sites, páginas de links e repositórios dos próprios autores. As descrições são editoriais e resumem o acervo identificado; não são cópias das bios. As áreas são classificações do Guia da TI.
+Prioridade para conteúdo em português relacionado ao estudo e ao trabalho em tecnologia. A busca combinou nomes conhecidos, descoberta em diretórios e consulta a sites, páginas de links e repositórios dos próprios autores. As descrições são editoriais e resumem o acervo identificado. Não são cópias das bios. As áreas são classificações do Guia da TI.
 
 Critérios de inclusão:
 
@@ -12,21 +12,21 @@ Critérios de inclusão:
 - Identidade e tema reconhecíveis, com acervo educacional, projetos, artigos, palestras ou atuação pública documentados.
 - Utilidade para descoberta de programação, dados, infraestrutura, segurança, design, mobile ou carreira.
 - Diversidade de assuntos e de pessoas, sem usar seguidores como critério de qualidade.
-- Contas de projetos com conteúdo autoral identificadas como projetos; perfis de cotidiano descritos como complemento.
+- Contas de projetos com conteúdo autoral identificadas como projetos. Perfis de cotidiano descritos como complemento.
 
-A página Alura Stars foi usada para seis apresentações dos próprios participantes e os respectivos links. Essa confirmação identifica pessoa e tema; não comprova frequência ou profundidade do feed.
+A página Alura Stars foi usada para seis apresentações dos próprios participantes e os respectivos links. Essa confirmação identifica pessoa e tema. Não comprova frequência ou profundidade do feed.
 
 ## Limites da verificação
 
-O acesso público ao Instagram foi bloqueado em consultas diretas. Os endereços foram cruzados com fontes públicas; não houve auditoria integral de Reels, Stories, atividade recente ou frequência de publicação. Não se afirma que todo material do site ou do YouTube também está no Instagram. Fontes antigas, quando usadas, estão apontadas abaixo.
+O acesso público ao Instagram foi bloqueado em consultas diretas. Os endereços foram cruzados com fontes públicas. Não houve auditoria integral de Reels, Stories, atividade recente ou frequência de publicação. Não se afirma que todo material do site ou do YouTube também está no Instagram. Fontes antigas, quando usadas, estão apontadas abaixo.
 
 Nenhum número de seguidores, foto, selo, cargo atual ou promessa de emprego foi inventado. Os cadastros não recebem país por inferência do idioma. As tecnologias aparecem somente quando a fonte sustenta o tema e o identificador já existe na taxonomia. Os projetos podem oferecer cursos pagos: a inclusão não é avaliação de compra nem garantia de resultados.
 
-@devlucaspedro foi incluído por solicitação do titular. Seu cadastro permanece com descrição neutra e área Geral; especialidades e demais dados dependem de confirmação pública ou informações do titular.
+@devlucaspedro foi incluído por solicitação do titular. Seu cadastro permanece com descrição neutra e área Geral. Especialidades e demais dados dependem de confirmação pública ou informações do titular.
 
 ## Seleção e fontes
 
-As fontes desta tabela sustentam a identidade, o endereço e o recorte do cadastro. “Abrir perfil” leva ao Instagram; as fontes externas permitem conferir e aprofundar.
+As fontes desta tabela sustentam a identidade, o endereço e o recorte do cadastro. “Abrir perfil” leva ao Instagram. As fontes externas permitem conferir e aprofundar.
 
 | Criador                              | Perfil                                                               | Motivo da inclusão                                                                             | Fontes consultadas                                                                                                                                                                    |
 | ------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,16 +65,16 @@ As fontes desta tabela sustentam a identidade, o endereço e o recorte do cadast
 - **Mobile e carreira:** [projetos e palestras de Attekita](https://attekitadev.com/) e [carreira de Tech Juliana](https://www.techjuliana.com.br/carreira/).
 - **Linux:** [site Diolinux](https://diolinux.com.br/) e sua [explicação de autoria e equipe](https://diolinux.com.br/editorial/quem-esta-no-comando-do-diolinux.html).
 
-Esses são materiais externos consultados; o código não foi executado e os vídeos não foram integralmente assistidos nesta pesquisa.
+Esses são materiais externos consultados. O código não foi executado e os vídeos não foram integralmente assistidos nesta pesquisa.
 
 ## Descoberta e candidatos para próxima revisão
 
 [Girls in Tech Brazil](https://bullas.github.io/girls-in-tech-brazil/) e a [pesquisa da Murad Library](https://murad.gg/research/2026-09-13-pesquisa-169-influencers-tech-instagram-indieweb-smallweb-gadgets-programacao) ajudaram a descobrir candidatos. Não foram usadas como substitutas da confirmação autoral dos cadastros.
 
-Código Fonte TV, Diego Fernandes, Mario Souto, Glaucia Lemos e Julio de Lima ficam para uma próxima revisão: nesta rodada a cadeia de confirmação de identidade, endereço e conteúdo do Instagram não foi concluída para esses candidatos. Isso não é avaliação negativa do conteúdo. QA tem cobertura limitada nesta seleção; redes, hardware especializado e perfis internacionais ainda precisam de uma rodada específica.
+Código Fonte TV, Diego Fernandes, Mario Souto, Glaucia Lemos e Julio de Lima ficam para uma próxima revisão: nesta rodada a cadeia de confirmação de identidade, endereço e conteúdo do Instagram não foi concluída para esses candidatos. Isso não é avaliação negativa do conteúdo. QA tem cobertura limitada nesta seleção. Redes, hardware especializado e perfis internacionais ainda precisam de uma rodada específica.
 
 O endereço de Gustavo Guanabara foi confirmado em publicação da Hostnet de 2020, parceira do curso, e sua autoria em página atual do Curso em Vídeo. O endereço deve ser reconferido quando houver acesso direto ao perfil.
 
 ## Manutenção
 
-Revisar mudanças de handle, links quebrados e alterações de foco antes de ampliar a seleção. A data updatedAt indica a revisão editorial do cadastro; não é a data do último post nem uma garantia de atividade. Atualizar este relatório junto dos JSONs quando houver novas evidências.
+Revisar mudanças de handle, links quebrados e alterações de foco antes de ampliar a seleção. A data updatedAt indica a revisão editorial do cadastro. Não é a data do último post nem uma garantia de atividade. Atualizar este relatório junto dos JSONs quando houver novas evidências.

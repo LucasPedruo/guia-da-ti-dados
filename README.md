@@ -1,6 +1,6 @@
 # Guia da TI — dados da comunidade
 
-Catálogo público que alimenta o [Guia da TI](https://github.com/guia-da-ti/guia-da-ti). O código do site fica no outro repositório; aqui a comunidade adiciona e corrige recursos.
+Catálogo público que alimenta o [Guia da TI](https://github.com/guia-da-ti/guia-da-ti). O código do site fica no outro repositório. Aqui você adiciona e corrige recursos.
 
 As empresas apoiadoras ficam na lista `supporters` de `community.json`. Cada registro contém `name`, `url` HTTPS e `description` curta, e passa por revisão por Pull Request. Os contribuidores são consultados automaticamente no GitHub pela aplicação, sem lista manual neste repositório.
 
